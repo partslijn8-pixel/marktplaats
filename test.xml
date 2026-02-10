@@ -11,26 +11,3 @@
     <admarkt:status>ACTIVE</admarkt:status>
   </admarkt:ad>
 </admarkt:ads>
-XMLEOF
-
-echo "Validating..." && xmllint --noout --schema /tmp/mp-xsd.xsd /tmp/test-feed.xml 2>&1 && echo "" && echo "File size:" && wc -c /tmp/test-feed.xml && echo "" && echo "Content:" && cat /tmp/test-feed.xml
-Validating...
-/tmp/test-feed.xml validates
-
-File size:
-617 /tmp/test-feed.xml
-
-Content:
-<?xml version="1.0" encoding="UTF-8"?>
-<admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
-  <admarkt:ad>
-    <admarkt:vendorId>TEST-001</admarkt:vendorId>
-    <admarkt:title>Test Auto Onderdeel</admarkt:title>
-    <admarkt:description>Dit is een test onderdeel voor Marktplaats feed validatie.</admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>5000</admarkt:price>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-  </admarkt:ad>
-</admarkt:ads>
