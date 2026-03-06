@@ -1080,10 +1080,10 @@
   <admarkt:ad>
     <admarkt:vendorId>A1776908700</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte zijskirt Mercedes-Benz A-Class 2018-2018 – A1776908700</admarkt:title>
+    <admarkt:title>Gebruikte zijskirt Mercedes-Benz A-Class 2018 – A1776908700</admarkt:title>
     <admarkt:description><![CDATA[Lange, grijze, gevormde kunststof/composiet zijskirt voor montage langs de onderzijde van het voertuig. Voorzien van meerdere bevestigingspunten langs de bovenrand en een gladde, licht gebogen buitenzijde. onderdeelnummer: A1776908700 Referentie: P-250907-0570]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-zijskirt-mercedes-benz-a-class-2018-2018-a1776908700/</admarkt:url>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-zijskirt-mercedes-benz-a-class-2018-a1776908700/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
     <admarkt:price>9000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
@@ -3512,14 +3512,14 @@
     <admarkt:mpn>S-250905-0488</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>S-250905-0487</admarkt:vendorId>
+    <admarkt:vendorId>5E38537612ZZ</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte motorkap Skoda Octavia (2019–)</admarkt:title>
-    <admarkt:description><![CDATA[Wit of lichtgrijze motorkap met een centraal embleem aan de voorrand. De motorkap heeft een glad, licht gebogen oppervlak. onderdeelnummer: NO_PART_NUMBER_FOUND Referentie: S-250905-0487]]></admarkt:description>
+    <admarkt:title>Gebruikte motorkap Skoda Octavia (2020) - 5E38537612ZZ</admarkt:title>
+    <admarkt:description><![CDATA[Wit of lichtgrijze motorkap met een centraal embleem aan de voorrand. De motorkap heeft een glad, licht gebogen oppervlak. onderdeelnummer: 5E38537612ZZ Referentie: S-250905-0487]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-motorkap-skoda-octavia-2019/</admarkt:url>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-motorkap-skoda-octavia-2020-5e38537612zz/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>15100</admarkt:price>
+    <admarkt:price>30000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -3549,7 +3549,7 @@
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>S-250905-0487</admarkt:mpn>
+    <admarkt:mpn>5E38537612ZZ</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>S-250905-0486</admarkt:vendorId>
@@ -3845,14 +3845,14 @@
     <admarkt:mpn>3AA823155</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>82724</admarkt:vendorId>
+    <admarkt:vendorId>57a823155</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte motorkap – 0082724</admarkt:title>
-    <admarkt:description><![CDATA[Zwarte motorkap met een centraal embleem aan de voorrand. Hoogglanzend en sterk reflecterend oppervlak. onderdeelnummer: 0082724 Referentie: S-250905-0476]]></admarkt:description>
+    <admarkt:title>Gebruikte motorkap voor Skoda Karoq 2017 – 57a823155</admarkt:title>
+    <admarkt:description><![CDATA[Zwarte motorkap met een centraal embleem aan de voorrand. Hoogglanzend en sterk reflecterend oppervlak. onderdeelnummer: 57a823155 Referentie: S-250905-0476]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-motorkap-0082724/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>25000</admarkt:price>
+    <admarkt:price>35000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -3882,7 +3882,7 @@
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>82724</admarkt:mpn>
+    <admarkt:mpn>57a823155</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8623474</admarkt:vendorId>
@@ -6506,47 +6506,6 @@
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>75851-53010</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>690870</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte zijskirt Tesla Model S – 690870</admarkt:title>
-    <admarkt:description><![CDATA[Lange, donkergrijze zijskirt van kunststof of composiet voor montage langs de onderzijde van de voertuigzijkant. Voorzien van meerdere geïntegreerde montagepunten/clips aan de onderzijde en een licht getextureerd oppervlak. Enkel, langwerpig onderdeel. onderdeelnummer: 690870 Referentie: P-250907-0596]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-zijskirt-tesla-model-s-690870/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>12000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/main-690870.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-690870-.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-690870-1-1.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-690870-1-2.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-690870-1-3.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-690870-1-4.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-690870-1-5.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>690870</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>80A807531</admarkt:vendorId>
@@ -9783,46 +9742,6 @@
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>71116788803</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>87310-IP500</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterklep sierlijst – 87310-IP500</admarkt:title>
-    <admarkt:description><![CDATA[Lange, slanke, zilverkleurige exterieur sierlijst met een opvallende chroomstrip over de lengte. De sierlijst heeft een licht gevormde vorm met verhoogde delen aan beide uiteinden. onderdeelnummer: 87310-IP500 Referentie: U-251020-1344]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-achterklep-sierlijst-87310-ip500/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>7500</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/main-87310-IP500.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-87310-IP500-.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-87310-IP500-1-1.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-87310-IP500-1-2.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-87310-IP500-1-3.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-87310-IP500-1-4.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>87310-IP500</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>5261833080</admarkt:vendorId>
@@ -15110,14 +15029,14 @@
     <admarkt:mpn>1K0853655A</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>A0008880100</admarkt:vendorId>
+    <admarkt:vendorId>A2048802483</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte front grille Mercedes-Benz C-Class (W204) – A0008880100</admarkt:title>
-    <admarkt:description><![CDATA[Chroom en zwarte front grille met diamantpatroon gaas en twee horizontale chroomlijsten. Voorzien van het Mercedes-Benz logo in het midden. onderdeelnummer: A0008880100 Referentie: U-251015-1158]]></admarkt:description>
+    <admarkt:title>Gebruikte front grille Mercedes-Benz C-Class (W204) – A2048802483</admarkt:title>
+    <admarkt:description><![CDATA[Chroom en zwarte front grille met diamantpatroon gaas en twee horizontale chroomlijsten. Voorzien van het Mercedes-Benz logo in het midden. onderdeelnummer: A2048802483 Referentie: U-251015-1158]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-front-grille-mercedes-benz-c-class-w204-a0008880100/</admarkt:url>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-front-grille-mercedes-benz-c-class-w204-a2048802483/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>6600</admarkt:price>
+    <admarkt:price>15000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -15149,7 +15068,7 @@
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>A0008880100</admarkt:mpn>
+    <admarkt:mpn>A2048802483</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8508210</admarkt:vendorId>
@@ -16496,14 +16415,14 @@
     <admarkt:mpn>11169075199</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>BR1509411</admarkt:vendorId>
+    <admarkt:vendorId>BGE130941T</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte veiligheidsgordel</admarkt:title>
-    <admarkt:description><![CDATA[Zwarte autoveiligheidsgordel inclusief gordelband, gordeltong (metalen deel) en een deel van het oprolmechanisme. onderdeelnummer: BR1509411 Referentie: U-251013-1108]]></admarkt:description>
+    <admarkt:title>Gebruikte Spanbandveiligheid rechtsachter MAZDA 6 GJ III BGE130941T</admarkt:title>
+    <admarkt:description><![CDATA[Zwarte autoveiligheidsgordel inclusief gordelband, gordeltong (metalen deel) en een deel van het oprolmechanisme. onderdeelnummer: BGE130941T Referentie: U-251013-1108]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-veiligheidsgordel/</admarkt:url>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-spanbandveiligheid-rechtsachter-mazda-6-gj-iii-bge130941t/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>4000</admarkt:price>
+    <admarkt:price>6000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -16530,7 +16449,7 @@
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>BR1509411</admarkt:mpn>
+    <admarkt:mpn>BGE130941T</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>61319189065</admarkt:vendorId>
@@ -17665,7 +17584,7 @@
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-transmissieregelunit-mercedes-benz-e-class-2009-2017-a2129006518/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>7999</admarkt:price>
+    <admarkt:price>2500</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -18288,12 +18207,12 @@
   <admarkt:ad>
     <admarkt:vendorId>A1768882180</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte radiatorgrille Mercedes-Benz A-Class (W176) 2012-2015 – A1768882180</admarkt:title>
+    <admarkt:title>Gebruikte radiatorgrille Mercedes-Benz A-Class (W176) 2015 – A1768882180</admarkt:title>
     <admarkt:description><![CDATA[Radiatorgrille voorzijde met diamantpatroon gaas en meerdere kleine chroom-/zilverkleurige accenten. Zwart kunststof uitvoering met grote ronde opening in het midden voor een embleem. onderdeelnummer: A1768882180 Referentie: U-251015-1138]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-radiatorgrille-mercedes-benz-a-class-w176-2012-2015-a1768882180/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>10029</admarkt:price>
+    <admarkt:price>25000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -19459,7 +19378,7 @@
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-motorkapscharnier-mercedes-benz-c-class-w204-2007-2015-a2048800828/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>2500</admarkt:price>
+    <admarkt:price>4500</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -20649,43 +20568,6 @@
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>23151</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>T-250915-0858</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte zijskirt</admarkt:title>
-    <admarkt:description><![CDATA[Geen auto-onderdeel zichtbaar op de aangeleverde afbeeldingen. De foto’s tonen een vlak, lichtgrijs, getextureerd oppervlak met kleine krasjes en puntjes. onderdeelnummer: NO_PART_NUMBER_FOUND Referentie: T-250915-0858]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-zijskirt-2/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>500</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/main-T-250915-0858.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-T-250915-0858-.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-T-250915-0858-1-1.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>T-250915-0858</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>850170388R</admarkt:vendorId>
@@ -23008,12 +22890,12 @@
   <admarkt:ad>
     <admarkt:vendorId>A2048107293</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte rechter buitenspiegel Mercedes-Benz C-Class (W204) 2009-2015 – A2048107293</admarkt:title>
+    <admarkt:title>Gebruikte rechter buitenspiegel Mercedes-Benz C-Class (W204) 2014 – A2048107293</admarkt:title>
     <admarkt:description><![CDATA[Complete rechter buitenspiegel. Zilver/grijs gespoten behuizing met geïntegreerde LED-knipperlichtunit en zwarte voet. Inclusief elektrische bedrading. onderdeelnummer: A2048107293 Referentie: P-250915-0870]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-rechter-buitenspiegel-mercedes-benz-c-class-w204-2009-2015-a2048107293/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>19999</admarkt:price>
+    <admarkt:price>15000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -26346,12 +26228,12 @@
   <admarkt:ad>
     <admarkt:vendorId>A2045200723</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte motorscherm Mercedes-Benz C-Class 2007-2014</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikt motorscherm voor Mercedes-Benz C-Class (2007-2014). onderdeelnummer: A2045200723 Referentie: P-250910-0695]]></admarkt:description>
+    <admarkt:title>Gebruikte MERCEDES-BENZ C-KLASSE W204 MOTORBODEMBEKLEDING A2045200723</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikt MOTORBODEMBEKLEDING voor Mercedes-Benz C-Class onderdeelnummer: A2045200723 Referentie: P-250910-0695]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-motorscherm-mercedes-benz-c-class-2007-2014/</admarkt:url>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-mercedes-benz-c-klasse-w204-motorbodembekleding-a2045200723/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>13000</admarkt:price>
+    <admarkt:price>8000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -27144,12 +27026,12 @@
   <admarkt:ad>
     <admarkt:vendorId>A2045050188</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte radiatorsteun Mercedes-Benz C-Class (W204) 2007-2014 – A2045050188</admarkt:title>
+    <admarkt:title>Gebruikte complete set radiatorsteun Mercedes-Benz C-Class (W204) 2007-2014 – A2045050188</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte radiatorsteun voor Mercedes-Benz C-Class (W204), bouwjaren 2007-2014. onderdeelnummer: A2045050188 Referentie: P-250910-0665]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-radiatorsteun-mercedes-benz-c-class-w204-2007-2014-a2045050188/</admarkt:url>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-complete-set-radiatorsteun-mercedes-benz-c-class-w204-2007-2014-a2045050188/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>4057</admarkt:price>
+    <admarkt:price>15000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -27688,10 +27570,10 @@
   <admarkt:ad>
     <admarkt:vendorId>P-250909-0638</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte zijskirt</admarkt:title>
-    <admarkt:description><![CDATA[Lange zijskirt in donkergrijs/zilver metallic, bedoeld voor montage langs de zijkant van een voertuig onder de deuren. Gebruikt onderdeel met lichte gebruikssporen en meerdere uitsparingen en bevestigingspunten aan de onderzijde. onderdeelnummer: NO_PART_NUMBER_FOUND Referentie: P-250909-0638]]></admarkt:description>
+    <admarkt:title>Gebruikte Mercedes B-klasse W246 rechter zijskirts 2012 tot 2014 A2466901440</admarkt:title>
+    <admarkt:description><![CDATA[Lange zijskirt in donkergrijs/zilver metallic, bedoeld voor montage langs de zijkant van een voertuig onder de deuren. Gebruikt onderdeel met lichte gebruikssporen en meerdere uitsparingen en bevestigingspunten aan de onderzijde. onderdeelnummer: A2466901440 Referentie: P-250909-0638]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-zijskirt/</admarkt:url>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-mercedes-b-klasse-w246-rechter-zijskirts-2012-tot-2014-a2466901440/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
     <admarkt:price>7500</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
@@ -27815,7 +27697,7 @@
   <admarkt:ad>
     <admarkt:vendorId>A1726980354</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte zijskirt Mercedes-Benz SLK-Class 2011-2020 – A1726980354</admarkt:title>
+    <admarkt:title>Gebruikte zijskirt Mercedes-Benz SLK-Class 2014 – A1726980354</admarkt:title>
     <admarkt:description><![CDATA[Zilverkleurige zijskirt (rocker panel) voor montage langs de onderzijde van het voertuig, onder de deuren. Links. onderdeelnummer: A1726980354 Referentie: P-250909-0634]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-zijskirt-mercedes-benz-slk-class-2011-2020-a1726980354/</admarkt:url>
@@ -29205,10 +29087,10 @@
     <admarkt:mpn>04L103925T</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>84531738</admarkt:vendorId>
+    <admarkt:vendorId>94531738</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte radiateurafdekking Opel Mokka X en Vauxhall Mokka X 2016-2020 – 84531738</admarkt:title>
-    <admarkt:description><![CDATA[Zwarte kunststof radiateurafdekking met complex gevormde structuur, meerdere uitsparingen, montagegaten en geribde delen. onderdeelnummer: 84531738 Referentie: P-250910-0669]]></admarkt:description>
+    <admarkt:title>Gebruikte radiateurafdekking Opel Mokka X en Vauxhall Mokka X 2016-2020 – 94531738</admarkt:title>
+    <admarkt:description><![CDATA[Zwarte kunststof radiateurafdekking met complex gevormde structuur, meerdere uitsparingen, montagegaten en geribde delen. onderdeelnummer: 94531738 Referentie: P-250910-0669]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-radiateurafdekking-opel-mokka-x-and-vauxhall-mokka-x-2016-2020-84531738/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -29239,7 +29121,7 @@
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>84531738</admarkt:mpn>
+    <admarkt:mpn>94531738</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>KD53-51W21</admarkt:vendorId>
@@ -29650,12 +29532,12 @@
   <admarkt:ad>
     <admarkt:vendorId>95164505</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte wielkast sierlijst GM Trax 2013-2022 – 95164505</admarkt:title>
+    <admarkt:title>Gebruikte Opel Mokka X Wielkastbekleding linksachter – 95164505</admarkt:title>
     <admarkt:description><![CDATA[Gebogen zwarte rubberen/kunststof strip met specifiek profiel en uitgesproken kromming. onderdeelnummer: 95164505 Referentie: P-250909-0631]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-wielkast-sierlijst-gm-trax-2013-2022-95164505/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>8400</admarkt:price>
+    <admarkt:price>3000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
