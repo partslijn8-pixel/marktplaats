@@ -1,6 +1,2029 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
+    <admarkt:vendorId>3451 9807162</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>ABS Pomp / DSC Module Mini F55 F56 F57 2007-2008</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een gebruikte <strong>ABS Pomp / DSC Module</strong>, een cruciaal onderdeel voor de veiligheid en stabiliteit van uw voertuig.</p><p>Dit onderdeel is specifiek geschikt voor de <strong>Mini F55, F56 en F57</strong> modellen, geproduceerd tussen <strong>2007 en 2008</strong>. Wij adviseren u altijd het onderdeelnummer te vergelijken met uw huidige module om een perfecte match te garanderen.<br><br> onderdeelnummer: 3451 9807162<br> Referentie: U-251108-1518</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/abs-pomp-dsc-module-mini-f55-f56-f57-2007-2008/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4284</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02767.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02768.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02769.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02770.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02771.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>3451 9807162</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>6 859 407-02</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Motorsteun BMW 1, 2, 3, 4 Serie, X3, X4 (2010-2020)</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte motorsteun</strong> is afkomstig van een BMW en verkeert in goede staat. Het onderdeel is zorgvuldig gecontroleerd en gereed voor een tweede leven in uw voertuig.</p><p>Ideaal voor vervanging van een defecte of versleten motorsteun, en een kosteneffectieve oplossing.<br><br> onderdeelnummer: 6 859 407-02<br> Referentie: U-251108-1517</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-motorsteun-bmw-1-2-3-4-serie-x3-x4-2010-2020/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7650</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02762.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02763.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02764.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02765.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02766.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>6 859 407-02</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A6540904902</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Intercooler Mercedes-Benz (Gebruikt) - Controleer Compatibiliteit</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte intercooler</strong> voor Mercedes-Benz voertuigen.</p><p>Dit onderdeel is zorgvuldig gedemonteerd en verkeert in goede, werkende staat, met normale gebruikssporen passend bij de leeftijd. Ideaal als voordelige vervanging of reserveonderdeel.</p><p><strong>Belangrijk:</strong> Controleer altijd het onderdeelnummer of de specificaties om compatibiliteit met uw specifieke model te garanderen.<br><br> onderdeelnummer: A6540904902<br> Referentie: U-251106-1514</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/intercooler-mercedes-benz-gebruikt-controleer-compatibiliteit/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>10350</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02744.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02745.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02746-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02747.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02748.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02749.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A6540904902</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A 651 905 03 00</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte EGR Klep met Koeler Mercedes-Benz OM651 (2009-2018)</admarkt:title>
+    <admarkt:description><![CDATA[<p>Hierbij bieden wij een <strong>gebruikte EGR klep met koeler</strong> aan, specifiek ontworpen voor diverse Mercedes-Benz modellen uitgerust met de betrouwbare <strong>OM651 motor</strong>.</p> <p>Dit onderdeel is zorgvuldig gecontroleerd en functioneert naar behoren, ideaal als voordelige vervanging. Belangrijke kenmerken:</p> <ul> <li>Geschikt voor Mercedes-Benz met OM651 motor</li> <li>Bouwjaar: 2009-2018</li> <li>Getest en functioneel</li> </ul> <p>Controleer altijd het onderdeelnummer en de compatibiliteit met uw voertuig voordat u bestelt.<br><br> onderdeelnummer: A 651 905 03 00<br> Referentie: U-251106-1512</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-egr-klep-met-koeler-mercedes-benz-om651-2009-2018/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7650</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02732.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02733.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02734.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02735.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02736.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02737.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A 651 905 03 00</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>YN-MID 94101-1P130</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Dashboard Display Toyota (Model/Bouwjaar Onbekend)</admarkt:title>
+    <admarkt:description><![CDATA[<p><strong>Gebruikt Dashboard Display voor Toyota</strong></p><p>Dit originele, gebruikte dashboard display is afkomstig van een Toyota voertuig. Het onderdeel is zorgvuldig gedemonteerd en gecontroleerd op zichtbare schade en functionaliteit (voor zover mogelijk zonder voertuig).</p><p>Aangezien het exacte model en bouwjaar van de donorauto onbekend zijn, is het <strong>essentieel dat u de compatibiliteit zelf verifieert</strong>. Vergelijk de foto's en eventuele onderdeelnummers nauwkeurig met uw huidige display of raadpleeg een specialist om er zeker van te zijn dat dit het juiste onderdeel is voor uw auto.<br><br> onderdeelnummer: YN-MID 94101-1P130<br> Referentie: U-251109-1552</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/dashboard-display-toyota-model-bouwjaar-onbekend/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7650</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02971.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02972.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02973.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02974.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02975.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02976.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>YN-MID 94101-1P130</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>6Q6955711</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Ruitenwissermotor Volkswagen Polo MK4 (2001-2005) - 6Q6955711</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte ruitenwissermotor</strong> (onderdeelnummer 6Q6955711) is afkomstig van een Volkswagen Polo MK4 uit de bouwjaren 2001-2005. Het onderdeel is grondig gecontroleerd en verkeert in goede, werkende staat, klaar voor een tweede leven in uw auto.</p><p>Een betrouwbare en kosteneffectieve oplossing om uw defecte ruitenwissermotor te vervangen. Controleer altijd het onderdeelnummer om zeker te zijn van de juiste pasvorm voor uw voertuig.<br><br> onderdeelnummer: 6Q6955711<br> Referentie: U-251109-1551</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/ruitenwissermotor-volkswagen-polo-mk4-2001-2005-6q6955711/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>1700</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02965.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02966.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02967.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02968-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02969.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>6Q6955711</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>U-251106-1509</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Turbocharger Volkswagen Tiguan</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte turbocharger</strong> voor de Volkswagen Tiguan.</p><p>Dit onderdeel is zorgvuldig gedemonteerd en is een kosteneffectieve oplossing voor uw reparatie. Hoewel de exacte staat en het bouwjaar onbekend zijn, is het klaar voor een tweede leven.</p><p>Wij adviseren u dringend om de compatibiliteit te controleren aan de hand van uw eigen onderdeelnummer en de meegeleverde foto's, aangezien specifieke modeljaren en compatibele voertuigen niet gespecificeerd kunnen worden.<br><br> onderdeelnummer: <br> Referentie: U-251106-1509</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-turbocharger-volkswagen-tiguan/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>19800</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02708.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02709.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02710.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02711.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02712.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02713-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02714-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02715.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02716.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02717.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02718.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02719.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02720.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02721.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251106-1509</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>72-2450-CD</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Rembekrachtiger Jaguar XJ (2013-2019)</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte rembekrachtiger</strong> voor de Jaguar XJ, specifiek voor modellen geproduceerd tussen 2013 en 2019.</p><p>Dit essentiële onderdeel voor uw remsysteem is zorgvuldig gecontroleerd en verkeert in goede staat, klaar voor een tweede leven in uw voertuig. Het biedt een duurzame en kosteneffectieve oplossing om de remprestaties van uw Jaguar te herstellen.<br><br> onderdeelnummer: 72-2450-CD<br> Referentie: U-251106-1502</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-rembekrachtiger-jaguar-xj-2013-2019/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>9000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02650.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02651.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02652-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02653.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02654-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02655-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02656.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02657.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02658-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>72-2450-CD</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>84.10 9 329 339-01</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Telematica Control Unit (TCU) BMW</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte Telematica Control Unit (TCU)</strong> is afkomstig van een BMW en verkeert in goede staat. Een TCU is cruciaal voor communicatie- en telematicadiensten in uw voertuig.</p><p>Aangezien specifieke model- en jaarinformatie onbekend zijn, is het <strong>essentieel dat u zelf de compatibiliteit controleert</strong>. Wij adviseren u dringend om:</p><ul><li>Het onderdeelnummer op uw huidige unit te vergelijken met de foto's en/of het nummer van deze unit.</li><li>Contact op te nemen met uw dealer of een specialist bij twijfel.</li></ul><p>Alleen zo bent u verzekerd van een correcte werking in uw BMW.<br><br> onderdeelnummer: 84.10 9 329 339-01<br> Referentie: U-251105-1440</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-telematica-control-unit-tcu-bmw/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7650</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02317.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02318.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02319.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02320.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>84.10 9 329 339-01</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>U-251105-1437</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Klimaatregelingsunit Opel</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte klimaatregelingsunit</strong> voor Opel voertuigen.</p><p>Dit onderdeel is zorgvuldig gedemonteerd en gecontroleerd op werking. Het is een ideale en kosteneffectieve oplossing om een defecte unit in uw Opel te vervangen.</p><p>Gezien de onbekende jaarreeks en specifieke modellen, adviseren wij u dringend om de compatibiliteit met uw voertuig te verifiëren aan de hand van het onderdeelnummer en de gedetailleerde productfoto's voordat u tot aankoop overgaat.<br><br> onderdeelnummer: <br> Referentie: U-251105-1437</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/klimaatregelingsunit-opel/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2924</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02300.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02301.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02302.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251105-1437</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>U-251109-1563</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Koplamp Toyota C-HR 2019-2024</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een originele, gebruikte koplamp voor de <strong>Toyota C-HR</strong>, geschikt voor modellen geproduceerd tussen <strong>2019 en 2024</strong>.</p><p>Dit onderdeel is zorgvuldig gedemonteerd en verkeert in goede, functionele staat. Het is een ideale en kosteneffectieve oplossing ter vervanging van een beschadigde koplamp.<br><br> onderdeelnummer: <br> Referentie: U-251109-1563</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/koplamp-toyota-c-hr-2019-2024/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5940</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03052.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03053.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03054.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03055.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03056.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03057.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03058-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251109-1563</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>JX63-14F498-AB</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Kachelbedieningspaneel Jaguar XF 2016-2020</admarkt:title>
+    <admarkt:description><![CDATA[<p>Dit is een <strong>gebruikt kachelbedieningspaneel</strong> (Heater Control Module) voor de Jaguar XF, specifiek voor modellen geproduceerd tussen 2016 en 2020.</p><p>De module is grondig gecontroleerd en getest op functionaliteit, en verkeert in goede staat voor hergebruik. Het is een perfecte oplossing om een defect of beschadigd origineel onderdeel te vervangen en de klimaatregeling in uw voertuig te herstellen.<br><br> onderdeelnummer: JX63-14F498-AB<br> Referentie: U-251109-1562</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/kachelbedieningspaneel-jaguar-xf-2016-2020/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>1809</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03044.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03045.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03046.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03047.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>JX63-14F498-AB</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>U-251109-1561</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Zekeringkast BMW 325i (2002)</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een gebruikte <strong>zekeringkast</strong>, specifiek voor de BMW 325i uit het bouwjaar 2002.</p><p>Dit essentiële elektrische onderdeel is zorgvuldig gedemonteerd en functioneert naar behoren. Een betrouwbare vervanging voor uw defecte of beschadigde zekeringkast.</p><p>Controleer altijd de compatibiliteit met uw voertuig aan de hand van het onderdeelnummer of de visuele kenmerken.<br><br> onderdeelnummer: <br> Referentie: U-251109-1561</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/zekeringkast-bmw-325i-2002/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5380</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03035.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03036.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03037.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03038.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03039.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03040.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03041.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251109-1561</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>97825001</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Kachelventilator Mercedes-Benz C-Klasse W204 (2008-2014)</admarkt:title>
+    <admarkt:description><![CDATA[<p>Te koop aangeboden: een <strong>gebruikte kachelventilator</strong> voor de Mercedes-Benz C-Klasse W204, specifiek voor modellen geproduceerd tussen 2008 en 2014.</p><p>Dit essentiële HVAC-onderdeel is zorgvuldig getest en verkeert in goede, werkende staat, klaar voor een tweede leven in uw auto. Om de juiste pasvorm te garanderen, adviseren wij u dringend het onderdeelnummer van uw huidige kachelventilator te vergelijken met dit exemplaar.<br><br> onderdeelnummer: 97825001<br> Referentie: U-251109-1558</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/kachelventilator-mercedes-benz-c-klasse-w204-2008-2014/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4410</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03021.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03022.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03023.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03024.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03025.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>97825001</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>9232 432-02</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikt Instrumentenpaneel / Tellerklok BMW 328I (2007-2019)</admarkt:title>
+    <admarkt:description><![CDATA[<p><strong>Gebruikt Instrumentenpaneel / Tellerklok voor BMW 328I (2007-2019)</strong></p><p>Dit originele instrumentenpaneel is zorgvuldig gedemonteerd en gecontroleerd op functionaliteit. Hoewel het in goede staat verkeert, kunnen er lichte gebruikssporen aanwezig zijn die passen bij een tweedehands product. Het is een betrouwbaar vervangend onderdeel voor uw BMW 328I uit de bouwjaren 2007-2019.<br><br> onderdeelnummer: 9232 432-02<br> Referentie: U-251109-1557</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-instrumentenpaneel-tellerklok-bmw-328i-2007-2019/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5750</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03012.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03013.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03014.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03015.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03016.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03017.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03018.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03019.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>9232 432-02</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>W000027366</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Ruitenwissermotor Opel Zafira 2013-2019</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte ruitenwissermotor</strong> is specifiek geschikt voor de Opel Zafira modellen geproduceerd tussen 2013 en 2019. Het onderdeel is zorgvuldig gecontroleerd op functionaliteit en verkeert in goede staat, klaar voor een tweede leven in uw voertuig. Ideaal als voordelige vervanging voor een defecte motor.<br><br> onderdeelnummer: W000027366<br> Referentie: U-251109-1547</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/ruitenwissermotor-opel-zafira-2013-2019/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3418</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02939.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02940.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02941.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02942.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>W000027366</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>7620987</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte ECU Motorregelapparaat BMW Mini Cooper 2011</admarkt:title>
+    <admarkt:description><![CDATA[<p>Dit is een <strong>gebruikt motorregelapparaat (ECU)</strong>, specifiek voor een BMW Mini Cooper uit het bouwjaar 2011.</p><p>De ECU is een essentieel onderdeel voor de aansturing van de motor en diverse voertuigfuncties. Dit onderdeel is zorgvuldig gedemonteerd en gecontroleerd op functionaliteit.</p><p><strong>Belangrijke opmerking:</strong></p><ul><li>Controleer altijd het onderdeelnummer van uw huidige ECU om compatibiliteit te garanderen.</li><li>De compatibiliteit met andere modellen dan de Mini Cooper 2011 is onbekend.</li></ul><br><br> onderdeelnummer: 7620987<br> Referentie: U-251109-1545]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-ecu-motorregelapparaat-bmw-mini-cooper-2011/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>1757</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02929.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02930.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02931.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02932.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02933.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>7620987</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A6519003701</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikt Motorregelapparaat (ECU) Mercedes-Benz E-Klasse W212</admarkt:title>
+    <admarkt:description><![CDATA[<p>Hierbij bieden wij een <strong>gebruikt motorregelapparaat (ECU)</strong> aan, specifiek voor de Mercedes-Benz E-Klasse W212.</p><p>Dit onderdeel is zorgvuldig getest en functioneert naar behoren. Gezien de variëteit in uitvoeringen en bouwjaren, is het essentieel om de compatibiliteit te verifiëren aan de hand van het onderdeelnummer van uw huidige ECU.<br><br> onderdeelnummer: A6519003701<br> Referentie: U-251109-1544</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-motorregelapparaat-ecu-mercedes-benz-e-klasse-w212/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>1349</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02924.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02925.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02926.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02927.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A6519003701</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A 166 900 27 00</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Elektronische Parkeerrem Module Mercedes-Benz W166 (2012-2020)</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte elektronische parkeerrem module</strong> is een origineel onderdeel, specifiek ontworpen voor de Mercedes-Benz W166 modellen geproduceerd tussen 2012 en 2020. Het betreft een cruciaal onderdeel voor de correcte werking van uw elektronische parkeerrem systeem.</p><p>Hoewel dit onderdeel zorgvuldig is gecontroleerd op functionaliteit, raden wij u ten zeerste aan om het onderdeelnummer van uw huidige module te vergelijken met dit exemplaar om 100% compatibiliteit te garanderen. Dit voorkomt onnodige installatieproblemen en zorgt ervoor dat u het juiste onderdeel voor uw voertuig ontvangt.<br><br> onderdeelnummer: A 166 900 27 00<br> Referentie: U-251109-1538</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/elektronische-parkeerrem-module-mercedes-benz-w166-2012-2020/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>1713</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02891.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02892.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02893.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A 166 900 27 00</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>9253767-01</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Stuurkolomschakelaar BMW</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte stuurkolomschakelaar</strong> voor uw BMW.</p><p>Dit essentiële onderdeel is zorgvuldig gedemonteerd en gecontroleerd op functionaliteit, klaar voor een tweede leven in uw voertuig. Ideaal voor de vervanging van een defecte schakelaar.</p><p><strong>Belangrijk:</strong> Controleer altijd de onderdeelnummers en foto's zorgvuldig om compatibiliteit met uw specifieke BMW-model en bouwjaar te garanderen.<br><br> onderdeelnummer: 9253767-01<br> Referentie: U-251109-1537</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-stuurkolomschakelaar-bmw/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02885.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02886.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02887-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02888.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02889.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>9253767-01</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>U-251109-1536</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Airbag BMW 320i</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een gebruikte airbag, geschikt voor diverse BMW 320i modellen. Dit onderdeel is zorgvuldig gedemonteerd en verkeert in goede, bruikbare staat.</p><p>Het is essentieel dat u de <strong>compatibiliteit</strong> van dit onderdeel met uw specifieke voertuig controleert. Vergelijk het onderdeelnummer en de foto's zorgvuldig voordat u tot aankoop overgaat, aangezien het exacte bouwjaar en de compatibele modellen onbekend zijn.<br><br> onderdeelnummer: <br> Referentie: U-251109-1536</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/airbag-bmw-320i/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5130</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02877.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02878.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02879.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02880.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02881.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02882.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02883.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251109-1536</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>U-251109-1535</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Airbag Module Mini Cooper 2002-2024</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte airbag module</strong> is een essentieel veiligheidsonderdeel voor uw <strong>Mini Cooper</strong>, geschikt voor modellen van bouwjaar <strong>2002 tot en met 2024</strong>.</p><p>Het betreft een zorgvuldig gecontroleerd, origineel onderdeel. Wij adviseren altijd om het onderdeelnummer te vergelijken met uw huidige module voor een gegarandeerde compatibiliteit.</p><p><strong>Productdetails:</strong></p><ul><li>Type: Airbag Module</li><li>Merk: Mini</li><li>Model: Cooper</li><li>Bouwjaar: 2002-2024</li><li>Conditie: Gebruikt, functioneel getest</li></ul><br><br> onderdeelnummer: <br> Referentie: U-251109-1535]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-airbag-module-mini-cooper-2002-2024/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>11700</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02873.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02874.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02875.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251109-1535</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>66.21-3 450 085</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte BMW PDC Regelapparaat (Park Distance Control Module)</admarkt:title>
+    <admarkt:description><![CDATA[<p><strong>Gebruikte BMW PDC Regelapparaat</strong></p><p>Dit is een getest en functioneel PDC (Park Distance Control) regelapparaat, afkomstig van een gedemonteerde BMW. Het is een ideaal vervangend onderdeel voor uw defecte module en klaar voor directe montage.</p><p>Aangezien het exacte model en bouwjaar van de donorauto onbekend zijn, is het essentieel dat u het onderdeelnummer van dit product zorgvuldig vergelijkt met dat van uw huidige module om compatibiliteit te garanderen.<br><br> onderdeelnummer: 66.21-3 450 085<br> Referentie: U-251109-1534</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-bmw-pdc-regelapparaat-park-distance-control-module/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7650</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02869.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02870.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02871.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>66.21-3 450 085</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>U-251109-1533</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Airbag Kia Optima</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>originele, gebruikte airbag</strong> voor de Kia Optima. Dit essentiële veiligheidsonderdeel verkeert in goede staat en is direct klaar voor montage als vervangend onderdeel.</p><p>Ideaal voor het herstellen van uw voertuig na schade of ter vervanging van een defecte airbag. Wij adviseren u dringend om het onderdeelnummer te vergelijken met uw huidige onderdeel of contact op te nemen voor compatibiliteit, aangezien specifieke modeljaren kunnen variëren.<br><br> onderdeelnummer: <br> Referentie: U-251109-1533</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-airbag-kia-optima/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>12600</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02862.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02863.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02864.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02865.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02866.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02867.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251109-1533</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A 212 900 34 08</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Brandstofpomp Regelmodule Mercedes-Benz</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte brandstofpomp regelmodule</strong> voor Mercedes-Benz voertuigen.</p><p>Dit essentiële onderdeel regelt de brandstoftoevoer naar de motor, wat cruciaal is voor een optimale motorprestatie. Aangezien het exacte bouwjaar en de compatibele modellen onbekend zijn, is het van groot belang dat u de compatibiliteit met uw specifieke Mercedes-Benz model zorgvuldig controleert aan de hand van het onderdeelnummer of door een specialist te raadplegen.<br><br> onderdeelnummer: A 212 900 34 08<br> Referentie: U-251109-1531</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-brandstofpomp-regelmodule-mercedes-benz/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4204</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02853.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02854.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02855.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02856.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A 212 900 34 08</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>U-251109-1530</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikt HVAC Bedieningspaneel / Klimaatregelingseenheid voor MINI Mini Cooper</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikt HVAC bedieningspaneel / klimaatregelingseenheid</strong>, specifiek voor de MINI Mini Cooper.</p><p>Dit onderdeel is zorgvuldig gedemonteerd en gecontroleerd op functionaliteit, hoewel lichte gebruikssporen aanwezig kunnen zijn. Ideaal als vervangend onderdeel om de klimaatregeling in uw Mini Cooper weer optimaal te laten werken.</p><p><strong>Belangrijk:</strong> Controleer altijd het onderdeelnummer en de foto's zorgvuldig om compatibiliteit met uw specifieke model en bouwjaar te garanderen.<br><br> onderdeelnummer: <br> Referentie: U-251109-1530</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-hvac-bedieningspaneel-klimaatregelingseenheid-voor-mini-mini-cooper/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5984</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02846.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02847.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02848.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02849.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02850.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02851.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251109-1530</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A 172 240 13 17 01</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Motorsteun Mercedes-Benz - Onbekend Model/Jaar</admarkt:title>
+    <admarkt:description><![CDATA[<p><strong>Gebruikte Motorsteun voor Mercedes-Benz</strong></p><p>Deze robuuste motorsteun is afkomstig van een gedemonteerde Mercedes-Benz en verkeert in goede, bruikbare staat. Het onderdeel is grondig geïnspecteerd op slijtage en functionaliteit, en is klaar voor een tweede leven in uw voertuig.</p><p>Aangezien het exacte model en bouwjaar onbekend zijn, is het cruciaal dat u de compatibiliteit met uw specifieke Mercedes-Benz model zorgvuldig controleert aan de hand van de productafbeeldingen en eventuele onderdeelnummers. Dit onderdeel is een kosteneffectieve oplossing voor een defecte motorsteun.<br><br> onderdeelnummer: A 172 240 13 17 01<br> Referentie: U-251108-1525</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-motorsteun-mercedes-benz-onbekend-model-jaar/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7650</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02811.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02812.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02813.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02814.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A 172 240 13 17 01</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A 172 90140 00</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte ABS Pomp Mercedes-Benz (Model/Jaar Onbekend)</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte ABS Pomp</strong> van het merk Mercedes-Benz. Dit essentiële veiligheidsonderdeel is zorgvuldig gedemonteerd en visueel gecontroleerd op eventuele beschadigingen.</p><p>Gezien het exacte model en bouwjaar van de donorauto onbekend zijn, is het van cruciaal belang dat u de compatibiliteit met uw voertuig grondig controleert. Wij adviseren u dringend om het onderdeelnummer van uw huidige ABS pomp te vergelijken met de nummers op de foto's van dit product om een correcte match te garanderen.</p><ul><li><strong>Staat:</strong> Gebruikt, gecontroleerd</li><li><strong>Merk:</strong> Mercedes-Benz</li><li><strong>Type:</strong> ABS Pomp</li><li><strong>Let op:</strong> Compatibiliteit dient door de koper geverifieerd te worden aan de hand van onderdeelnummers.</li></ul><br><br> onderdeelnummer: A 172 90140 00<br> Referentie: U-251108-1524]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-abs-pomp-mercedes-benz-model-jaar-onbekend/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7650</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02804.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02805-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02806.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02807-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02808.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02809.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A 172 90140 00</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>35320-2B420</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Hogedruk Brandstofpomp Hyundai Tucson 2015-2023</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte hogedruk brandstofpomp</strong> is specifiek geschikt voor de Hyundai Tucson modellen geproduceerd tussen 2015 en 2023. Het onderdeel is zorgvuldig gecontroleerd en verkeert in goede, werkende staat.</p><p>Ideaal als vervangingsonderdeel om de brandstoftoevoer van uw voertuig weer optimaal te laten functioneren. Controleer altijd het onderdeelnummer van uw huidige pomp voor de beste compatibiliteit.<br><br> onderdeelnummer: 35320-2B420<br> Referentie: U-251108-1521</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/hogedruk-brandstofpomp-hyundai-tucson-2015-2023/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>17415</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02786.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02787.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02788.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>35320-2B420</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A0995001100</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Oliekoeler Mercedes-Benz</admarkt:title>
+    <admarkt:description><![CDATA[<p>Bent u op zoek naar een <strong>betrouwbare, gebruikte oliekoeler</strong> voor uw Mercedes-Benz? Deze originele Mercedes-Benz oliekoeler is zorgvuldig geïnspecteerd en verkeert in goede, werkende staat, klaar voor een tweede leven in uw voertuig.</p><p>Hoewel het exacte model en bouwjaar onbekend zijn, garanderen wij de functionaliteit van dit onderdeel. Controleer altijd het onderdeelnummer van uw huidige oliekoeler of neem contact op met onze klantenservice voor compatibiliteit.<br><br> onderdeelnummer: A0995001100<br> Referentie: U-251106-1498</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-oliekoeler-mercedes-benz/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7650</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02625.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02626.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02627.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A0995001100</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>7128780.0</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte ABS Pomp BMW</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte ABS pomp</strong> is afkomstig van een BMW. Het onderdeel is zorgvuldig gedemonteerd en visueel gecontroleerd op eventuele beschadigingen, en wordt aangeboden als functioneel.</p><p>Gezien de onbekende herkomst (model en bouwjaar), is het van cruciaal belang dat u de compatibiliteit zelf controleert. Vergelijk altijd het onderdeelnummer van deze pomp met dat van uw huidige ABS pomp om een correcte werking te garanderen.<br><br> onderdeelnummer: 7128780.0<br> Referentie: U-251106-1495</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-abs-pomp-bmw/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7650</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02609.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02610.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02611.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02612.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02613-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>7128780.0</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A 204 240 47 17 Q1</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Motorsteun Mercedes-Benz C-Klasse W204</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een gebruikte <strong>motorsteun</strong> voor uw Mercedes-Benz C-Klasse (W204).</p><p>Dit onderdeel is zorgvuldig gedemonteerd en gecontroleerd op functionaliteit. Hoewel het een gebruikt onderdeel betreft, verkeert het in goede staat en is het klaar voor een tweede leven in uw voertuig. Controleer altijd het onderdeelnummer of de foto's om er zeker van te zijn dat dit de juiste motorsteun is voor uw specifieke model en bouwjaar.<br><br> onderdeelnummer: A 204 240 47 17 Q1<br> Referentie: U-251106-1490</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/motorsteun-mercedes-benz-c-klasse-w204/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>1937</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02580.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02581.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A 204 240 47 17 Q1</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A 000 906 04 01</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Dynamo Mercedes-Benz</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte dynamo</strong> voor Mercedes-Benz voertuigen. Dit onderdeel is zorgvuldig gecontroleerd en functioneert naar behoren, ideaal als voordelige vervanging voor uw defecte dynamo.</p><p>Gezien het onbekende model en bouwjaar, is het essentieel om de compatibiliteit met uw specifieke voertuig te controleren. Vergelijk altijd het onderdeelnummer of raadpleeg een specialist voor aankoop om teleurstelling te voorkomen.<br><br> onderdeelnummer: A 000 906 04 01<br> Referentie: U-251106-1488</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-dynamo-mercedes-benz/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7650</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02572.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02573.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02574.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A 000 906 04 01</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>2762300365</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Vacuümpomp Mercedes-Benz SL450 GLE350 2014-2019</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte vacuümpomp</strong> is specifiek afkomstig van een Mercedes-Benz SL450 of GLE350 modellen geproduceerd tussen 2014 en 2019.</p><p>Het onderdeel is grondig getest en verkeert in goede, werkende staat. Wij adviseren u dringend om voor aankoop de compatibiliteit met uw specifieke voertuig te controleren, bij voorkeur aan de hand van het onderdeelnummer of door visuele vergelijking met uw huidige pomp.<br><br> onderdeelnummer: 2762300365<br> Referentie: U-251105-1482</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/vacuumpomp-mercedes-benz-sl450-gle350-2014-2019/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>17885</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02539.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02540.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02541.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02542.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02543.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02544.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>2762300365</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>06J903023G</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Dynamo Volkswagen Golf (2015-2019) - Onderdeelnummer 06J903023G</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte dynamo</strong> met onderdeelnummer 06J903023G is specifiek geschikt voor Volkswagen Golf modellen uit de bouwjaren 2015-2019.</p> <p>Als een essentieel onderdeel van het laadsysteem van uw auto, is deze dynamo zorgvuldig gecontroleerd op functionaliteit. Wij adviseren u om altijd het onderdeelnummer te vergelijken met uw huidige onderdeel om compatibiliteit te garanderen.<br><br> onderdeelnummer: 06J903023G<br> Referentie: U-251105-1475</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-dynamo-volkswagen-golf-2015-2019-onderdeelnummer-06j903023g/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>1670</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02500.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02501.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02502-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02503-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02504.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02505.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>06J903023G</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A 260 200 09 01</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Waterpomp Mercedes-Benz A 260 200 09 01</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een gebruikte waterpomp, specifiek voor Mercedes-Benz voertuigen. Dit onderdeel draagt het nummer <strong>A 260 200 09 01</strong>.</p><p>Hoewel het onderdeel in goede staat verkeert, adviseren wij u dringend om het onderdeelnummer te vergelijken met uw huidige waterpomp om compatibiliteit te garanderen, aangezien de exacte modellen en bouwjaren waarvoor dit onderdeel geschikt is, onbekend zijn.<br><br> onderdeelnummer: A 260 200 09 01<br> Referentie: U-251105-1472</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-waterpomp-mercedes-benz-a-260-200-09-01/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>16200</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02484.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02485.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02486.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02487.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02488.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02489.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A 260 200 09 01</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>M000T32271</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Startmotor Mini Cooper 2010 (Mitsubishi M000T32271)</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een gebruikte, maar goed functionerende <strong>startmotor</strong> voor uw Mini Cooper.</p><p>Dit betreft het originele Mitsubishi onderdeel met nummer <strong>M000T32271</strong>, specifiek voor modellen uit 2010. Ideaal als vervanging voor een defecte startmotor.</p><p>Controleer altijd het onderdeelnummer op uw oude startmotor om compatibiliteit te garanderen.<br><br> onderdeelnummer: M000T32271<br> Referentie: U-251105-1455</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/startmotor-mini-cooper-2010-mitsubishi-m000t32271/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4747</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02395.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02396.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02397.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>M000T32271</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>U-251105-1452</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Cilinderkop Volkswagen Passat</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een gebruikte cilinderkop, specifiek voor de <strong>Volkswagen Passat</strong>. Dit cruciale motoronderdeel is zorgvuldig gedemonteerd en is klaar voor hergebruik in uw voertuig.</p><p>Aangezien het exacte bouwjaar en de compatibiliteit met andere modellen onbekend zijn, is het van essentieel belang dat u het onderdeelnummer van uw huidige cilinderkop vergelijkt met de nummers op dit exemplaar. Raadpleeg bij twijfel altijd een gekwalificeerde monteur om de juiste pasvorm en functionaliteit te waarborgen.<br><br> onderdeelnummer: <br> Referentie: U-251105-1452</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-cilinderkop-volkswagen-passat/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>34421</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02375.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02376.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02377.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02378.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02379.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02380.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02381.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02382.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251105-1452</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>1914F</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte AC Compressor Mini / Suzuki 1.6 (2007-2016) SD6V12-1914F Sanden</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte AC compressor</strong> is een cruciaal onderdeel voor het airconditioningsysteem van uw Mini Cooper 1.6 of bepaalde Suzuki 1.6 modellen.</p><p>Het betreft een origineel Sanden-CN model, type SD6V12-1914F, specifiek geschikt voor Mini Cooper modellen geproduceerd tussen 2007 en 2016, en mogelijk ook voor vergelijkbare Suzuki 1.6 voertuigen.</p><p>Hoewel het een gebruikt onderdeel is, is deze compressor zorgvuldig gecontroleerd en functioneert deze naar behoren, klaar voor montage in uw auto.<br><br> onderdeelnummer: 1914F<br> Referentie: U-251105-1443</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-ac-compressor-mini-suzuki-1-6-2007-2016-sd6v12-1914f-sanden/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>1799</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02331.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02332.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02333.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02334-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>1914F</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>000 982 2023</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Mercedes-Benz Accessoire Voedingsrelais Regelmodule</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte, maar goed functionerende</strong> accessoire voedingsrelais regelmodule voor Mercedes-Benz voertuigen.</p><p>Deze module is cruciaal voor het correct aansturen en reguleren van de stroomtoevoer naar diverse elektrische accessoires in uw auto. Hoewel de specifieke compatibiliteit (modellen en bouwjaren) onbekend is, is deze module grondig getest en werkt deze naar behoren.</p><p><strong>Belangrijk:</strong> Controleer altijd het onderdeelnummer van uw huidige module en vergelijk deze met de foto's en/of het nummer op dit product om een perfecte match te garanderen.<br><br> onderdeelnummer: 000 982 2023<br> Referentie: U-251105-1442</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/mercedes-benz-accessoire-voedingsrelais-regelmodule/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5885</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02327.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02328.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02329.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>000 982 2023</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>204 270 40 05</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Automatische Versnellingsbak Mercedes W204 C-Klasse 2006-2015</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte automatische versnellingsbak</strong> voor de Mercedes-Benz W204 C-Klasse, geschikt voor modellen van bouwjaar 2006 tot 2015.</p><p>Dit onderdeel is zorgvuldig gecontroleerd en getest op functionaliteit, en verkeert in goede staat voor hergebruik. Een betrouwbare oplossing om uw voertuig weer soepel te laten schakelen.<br><br> onderdeelnummer: 204 270 40 05<br> Referentie: U-251108-1527</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/automatische-versnellingsbak-mercedes-w204-c-klasse-2006-2015/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>54707</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02819.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02820.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02821.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02822.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02823.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>204 270 40 05</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>W0000008441</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Ruitenwissermotor Jaguar XF 2016-2017</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte ruitenwissermotor</strong> is een origineel onderdeel, zorgvuldig gedemonteerd van een Jaguar XF (bouwjaar 2016-2017). Het onderdeel is grondig gecontroleerd op functionaliteit en verkeert in goede staat, klaar voor een tweede leven in uw auto.</p><p>Een betrouwbare en kosteneffectieve oplossing om de functionaliteit van uw ruitenwissers te herstellen.<br><br> onderdeelnummer: W0000008441<br> Referentie: U-251106-1503</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/ruitenwissermotor-jaguar-xf-2016-2017/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>8644</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02660.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02661.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02662.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02663.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02664-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02665.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>W0000008441</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>98155884XT</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Buitenspiegel Peugeot Expert Furgón - Onderdeelnummer 98155884XT</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze <strong>gebruikte buitenspiegel</strong> met onderdeelnummer <strong>98155884XT</strong> is afkomstig van een Peugeot Expert Furgón. Hoewel het een gebruikt onderdeel betreft, is deze zorgvuldig gecontroleerd op functionaliteit en verkeert het in goede staat met normale gebruikssporen.</p><p>Perfect als vervanging voor uw defecte of beschadigde spiegel. Controleer altijd het onderdeelnummer om zeker te zijn van compatibiliteit met uw specifieke voertuigmodel en bouwjaar.<br><br> onderdeelnummer: 98155884XT<br> Referentie: P-251109-1570</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-buitenspiegel-peugeot-expert-furgon-onderdeelnummer-98155884xt/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>33554</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03104.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03105.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03106-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03107.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>98155884XT</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>6520 9 803 846-03</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Mini-Antenne voor Chevrolet Trax</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte mini-antenne</strong>, specifiek geschikt voor de <strong>Chevrolet Trax</strong>.</p><p>Dit compacte onderdeel is zorgvuldig gedemonteerd en verkeert in goede, gebruikte staat met de normale tekenen van slijtage. Ideaal als vervanging voor uw huidige antenne of om uw voertuig een sportievere look te geven.</p><p>Controleer altijd goed of dit onderdeel compatibel is met uw specifieke voertuigmodel en bouwjaar, aangezien de compatibiliteit met andere modellen onbekend is.<br><br> onderdeelnummer: 6520 9 803 846-03<br> Referentie: U-251109-1553</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-mini-antenne-voor-chevrolet-trax/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>1719</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02978.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02979-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02980-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>6520 9 803 846-03</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>BM-0505-063</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Auto Meter Autogage Mini Toerenteller Gebruikt - Mini (2005-2011)</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte Auto Meter Autogage Mini Toerenteller</strong>, specifiek ontworpen voor Mini voertuigen.</p><p>Deze compacte en betrouwbare toerenteller is geschikt voor modellen geproduceerd tussen <strong>2005 en 2011</strong>. Hoewel het exacte Mini-model waarvoor dit onderdeel oorspronkelijk bedoeld was onbekend is, verkeert het in goede staat en is het klaar voor een tweede leven in uw auto.</p><p>Ideaal als vervanging of upgrade, en een functionele aanvulling op uw dashboard.<br><br> onderdeelnummer: BM-0505-063<br> Referentie: U-251109-1542</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/auto-meter-autogage-mini-toerenteller-gebruikt-mini-2005-2011/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>1462</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02913.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02914.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02915.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02916.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02917.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>BM-0505-063</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>28530-2BAD0</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Katalysator Hyundai Santa Fe (Gebruikt)</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte katalysator</strong> voor uw Hyundai Santa Fe.</p><p>Dit onderdeel is zorgvuldig gedemonteerd en gecontroleerd op functionaliteit, en verkeert in goede staat. Vanwege de onbekende exacte bouwjaarreeks en compatibiliteit, raden wij u ten zeerste aan om het onderdeelnummer of de specificaties te vergelijken met uw huidige onderdeel voordat u tot aankoop overgaat.<br><br> onderdeelnummer: 28530-2BAD0<br> Referentie: U-251105-1483</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/katalysator-hyundai-santa-fe-gebruikt/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5236</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02546.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02547.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02548.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02549.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02550.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>28530-2BAD0</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>36100-2B210</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Startmotor Hyundai Tucson</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte startmotor</strong> voor uw Hyundai Tucson.</p><p>Dit onderdeel is zorgvuldig gedemonteerd en gecontroleerd op functionaliteit. Hoewel de exacte bouwjaarreeks onbekend is, is deze startmotor afkomstig van een Hyundai Tucson.</p><p>Wij adviseren u dringend om het onderdeelnummer te vergelijken met uw huidige startmotor of contact op te nemen met een specialist om compatibiliteit te garanderen.<br><br> onderdeelnummer: 36100-2B210<br> Referentie: U-251105-1478</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-startmotor-hyundai-tucson/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>26711</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02519.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02520.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02521.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02522.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>36100-2B210</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>35100-23340</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikt Gasklephuis Kia Forte 2014-2023</admarkt:title>
+    <admarkt:description><![CDATA[<p>Dit is een <strong>gebruikt gasklephuis</strong>, specifiek voor de Kia Forte modellen geproduceerd tussen 2014 en 2023. Het onderdeel is grondig getest en verkeert in uitstekende staat, klaar voor directe montage.</p><p>Een betrouwbare en voordelige oplossing om de prestaties van uw motor te herstellen. Controleer altijd het onderdeelnummer van uw huidige gasklephuis voor optimale compatibiliteit.<br><br> onderdeelnummer: 35100-23340<br> Referentie: U-251105-1471</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-gasklephuis-kia-forte-2014-2023/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>9000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02479.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02480.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02481.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02482.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>35100-23340</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>172768-10</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Motorsteun BMW</admarkt:title>
+    <admarkt:description><![CDATA[<p>Aangeboden: een gebruikte motorsteun voor een BMW. Dit onderdeel is zorgvuldig gedemonteerd en verkeert in goede, bruikbare staat, passend bij de leeftijd en het gebruik.</p><p>Omdat het exacte model en bouwjaar onbekend zijn, adviseren wij u dringend om de foto's en eventuele onderdeelnummers zorgvuldig te vergelijken met uw huidige motorsteun om compatibiliteit te garanderen. Let op: Dit is een gebruikt onderdeel, lichte gebruikssporen zijn aanwezig.<br><br> onderdeelnummer: 172768-10<br> Referentie: U-251105-1462</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-motorsteun-bmw/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7650</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02432.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02433.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02434.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>172768-10</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>U-251029-1434</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Middenconsole Land Rover (Gebruikt)</admarkt:title>
+    <admarkt:description><![CDATA[<p><strong>Gebruikte Middenconsole voor Land Rover</strong></p> <p>Deze originele middenconsole is afkomstig van een Land Rover voertuig en verkeert in goede, gebruikte staat met normale tekenen van slijtage. Het is een perfect onderdeel ter vervanging van een beschadigde console of voor een restauratieproject.</p> <p>Aangezien het exacte model en bouwjaar van de donorauto onbekend zijn, is het essentieel dat u de gedetailleerde foto's zorgvuldig bekijkt en vergelijkt met uw huidige onderdeel om volledige compatibiliteit te garanderen.<br><br> onderdeelnummer: <br> Referentie: U-251029-1434</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/middenconsole-land-rover-gebruikt/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>11067</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02260.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02261.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02262.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02263.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02264-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02265-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02266.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02267.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02268.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02269.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02271.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251029-1434</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A 172 240 14 17 01</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Veerpootsteun Mercedes-Benz - Controleer Compatibiliteit</admarkt:title>
+    <admarkt:description><![CDATA[<p>Deze gebruikte veerpootsteun is afkomstig van een <strong>Mercedes-Benz</strong>. Het onderdeel is zorgvuldig gedemonteerd en verkeert in goede staat voor hergebruik.</p><p>Aangezien het exacte model en bouwjaar van de donorauto onbekend zijn, is het <strong>essentieel</strong> dat u de compatibiliteit met uw voertuig zorgvuldig controleert. Vergelijk de productfoto's en eventuele onderdeelnummers met uw huidige onderdeel om een correcte pasvorm te garanderen.</p><p>Ideaal voor reparatie of vervanging, mits compatibel met uw specifieke Mercedes-Benz model.<br><br> onderdeelnummer: A 172 240 14 17 01<br> Referentie: U-251108-1526</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-veerpootsteun-mercedes-benz-controleer-compatibiliteit/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>15750</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02816.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A 172 240 14 17 01</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>22992802</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Koplamp Schakelaar Opel Mokka X 2016</admarkt:title>
+    <admarkt:description><![CDATA[<p><strong>Gebruikte Koplamp Schakelaar voor Opel Mokka X (2016)</strong></p><p>Deze originele koplamp schakelaar is afkomstig van een Opel Mokka X uit het bouwjaar 2016. Het betreft een functioneel en gecontroleerd onderdeel dat zorgvuldig is gedemonteerd. Zoals gebruikelijk bij tweedehands onderdelen kunnen er lichte gebruikssporen aanwezig zijn, maar de werking is gegarandeerd.</p><p>Wij adviseren u dringend om de compatibiliteit met uw voertuig te controleren aan de hand van de productfoto's en eventuele onderdeelnummers. Dit voorkomt teleurstellingen en zorgt ervoor dat u het juiste onderdeel ontvangt.<br><br> onderdeelnummer: 22992802<br> Referentie: U-251105-1444</p>]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/koplamp-schakelaar-opel-mokka-x-2016/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>1958</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>22992802</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>32409189</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte spatbord Volvo XC40 2018– – 32409189</admarkt:title>
