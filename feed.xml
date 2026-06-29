@@ -1,6 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
+    <admarkt:vendorId>620222192R</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper Renault Captur vanaf 2020- 620222192R</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper Renault Captur vanaf 2020 Onderdeelnummer: 620222192R Referentie: B-260625-1594]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-renault-captur-vanaf-2020-620222192r/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>23000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0900.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0900.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0904.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0905.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0901-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0903-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0902-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0906-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0908.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Renault</admarkt:brand>
+    <admarkt:mpn>620222192R</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>76600453</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper Dacia Lodgy 2013- 76600453</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper Dacia Lodgy 2013 Onderdeelnummer: 76600453 Referentie: B-260625-1593]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-dacia-lodgy-2013-76600453/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0893.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0893.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0894.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0895.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0897-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0898-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0899-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0896-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>76600453</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2068808501</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper Mercedes Benz W206 2023- A2068808501</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper Mercedes Benz W206 2023 Onderdeelnummer: A2068808501 Referentie: B-260625-1592]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-mercedes-benz-w206-2023-a2068808501/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>26000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0887.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0887.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0888.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0889.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0891.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0892-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Mercedes Benz</admarkt:brand>
+    <admarkt:mpn>A2068808501</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>5LA807221</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper Skoda Enyaq iV 2023- 5LA807221</admarkt:title>
