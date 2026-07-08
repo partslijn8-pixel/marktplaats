@@ -1,6 +1,362 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
+    <admarkt:vendorId>13267699</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Voorbumper Opel Meriva B (2010-2014)- 13267699</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Voorbumper Opel Meriva (2010-2014) Onderdeelnummer: 13267699 Referentie: C-260703-1613]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-opel-meriva-b-2010-2014-13267699/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>16500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1036.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1036.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1037.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1038.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1039.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>13267699</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>865114R500</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Voorbumper Hyundai i20 (2012-2015)- 865114R500</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Voorbumper Hyundai i20 (2012-2015) Onderdeelnummer: 865114R500 Referentie: C260703-1612]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-hyundai-i20-2012-2015-865114r500/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>13000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1031.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1031.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1033.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1035-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1034.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>865114R500</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>620223VU5H</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Voorbumper Nissan Note (2013-2017)- 620223VU5H</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Voorbumper Nissan Note (2013-2017) Onderdeelnummer: 620223VU5H Referentie: C-260703-1611]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-nissan-note-2013-2017-620223vu5h/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>12000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1027.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1027.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1028.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1029.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1030-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Nissan</admarkt:brand>
+    <admarkt:mpn>620223VU5H</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>KD4550031</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Voorbumper Mazda CX-5 (2012-2017)- KD4550031</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Voorbumper Mazda CX-5 (2012-2017) Onderdeelnummer: KD4550031 Referentie: C260703-1610]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-mazda-cx-5-2012-2017-kd4550031/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>20000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1023.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1023.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1024.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1025.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1026.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Mazda</admarkt:brand>
+    <admarkt:mpn>KD4550031</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>9849394280</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Voorbumper Peugeot Expert III (2024-2026)- 9849394280</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Voorbumper Peugeuot Expert III (2024-2026) Onderdeelnummer: 9849394280 Referentie: C-260703-1609]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-peugeuot-expert-iii-2024-2026-9849394280/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>25000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1018.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1018.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1019.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1020.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1021.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1022.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Peugeot</admarkt:brand>
+    <admarkt:mpn>9849394280</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>85022HV20H</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Achterbumper Nissan Qashqai J11 (2017-2021)- 85022HV20H</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Achterbumper Nissan Qashqai J11 (2017-2021) Onderdeelnummer: 85022HV20H Referentie: C-260703-1608]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-nissan-qashqai-j11-2017-2021-85022hv20h/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>22000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1015.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1015.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1016.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1017.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Nissan</admarkt:brand>
+    <admarkt:mpn>85022HV20H</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>13285996</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Voorbumper Opel Corsa D (2011-2014)- 13285996</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Voorbumper Opel Corsa D (2011-2014) Onderdeelnummer: 13285996 Referentie: C-260703-1607]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-opel-corsa-d-2011-2014-13285996/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>18000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1011.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1011.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1012.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1013.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1014.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Opel</admarkt:brand>
+    <admarkt:mpn>13285996</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>51118064928</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Msport voorbumper BMW 5 serie G30/G31 (2017-2020)- 51118064928</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Msport voorbumper BMW 5 serie G30/G31 (2017-2020) Onderdeelnummer: 51118064928 Referentie: C-260703-1606]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-msport-voorbumper-bmw-5-serie-g30-g31-2017-2020-51118064928/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>40000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1004.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1004.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1005.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1010.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1009-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1008.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1007-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1006-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>BMW</admarkt:brand>
+    <admarkt:mpn>51118064928</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-70407</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Voorbumper Mazda CX-5 II (2017-2021)- KB8A50031</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Voorbumper Mazda CX-5 II (2017-2021) Onderdeelnummer: KB8A50031 Referentie: C-260703-1605]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-mazda-cx-5-ii-2017-2021-kb8a50031/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>15000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_0994-1.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Mazda</admarkt:brand>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>86511BE700</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Voorbumper Hyundai Kona II N-line (2023-2026)- 86511BE700</admarkt:title>
@@ -53,6 +409,7 @@
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
     <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_0947.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_0947.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_0948.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_0949.jpg"/>
@@ -4851,49 +5208,6 @@
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>88531-AT000</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>A2058851524</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte bumper Mercedes-Benz C-Class 2015-2018 – A2058851524</admarkt:title>
-    <admarkt:description><![CDATA[Zwarte kunststof diffuser/onderste achterbumperlijst met geïntegreerde chroomkleurige sieraccenten en uitsparingen. Bekabeling is aan de achterzijde bevestigd. onderdeelnummer: A2058851524 Referentie: P-250907-0564]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-mercedes-benz-c-class-2015-2018-a2058851524/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>9500</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/main-A2058851524.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-A2058851524-.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-A2058851524-1-1.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-A2058851524-1-2.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-A2058851524-1-3.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-A2058851524-1-4.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-A2058851524-1-5.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-A2058851524-1-6.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-A2058851524-1-7.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>A2058851524</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>51777184773</admarkt:vendorId>
@@ -59385,7 +59699,7 @@
     <admarkt:vendorId>5215953070</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Bumper achter voor lexus IS 250 2009</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Bumper]]></admarkt:description>
+    <admarkt:description><![CDATA[Gebruikte Bumper Onderdeelnummer: 5215953070 Referentie: B-250811-0036]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-toyota-2009/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -59394,9 +59708,12 @@
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
     <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_8007-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00529-Large.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_8006-scaled.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_8008-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00532-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00530-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00531-Large.jpg"/>
     </admarkt:media>
     <admarkt:budget>
       <admarkt:cpc>6</admarkt:cpc>
