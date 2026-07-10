@@ -1,6 +1,286 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
+    <admarkt:vendorId>A2538859601</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>gebruikte voorbumper Mercedes Benz GLC W253 (2019-2022) - A2538859601</admarkt:title>
+    <admarkt:description><![CDATA[gebruikte voorbumper Mercedes Benz GLC W253 (2019-2022) Onderdeelnummer: A2538859601 Referentie: D-260707-1619]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-mercedes-benz-glc-w253-2019-2022/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>45000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1086-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1082-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1083-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1084-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1086-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1085-scaled.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Mercedes Benz</admarkt:brand>
+    <admarkt:mpn>A2538859601</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>13242813</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte achterlicht OPEL CORSA 2006-2014 – 13242813</admarkt:title>
+    <admarkt:description><![CDATA[Rode achterlichtunit met een rode lens en twee heldere secties (rond en geribbeld). onderdeelnummer: 13242813 Referentie: T-250911-0746]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterlicht-opel-corsa-2006-2014-13242813/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/DSC06531.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/DSC06535.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/DSC06534.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/DSC06533.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/DSC06532.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>13242813</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>31663981</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte achterbumper Polestar 2 (2020-2024)- 31663981</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterbumper Polestar 2 (2020-2024) Onderdeelnummer: 31663981 Referentie: C-260703-1618]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-polestar-2-2020-2024-31663981/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>12000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1067.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1068.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1069.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1070-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1071-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Polestar</admarkt:brand>
+    <admarkt:mpn>31663981</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>51128080630</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Msport achterbumper BMW 5serie touring G31 (2017-2020)- 51128080630</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Msport achterbumper BMW 5serie touring G31 (2017-2020) Onderdeelnummer: 51128080630 Referentie: C-260703-1617]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-msport-achterbumper-bmw-5serie-touring-g31-2017-2020-51128080630/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>22000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1061.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1061.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1062.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1063-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1064-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1066-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>BMW</admarkt:brand>
+    <admarkt:mpn>51128080630</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>850226043R</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte achterbumper Renault Megane IV Grandtour GT-line (2017-2020)- 850226043R</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterbumper Renault Megane IV Grandtour GT-line (2017-2020) Onderdeelnummer: 850226043R Referentie: C-260703-1616]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-renault-megane-iv-grandtour-gt-line-2017-2020-850226043r/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>23000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1051.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1051.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1052.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1053.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Renault</admarkt:brand>
+    <admarkt:mpn>850226043R</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>735536139</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Voorbumper Fiat Punto Evo (2012-2016)- 735536139</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Voorbumper Fiat Punto Evo (2012-2016) Onderdeelnummer: 735536139 Referentie: C-260703-1615]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-fiat-punto-evo-2012-2016-735536139/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>10000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1047.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1047.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1048.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1049.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1050.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Fiat</admarkt:brand>
+    <admarkt:mpn>735536139</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>71551T50J1</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte achterbumper Honda Civic XI Hatchback (2022-2026)- 71551T50J1</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterbumper Honda Civic XI Hatchback (2022-2026) Onderdeelnummer: 71551T50J1 Referentie: C-260703-1614]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-honda-civic-xi-hatchback-2022-2026-71551t50j1/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>26000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1040.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1040.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1041.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1042.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/07/IMG_1044-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>2500</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Honda</admarkt:brand>
+    <admarkt:mpn>71551T50J1</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>13267699</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Voorbumper Opel Meriva B (2010-2014)- 13267699</admarkt:title>
@@ -3106,43 +3386,6 @@
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>A 204 240 47 17 Q1</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>A 000 906 04 01</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Dynamo Mercedes-Benz</admarkt:title>
-    <admarkt:description><![CDATA[<p>Aangeboden: een <strong>gebruikte dynamo</strong> voor Mercedes-Benz voertuigen. Dit onderdeel is zorgvuldig gecontroleerd en functioneert naar behoren, ideaal als voordelige vervanging voor uw defecte dynamo.</p><p>Gezien het onbekende model en bouwjaar, is het essentieel om de compatibiliteit met uw specifieke voertuig te controleren. Vergelijk altijd het onderdeelnummer of raadpleeg een specialist voor aankoop om teleurstelling te voorkomen.<br><br> onderdeelnummer: A 000 906 04 01<br> Referentie: U-251106-1488</p>]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-dynamo-mercedes-benz/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>7500</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02572.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02573.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02574.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>A 000 906 04 01</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>2762300365</admarkt:vendorId>
@@ -7807,12 +8050,12 @@
   <admarkt:ad>
     <admarkt:vendorId>M-250905-0468</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte spatbord BMW 4-Series (F32/F33/F36)</admarkt:title>
-    <admarkt:description><![CDATA[BMW M Series voorspatbord met geïntegreerde ventilatieopening, in een donkere metallic kleur. Linkerzijde. onderdeelnummer: NO_PART_NUMBER_FOUND Referentie: M-250905-0468]]></admarkt:description>
+    <admarkt:title>Gebruikte spatbord BMW 4-Series (F32/F33/F36) - 2013 - 41007329542</admarkt:title>
+    <admarkt:description><![CDATA[BMW M Series voorspatbord met geïntegreerde ventilatieopening, in een donkere metallic kleur. Linkerzijde. onderdeelnummer: 41007329542 Referentie: M-250905-0468]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-spatbord-bmw-4-series-f32-f33-f36/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>26000</admarkt:price>
+    <admarkt:price>12000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -16259,44 +16502,6 @@
     <admarkt:mpn>K8D240010AD</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>63217162302</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterlicht BMW 3 Series 2006-2013 – 63217162302</admarkt:title>
-    <admarkt:description><![CDATA[Rood achterlicht met een heldere onderste strip en een getextureerde rode lens. Bovenrand is zwart. onderdeelnummer: 63217162302 Referentie: T-251016-1253]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-achterlicht-bmw-3-series-2006-2013-63217162302/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>6000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/main-63217162302.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-63217162302-.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-63217162302-1-1.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-63217162302-1-2.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>63217162302</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>KD53RH3</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte deurklink Mazda 3 (BM, BN) 2013-2019 – KD53RH3</admarkt:title>
@@ -24503,50 +24708,6 @@
     <admarkt:mpn>92101-1P500</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>GHR4-51040</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte links koplamp Mazda 6 2017-2018 – GHR4-51040</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte links koplamp voor Mazda 6 (2017-2018). Koplampunit met heldere lens, projector-stijl grootlicht en amberkleurig richtingaanwijzerdeel. Inclusief kabelboom en connector aan de bovenkant achterzijde van de behuizing. Zwarte kunststof behuizing. onderdeelnummer: GHR4-51040 Referentie: T-250914-0832]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-koplamp-mazda-3-2017-2018-ghr4-51040/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>22500</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-GHR4-51040-1-1.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-GHR4-51040-1-2.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-GHR4-51040-.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-GHR4-51040-1-1.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-GHR4-51040-1-3.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-GHR4-51040-1-4.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-GHR4-51040-1-5.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-GHR4-51040-1-6-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-GHR4-51040-1-7-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-GHR4-51040-1-8-rotated.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>GHR4-51040</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>JK21-13W030-CJ</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte koplamp Ford Transit Custom 2018 – JK21-13W030-CJ</admarkt:title>
@@ -28264,14 +28425,14 @@
     <admarkt:mpn>L1TB-13404-A</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>T-250911-0717</admarkt:vendorId>
+    <admarkt:vendorId>0D1620D163</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte koplamp TOYOTA Yaris 2015</admarkt:title>
-    <admarkt:description><![CDATA[Complete koplampunit met projector lens, geïntegreerde LED-strip, zwarte behuizing en heldere lens. Linkerzijde. onderdeelnummer: NO_PART_NUMBER_FOUND Referentie: T-250911-0717]]></admarkt:description>
+    <admarkt:description><![CDATA[Complete koplampunit met projector lens, geïntegreerde LED-strip, zwarte behuizing en heldere lens. Linkerzijde. onderdeelnummer: 0D1620D163 Referentie: T-250911-0717]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-koplamp-toyota-yaris-2010-2020/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>11500</admarkt:price>
+    <admarkt:price>20000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -28301,7 +28462,7 @@
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>T-250911-0717</admarkt:mpn>
+    <admarkt:mpn>0D1620D163</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>5k1941753e</admarkt:vendorId>
@@ -39145,10 +39306,10 @@
     <admarkt:mpn>9820059680</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>7174404</admarkt:vendorId>
+    <admarkt:vendorId>480622R</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>BMW Achterlicht Rechts - 7174404</admarkt:title>
-    <admarkt:description><![CDATA[OEM-achterlicht voor de <strong data-start="629" data-end="652">rechterzijde achter</strong> van een BMW 3-serie (E92 / E93). <strong data-start="704" data-end="715">Onderdeelnummer:7174404</strong> Referentienummer:T-251016-1253]]></admarkt:description>
+    <admarkt:title>BMW Achterlicht Rechts - 2006-2013 -  480622R</admarkt:title>
+    <admarkt:description><![CDATA[OEM-achterlicht voor de <strong data-start="629" data-end="652">rechterzijde achter</strong> van een BMW 3-serie (E92 / E93). 6321716230206 <strong>Onderdeelnummer:</strong> 480622R <strong>Referentienummer:</strong> T-251016-1253]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/bmw-achterlicht-rechts-7174404/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -39181,7 +39342,7 @@
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>7174404</admarkt:mpn>
+    <admarkt:mpn>480622R</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>PL-7220</admarkt:vendorId>
@@ -41161,50 +41322,6 @@
     <admarkt:mpn>64100798ZZ</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PD5229/QA6044</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Toyota RAV4 2012 Achterbumper PD5229/QA6044 – Gebruikt</admarkt:title>
-    <admarkt:description><![CDATA[Toyota RAV4 Achterbumper – Gebruikt 81X296-1  52150-0R120 52159-42190 Toyota RAV4 (2013- 2015)  Onderdeelnummer: PD5229/QA6044 Referentienummer: J-250818-0205]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/toyota-rav4-achterbumper-pd5229-qa6044-gebruikt/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>7900</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC02100.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC02104.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC02105.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC02106.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC02107.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC02100.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC02101.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC02102.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC02103.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>Toyota</admarkt:brand>
-    <admarkt:mpn>PD5229/QA6044</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>620228205R </admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Renault Master 2019 III Voorbumper Origineel 620228205R Gebruikt</admarkt:title>
@@ -41806,52 +41923,6 @@
     <admarkt:condition>used</admarkt:condition>
     <admarkt:brand>Volkswagen</admarkt:brand>
     <admarkt:mpn>11A807532 </admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>51128069390</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte BMW 3 Serie G20/G21/G28 51128069390 Achterbumper</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte BMW 3 Serie G20/G21/G28 Achterbumper 51128069390 51128069387 51128069390 51128069387 Onderdeelnummer: 51128069390 Referentienummer: H-250818-0168]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-bmw-3-serie-g20-g21-g28-51128069390-achterbumper/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>22000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01779.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01779.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01780.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01781.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01782.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01783.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01784.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01785.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01786.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01788.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01789.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>BMW</admarkt:brand>
-    <admarkt:mpn>51128069390</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>L1TB-17906-A1</admarkt:vendorId>
@@ -44987,50 +45058,6 @@
     <admarkt:mpn>924011P000 -</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>A9108850000 -</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper voor Mercedes Sprinter 2020</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-voor-mercedes-sprinter2020/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>10000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1443-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1444-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1445-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>Mercedes Sprinter</admarkt:brand>
-    <admarkt:mpn>A9108850000 -</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>zwart</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>GHP950070 -</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Bumperbalk Achter voor mazda 6 2014</admarkt:title>
@@ -45159,7 +45186,7 @@
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>63217162300</admarkt:vendorId>
+    <admarkt:vendorId>63217147404</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Achterlicht rechts voor BMW 3-Serie 2011</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte Achterlicht rechts]]></admarkt:description>
@@ -45195,7 +45222,7 @@
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:brand>BMW 3-Serie</admarkt:brand>
-    <admarkt:mpn>63217162300</admarkt:mpn>
+    <admarkt:mpn>63217147404</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>63217162299</admarkt:vendorId>
@@ -45272,46 +45299,6 @@
     <admarkt:condition>used</admarkt:condition>
     <admarkt:brand>Opel Corsa</admarkt:brand>
     <admarkt:mpn>13242814</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>13242813</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Achterlicht links voor Opel Corsa 2012</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Achterlicht links]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-achterlicht-links-voor-opel-corsa-2012/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>2000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1919-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1922-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1921-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1923-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1920-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>Opel Corsa</admarkt:brand>
-    <admarkt:mpn>13242813</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>A2048205864</admarkt:vendorId>
@@ -48292,50 +48279,6 @@
     <admarkt:condition>used</admarkt:condition>
     <admarkt:brand>Ford Ragner</admarkt:brand>
     <admarkt:mpn>JB3B17C831</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>zwart</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>A9108850000</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper voor Mercedes Sprinter 2019</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-voor-mercedes-sprinter2019/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>9000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1443-1-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1444-1-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1445-1-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>Mercedes Sprinter</admarkt:brand>
-    <admarkt:mpn>A9108850000</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>kleur</admarkt:attributeName>
@@ -54012,50 +53955,6 @@
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>41007329542</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Scherm rechtsvoor voor bmw 3serie 2013</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Scherm rechtsvoor]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-scherm-rechtsvoor-voor-bmw-3serie-2013/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>9900</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0392-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0393-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0394-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>bmw 3serie</admarkt:brand>
-    <admarkt:mpn>41007329542</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>grijs</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>195856160</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte dakbekleding voor hyundai ix20- 2016</admarkt:title>
@@ -56788,50 +56687,6 @@
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>ty04447bb</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikta achterbumper  voor toyota Rav4 2014</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikta achterbumper]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikta-achterbumper-voor-toyota2014/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>9900</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0230-300x225.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0232-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0231-1024x768.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>toyota</admarkt:brand>
-    <admarkt:mpn>ty04447bb</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>zwart</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>GRF2500S1 / GHP953111</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Voorfront voor  mazda 6 2016</admarkt:title>
@@ -58977,51 +58832,6 @@
       <admarkt:attribute>
         <admarkt:attributeName>kleur</admarkt:attributeName>
         <admarkt:attributeValue>zwart</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>51192455856</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Bumper achter voor bmw 3 serie G20 2020</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Bumper]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-bmw-2020/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>19900</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0300-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0302-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0301-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0300-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>2500</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>bmw</admarkt:brand>
-    <admarkt:mpn>51192455856</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>blauw</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
