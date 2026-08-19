@@ -46492,45 +46492,6 @@ Referentie: T-250911-0745]]></admarkt:description>
     <admarkt:mpn>13242814</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>A2048205864</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Achterlicht rechts voor Mercedes C-klasse 2011</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Achterlicht rechts]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-achterlicht-rechts-voor-mercedes-c-klasse2011/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>12500</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1901-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1904-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1903-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1902-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>5</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>Mercedes C-klasse</admarkt:brand>
-    <admarkt:mpn>A2048205864</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>0337300</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Achterlicht links voor Mini Cooper 2010</admarkt:title>
