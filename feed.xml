@@ -1859,6 +1859,48 @@ Referentie: U-251106-1514]]></admarkt:description>
     <admarkt:mpn>A6540904902</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>A6541400244</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte EGR behuizing Mercedes-Benz E-Klasse W213 2017 A6541400244</admarkt:title>
+    <admarkt:description><![CDATA[<p data-path-to-node="3">Gebruikte EGR behuizing Mercedes-Benz E-Klasse W213 2017 A6541400244</p>
+ 
+
+onderdeelnummer: A6541400244
+Referentie: U-251106-1513]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-egr-behuizing-mercedes-benz-e-klasse-w213-2017-a6541400244/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>9000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02739.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02740.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02741.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02742.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A6541400244</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>A 651 905 03 00</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte EGR Klep met Koeler Mercedes (2009-2018)</admarkt:title>
@@ -60349,50 +60391,6 @@ Referentienummer: B-250813-0039]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>620221KA5H</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Bumper voor voor nissan juke 2012</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Bumper]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-nissan-2012/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>29900</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7974-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7975-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7973-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>5</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>nissan</admarkt:brand>
-    <admarkt:mpn>620221KA5H</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>rood</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>H374339703</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Achterbumper voor Opel Astra 2010</admarkt:title>
@@ -60484,94 +60482,6 @@ Referentienummer: B-250813-0038]]></admarkt:description>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:brand>bmw</admarkt:brand>
     <admarkt:mpn>511272758411</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>zwart</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>866121K000</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Bumper achter voor Hyundai iX20 2014</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Bumper]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-hyundai-ix202014/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>19900</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7953-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7954-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7952-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>5</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>Hyundai iX20</admarkt:brand>
-    <admarkt:mpn>866121K000</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>zwart</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>K8D217D781AAW</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Bumper achter voor Landrover Range Rover Evoque 2019</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Bumper]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-landrover-range-rover-evoque2019/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>39900</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7957-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7958-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7956-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>5</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>Landrover Range Rover Evoque</admarkt:brand>
-    <admarkt:mpn>K8D217D781AAW</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>kleur</admarkt:attributeName>
