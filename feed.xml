@@ -1812,6 +1812,47 @@ Referentie: U-251108-1517]]></admarkt:description>
     <admarkt:mpn>6 859 407-02</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>001137002</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Fiat 500 1.2 Benzine Handgeschakeld Startmotor  169a4.000 - 2012 - 001137002</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Startmotor Fiat 500 1.2 Benzine Handgeschakeld 169a4.000 2012<br>
+<br>
+onderdeelnummer: 001137002<br>
+Referentie: U-251108-1516]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-fiat-500-1-2-benzine-handgeschakeld-startmotor-169a4-000-2012-001137002/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>6000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02757.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02758.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02759.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02760.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>001137002</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>A6540904902</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Intercooler Mercedes - A6540904902</admarkt:title>
@@ -2392,6 +2433,49 @@ Referentie: U-251105-1437</p>]]></admarkt:description>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>U-251105-1437</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>P-251109-1571</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Buitenspiegel  Opel Mokka 2011-2014 - A10101600 AC33816</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Buitenspiegel Opel Mokka 2011-2014 - A10101600 AC33816<br>
+<br>
+Onderdeelnummer: A10101600<br>
+Referentie: P-251109-1571]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-buitenspiegel-opel-mokka-2011-2014-a10101600-ac33816/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03109.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03110.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03111.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03112.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03113.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC03114.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>P-251109-1571</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>K8D2-15K272 RH</admarkt:vendorId>
@@ -3518,6 +3602,48 @@ Referentie: U-251108-1521</p>]]></admarkt:description>
     <admarkt:mpn>35320-2B420</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>U-251106-1499</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Brandstoffilter Jaguar F-PACE (X761) - 2017 - GX739D202AE</admarkt:title>
+    <admarkt:description><![CDATA[<p data-path-to-node="2">Gebruikte Brandstoffilter Jaguar F-PACE (X761) 2017 GX739D202AE</p>
+ 
+
+onderdeelnummer: GX739D202AE
+Referentie: U-251106-1499]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-koolstoffilter-brandstofdampen/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>8500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02629.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02630.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02631-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02632.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251106-1499</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>A0995001100</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Oliekoeler Mercedes-Benz</admarkt:title>
@@ -3636,6 +3762,48 @@ Referentie: U-251106-1490</p>]]></admarkt:description>
     <admarkt:mpn>A 204 240 47 17 Q1</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>061431</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte ABS pomp Opel Corsa D 1.2 16V 2009 13282282</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte ABS pomp Opel Corsa D 1.2 16V 2009 13282282<br>
+<br>
+onderdeelnummer: 13282282<br>
+Referentie: U-251105-1485]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-abs-pomp-opel-corsa-d-1-2-16v-2009-13282282/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>25000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02556.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02557.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02558.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02559.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02560.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>061431</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>2762300365</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Vacuümpomp Mercedes voor Mercedes-Benz SL450 GLE350 2014-2019 - 2762300365</admarkt:title>
@@ -3676,6 +3844,47 @@ Referentie: U-251105-1482</p>]]></admarkt:description>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>2762300365</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>U-251105-1481</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikt Gasklephuis Fiat 500 1.2 - 2008 - C14640SMF10</admarkt:title>
+    <admarkt:description><![CDATA[Dit is een <strong>gebruikt gasklephuis Fiat 500 1.2 - 2008 - C14640SMF10</strong><br>
+<br>
+onderdeelnummer: C14640SMF10<br>
+Referentie: U-251105-1481]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-gasklephuis-fiat-500-1-2-2008-c14640smf10/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>9000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02534.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02535.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02536.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02537.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251105-1481</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>06J903023Q</admarkt:vendorId>
@@ -4419,6 +4628,47 @@ Referentie: U-251105-1471</p>]]></admarkt:description>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>35100-23340</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>GKH867ZC0-C</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Condensator Mazda 6 GJ GL 2.2 D 2015 GKH867ZC0-C</admarkt:title>
+    <admarkt:description><![CDATA[<p data-path-to-node="1">Gebruikte Condensator Mazda 6 GJ GL 2.2 D 2015 GKH867ZC0-C</p>
+
+onderdeelnummer: GKH8.67 ZCO-C
+Referentie: U-251105-1468]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-abs-pomp-gkh8-67-zco-c/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>15000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02461.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02462.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02463.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02464-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>GKH867ZC0-C</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>172768-10</admarkt:vendorId>
@@ -24133,6 +24383,49 @@ Referentie: T-250912-0784]]></admarkt:description>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>DK62-13W030-DG</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PKT13202</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Honda E Spatbord linksvoor  - 2020 - PKT13202</admarkt:title>
+    <admarkt:description><![CDATA[Blauw voorspatbord. Buitenpaneel dat de wielkast afdekt. Het spatbord heeft een glad, gebogen oppervlak met lichte krassen op de lak. Bevestigingspunten zijn zichtbaar aan de binnenranden, vooral richting de achterzijde.<br>
+<br>
+onderdeelnummer: PKT13202<br>
+Referentie: M-250915-0855]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-honda-e-spatbord-linksvoor-2020-pkt13202/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>23000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/main-M-250915-0855.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250915-0855--rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250915-0855-1-1.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250915-0855-1-2.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250915-0855-1-3-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250915-0855-1-4.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>PKT13202</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>631012106R</admarkt:vendorId>
