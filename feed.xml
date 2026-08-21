@@ -2396,6 +2396,47 @@ Referentie: U-251105-1440</p>]]></admarkt:description>
     <admarkt:mpn>84.10 9 329 339-01</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>544764491</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte PDC module Opel Mokka X - 2016 - 39021659 - 544764491</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte PDC module Opel Mokka X - 2016 - 39021659 - 544764491<br>
+<br>
+onderdeelnummer: 544764491<br>
+Referentie: U-251105-1438]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-abs-pomp-regelmodule-gm-voor-chevrolet-spark-2019-2022-544764491/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02304.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02305.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02306.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02307.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>544764491</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>U-251105-1437</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Klimaatregelingsunit voor Opel - U-251105-1437</admarkt:title>
@@ -3762,6 +3803,46 @@ Referentie: U-251106-1490</p>]]></admarkt:description>
     <admarkt:mpn>A 204 240 47 17 Q1</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>1P58920950</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte ABS pomp Kia Venga YN 1.4 CVVT 2016 589201P300 1P58920950</admarkt:title>
+    <admarkt:description><![CDATA[<p data-path-to-node="1">Gebruikte ABS pomp Kia Venga YN 1.4 CVVT 2016 589201P300 1P58920950</p>
+
+onderdeelnummer: 1P58920950
+Referentie: U-251106-1489]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-abs-pomp-kia-venga-yn-1-4-cvvt-2016-589201p300-1p58920950/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>27000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02576.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02577.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02578.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>1P58920950</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>U-251106-1487</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte ABS pomp Hyundai i30 2013 A658920500 58920A6210</admarkt:title>
@@ -3973,6 +4054,46 @@ Referentie: U-251105-1475]]></admarkt:description>
     <admarkt:mpn>06J903023Q</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>922339203</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Aircopomp Mini Cooper - 2013 - 922339203</admarkt:title>
+    <admarkt:description><![CDATA[<p data-path-to-node="1">Gebruikte Aircopomp Mini Cooper 2013 922339203</p>
+onderdeelnummer: 922339203
+Referentie: U-251105-1474]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-aircopomp-mini-cooper-2013-922339203/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02495.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02496-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02497.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02498.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>922339203</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>A 260 200 09 01</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Waterpomp Mercedes-Benz A 260 200 09 01</admarkt:title>
@@ -4015,6 +4136,48 @@ Referentie: U-251105-1472</p>]]></admarkt:description>
     <admarkt:mpn>A 260 200 09 01</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>1K0820808A</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Aircopomp Volkswagen Golf VI Variant 1.2 TSI BlueMotion 2010 1K0820808A</admarkt:title>
+    <admarkt:description><![CDATA[<p data-path-to-node="1">Gebruikte Aircopomp Volkswagen Golf VI Variant 1.2 TSI BlueMotion 2010 1K0820808A</p>
+
+onderdeelnummer: 1K0820808A
+Referentie: U-251105-1470]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-ac-compressor-u-251105-1470/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02473.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02474.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02475.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02476-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02477-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>1K0820808A</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>7059968</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Deurslot Actuator voor BMW 2001-2009 - 7059968</admarkt:title>
@@ -4054,6 +4217,48 @@ Referentie: U-251105-1464</p>]]></admarkt:description>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>7059968</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>5A7875200</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Aircopomp Ford Ka 2008-2016 51747318 5A7875200</admarkt:title>
+    <admarkt:description><![CDATA[<p data-path-to-node="1">Gebruikte Aircopomp Ford Ka 2008-2016 51747318 5A7875200</p>
+onderdeelnummer: 5A7875200
+Referentie: U-251105-1461]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-aircopomp-ford-ka-2008-2016-51747318-5a7875200/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02425.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02426.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02427.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02428.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02429.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02430.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>5A7875200</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>M000T32271</admarkt:vendorId>
