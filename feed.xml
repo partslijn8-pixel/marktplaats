@@ -3762,6 +3762,47 @@ Referentie: U-251106-1490</p>]]></admarkt:description>
     <admarkt:mpn>A 204 240 47 17 Q1</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>U-251106-1487</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte ABS pomp Hyundai i30 2013 A658920500 58920A6210</admarkt:title>
+    <admarkt:description><![CDATA[<p data-path-to-node="1">Gebruikte ABS pomp Hyundai i30 2013 A658920500 58920A6210</p>
+onderdeelnummer: A658920500
+Referentie: U-251106-1487]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-abs-pomp-u-251106-1487/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>15000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02566.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02567.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02568.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02569.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/04/DSC02570.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>U-251106-1487</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>061431</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte ABS pomp Opel Corsa D 1.2 16V 2009 13282282</admarkt:title>
@@ -24728,16 +24769,16 @@ Referentie: T-250914-0845]]></admarkt:description>
     <admarkt:mpn>63.11-7471838-06</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>A055364</admarkt:vendorId>
+    <admarkt:vendorId>31353285</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte mistachterlicht Volvo XC60 2008-2017 – A055364</admarkt:title>
+    <admarkt:title>Gebruikte mistachter licht Volvo XC60 2008-2017 – 31353285</admarkt:title>
     <admarkt:description><![CDATA[Rode mistachterlichtunit met zwarte kunststof behuizing, geschikt voor de linkerzijde. Voorzien van een geribbelde rode lens en bevestigingspunten op de behuizing. Gebruikt een P21W 12V lamp.<br>
-onderdeelnummer: A055364<br>
+onderdeelnummer: 31353285<br>
 Referentie: T-250914-0844]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-mistachterlicht-volvo-xc60-2008-2017-a055364/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>3300</admarkt:price>
+    <admarkt:price>6000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -24767,7 +24808,7 @@ Referentie: T-250914-0844]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>A055364</admarkt:mpn>
+    <admarkt:mpn>31353285</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>1K6945096AC</admarkt:vendorId>
