@@ -60708,10 +60708,14 @@ Referentienummer: B-250813-0039]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>52453F4140</admarkt:vendorId>
+    <admarkt:vendorId>52453F414050</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Bumper achter voor toyota C-HR 2021</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Bumper]]></admarkt:description>
+    <admarkt:title>Gebruikte Achterbumper Lip Toyota C-HR - 2021 - 52453F414050</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Bumper<br>
+<br>
+Onderdeelnummer: 52453F4140/50<br>
+<br>
+Referentienummer: A-250812-0002]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-toyota-2021/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -60721,6 +60725,20 @@ Referentienummer: B-250813-0039]]></admarkt:description>
     <admarkt:status>ACTIVE</admarkt:status>
     <admarkt:media>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_7987-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3853.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3854.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3855.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3856.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3857.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3858.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3859.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3860.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3847.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3848.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3849.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3850.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3851.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3852.jpg"/>
     </admarkt:media>
     <admarkt:budget>
       <admarkt:cpc>5</admarkt:cpc>
@@ -60741,7 +60759,7 @@ Referentienummer: B-250813-0039]]></admarkt:description>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:brand>toyota</admarkt:brand>
-    <admarkt:mpn>52453F4140</admarkt:mpn>
+    <admarkt:mpn>52453F414050</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>kleur</admarkt:attributeName>
