@@ -1,6 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
+    <admarkt:vendorId>735619778 -</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Achterbumper Fiat 500 1.0 Hybrid - 2020 - 735619778</admarkt:title>
+    <admarkt:description><![CDATA[<strong>Gebruikte Achterbumper Fiat 500 1.0 Hybrid - 2020 - 735619778</strong><br>
+<br>
+ <br>
+<br>
+Onderdeelnummer: 735619778<br>
+<br>
+Referentienummer: B-250813-0027]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-fiat-500-1-0-hybrid-2020-735619778/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>20000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00500-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00502-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00501-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3931.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3926.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3927.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3928.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3929.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3930.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>735619778 -</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-71113</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Achterbumper MG 5 EV - 2020 - P10369261</admarkt:title>
+    <admarkt:description><![CDATA[<p data-path-to-node="1">Gebruikte Achterbumper MG5 EV 2020 P10369261</p>
+Onderdeelnummer: P10369261
+
+Referentienummer: B-250813-0029]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-mg5-ev-2020-p10369261/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>30000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_8279-Large.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3950.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3951.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3952.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3953.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3954.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3955-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3956-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3957-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3947.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3948.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3949.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>850224339R</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Achterbumper Renault Clio V - 2022 - 850224339R</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Achterbumper Renault Clio V - 2022 - 850224339R<br>
+<br>
+ <br>
+<br>
+Onderdeelnummer: 850224339R<br>
+<br>
+Referentienummer: B-250813-0023]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-renault-clio-v-2022-850224339r/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>15000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3933.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3935.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3934-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3945.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3940.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3941.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3942.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3943.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3944.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3939-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3938.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3937.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3936.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>850224339R</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>51127256092</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Achterbumper PDC BMW E92 E93 LCI - 2010 - 51127256092</admarkt:title>
+    <admarkt:description><![CDATA[<p data-path-to-node="3">Gebruikte Achterbumper PDC BMW E92 E93 LCI 2010 51127256092</p>
+Onderdeelnummer: 51127256092
+
+Referentienummer: B-250818-0033]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-pdc-bmw-e92-e93-lci-2010-51127256092/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>15000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00514-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3960.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3962.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00515-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00516-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3964-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3965-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3966-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3967-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3963.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>51127256092</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>A1778856802 - 2</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Achterbumper Mercedes W177 A-Klasse - 2022 - A1778856802</admarkt:title>
