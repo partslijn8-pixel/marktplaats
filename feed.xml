@@ -9745,48 +9745,6 @@ Referentie: M-250905-0453]]></admarkt:description>
     <admarkt:mpn>M-250905-0453</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>M-250905-0451</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt spatbord Mercedes-Benz E-Class</admarkt:title>
-    <admarkt:description><![CDATA[Zwart spatbord met 'TURBO 4MATIC'-badge. Meerdere bevestigingspunten langs de randen. Oppervlakkige krassen aanwezig.<br>
-onderdeelnummer: NO_PART_NUMBER_FOUND<br>
-Referentie: M-250905-0451]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-mercedes-benz-e-class/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>36700</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/main-M-250905-0451-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250905-0451-.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250905-0451-1-1.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250905-0451-1-2.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250905-0451-1-3-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250905-0451-1-4.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>5</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>M-250905-0451</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>5G0821106B</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikt spatbord rechts-voor Volkswagen Golf MK7 2017 - 5G0821106B</admarkt:title>
@@ -51836,12 +51794,18 @@ Referentie:]]></admarkt:description>
   <admarkt:ad>
     <admarkt:vendorId>A2478811100 --L</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Scherm linksvoor voor mercedes a-klasse2022</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Scherm linksvoor]]></admarkt:description>
+    <admarkt:title>Gebruikte Scherm linksvoor voor Mercedes A-klasse 2022</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Scherm linksvoor<br>
+<br>
+ <br>
+<br>
+Onderdeelnummer: A2478811100<br>
+<br>
+Referentie: M-250905-0451]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-scherm-linksvoor-voor-mercedes-a-klasse2022/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>19000</admarkt:price>
+    <admarkt:price>25000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -54975,11 +54939,16 @@ Referentie:]]></admarkt:description>
     <admarkt:vendorId>A2478811100</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Scherm linksvoor voor mercedes GLA 2022</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Scherm linksvoor]]></admarkt:description>
+    <admarkt:description><![CDATA[Gebruikte Scherm linksvoor<br>
+<br>
+ <br>
+<br>
+Onderdeelnummer: A2478811100<br>
+Referentie: M-250905-0425]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-scherm-linksvoor-voor-mercedes2022/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>12000</admarkt:price>
+    <admarkt:price>25000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
