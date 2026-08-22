@@ -1257,50 +1257,6 @@ Referentie: A-260625-1590]]></admarkt:description>
     <admarkt:mpn>LV4B17D957J</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>51119853317</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper BMW X3 G01 2021-2024- 51119853317</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper BMW X3 G01 iX3 2021-2024<br>
-<br>
-Onderdeelnummer: 51119853317<br>
-Referentie: A-260624-158]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-bmw-x3-g01-2021-2024-51119853317/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>26000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0870.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0870.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0871.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0873-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0872.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0875-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0874-rotated.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>5</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>51119853317</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>735565259</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper Fiat 500 sport 2012-2015- 735565259</admarkt:title>
@@ -46226,7 +46182,7 @@ Onderdeelnummer: 866111P000<br>
 <br>
 COVER-RR Bumper UPR<br>
 <br>
-Referentienummer: A-25812-0016]]></admarkt:description>
+Referentienummer: A-250812-0016]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-voor-kia-venga-2016-2017-2018/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -46357,8 +46313,7 @@ Referentienummer: A-250812-0014]]></admarkt:description>
     <admarkt:title>Gebruikte Hyundai ix20 achterbumper 2011-2015 origineel 86611-1K000</admarkt:title>
     <admarkt:description><![CDATA[<p data-start="58" data-end="166">Gebruikte Hyundai ix20 achterbumper 2011-2015 origineel 86611-1K000 met reflector en parkeersensoren</p>
 <p data-start="58" data-end="166">Onderdeelnummer: 86611-1K000</p>
-<p data-start="58" data-end="166">Referentienummer: A-25812-0012</p>
-<p data-start="58" data-end="166"></p>
+<p data-start="58" data-end="166">Referentienummer: A-250812-0012</p>
 <p data-start="168" data-end="249" data-is-last-node="" data-is-only-node=""></p>]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-hyundai-ix20-achterbumper-2011-2015-origineel-86611-1k000/</admarkt:url>
@@ -46401,7 +46356,7 @@ Onderdeelnummer: 850226FR0H<br>
 <br>
  <br>
 <br>
-Referentienummer: A-25812-0010]]></admarkt:description>
+Referentienummer: A-250812-0010]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-voor-nissan-850226fr0h/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -46451,7 +46406,7 @@ VKL,HF30MSP,SP-T,HT<br>
 <br>
  <br>
 <br>
-Referentienummer: A-25812-0008]]></admarkt:description>
+Referentienummer: A-250812-0008]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/bmw-3-f30-achterbumper-kleur-blauw-2012-2019/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -58967,7 +58922,7 @@ RH4<br>
 <br>
 Hungary<br>
 <br>
-referentienummer: A-25812-0009]]></admarkt:description>
+referentienummer: A-250812-0009]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-audi2015/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -61074,7 +61029,7 @@ Referentienummer: C-250813-0064]]></admarkt:description>
     <admarkt:title>Gebruikte Bumper achter voor Hyundai I30 2012</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte Bumper<br>
 <br>
-Referentienummer: A-25812-0004]]></admarkt:description>
+Referentienummer: A-250812-0004]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-hyundai-i302012/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -61249,7 +61204,7 @@ Tkacikova Lubica<br>
 <br>
 M.No: PIJ004<br>
 <br>
-Referentienummer: A-25812-0011]]></admarkt:description>
+Referentienummer: A-250812-0011]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-kia2016/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -61468,7 +61423,7 @@ Referentienummer: A-250812-0003]]></admarkt:description>
 <br>
 Onderdeelnummer: L1TB17K8 23 H2F5jdc<br>
 <br>
-Referentienummer: A-258012-0001]]></admarkt:description>
+Referentienummer: A-250812-0001]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-ford-2021/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
