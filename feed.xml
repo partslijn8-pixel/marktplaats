@@ -1,6 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
+    <admarkt:vendorId>A1778856802 - 2</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Achterbumper Mercedes W177 A-Klasse - 2022 - A1778856802</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Achterbumper Mercedes W177 A-Klasse - 2022 - A1778856802<br>
+<br>
+ <br>
+<br>
+Onderdeelnummer: A1778856802<br>
+<br>
+Referentienummer: B-250813-0035]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-mercedes-w177-a-klasse-2022-a1778856802/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>32000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00524-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00527-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00525-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00526-Large.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A1778856802 - 2</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>K8D217F954</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikt Achterbumper Range Rover Evoque L551 - 2020 - K8D217F954</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikt Achterbumper Range Rover Evoqe - 2020 - K8D217F954<br>
+<br>
+ <br>
+<br>
+Onderdeelnummer: K8D217F954<br>
+<br>
+Referentienummer: A-250812-0005]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-achterbumper-range-rover-evoqe-2020-k8d217f954/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>60000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00341-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00345-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00342-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00343-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC00344-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3871.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3873.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3874.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3862-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3864-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3865-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/IMG_3867-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>K8D217F954</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>63217162300</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte achterlicht BMW 3 Series (E92) 2007-2010 – 63217162300</admarkt:title>
@@ -1257,6 +1353,50 @@ Referentie: A-260625-1590]]></admarkt:description>
     <admarkt:mpn>LV4B17D957J</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>51119853317</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper BMW IX3 G01 2021-2024- 51119853317</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper BMW X3 G01 iX3 2021-2024<br>
+<br>
+Onderdeelnummer: 51119853317<br>
+Referentie: A-260624-1589]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-bmw-x3-g01-2021-2024-51119853317/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>26000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0870.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0870.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0871.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0873-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0872.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0875-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0874-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>51119853317</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>735565259</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper Fiat 500 sport 2012-2015- 735565259</admarkt:title>
@@ -1434,53 +1574,6 @@ Referentie: A-260625-1580]]></admarkt:description>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:brand>Opel</admarkt:brand>
     <admarkt:mpn>50032559</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>62022BV80H</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper Nissan Juke F15 2014-2019- 62022BV80H</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper Nissan Juke F15 2014-2019<br>
-<br>
-Onderdeelnummer: 62022BV80H<br>
-<br>
-Referentie: A-260624-1584]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-nissan-juke-f15-2014-2019-62022bv80h/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>16999</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0837.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0837.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0838.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0839.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0842-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0841.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0843-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0844-rotated.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>5</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>Nissan</admarkt:brand>
-    <admarkt:mpn>62022BV80H</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>86611Q4000</admarkt:vendorId>
@@ -43265,7 +43358,7 @@ Referentienummer: H-250818-0164]]></admarkt:description>
   <admarkt:ad>
     <admarkt:vendorId>A1778856802</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Mercedes W177 A-Klasse  Achterbumper A1778856802</admarkt:title>
+    <admarkt:title>Gebruikte Achterbumper Mercedes W177 A-Klasse - 2020 - A1778856802</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte Mercedes W177 A-Klasse Achterbumper<br>
 <br>
 Onderdeelnummer: A1778856802<br>
@@ -43274,7 +43367,7 @@ Referentienummer: H-250818-0162]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-mercedes-w177-a-klasse-2018-achterbumper-a1778856802/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>6500</admarkt:price>
+    <admarkt:price>26500</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -46349,59 +46442,6 @@ Referentienummer: A-250812-0010]]></admarkt:description>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:brand>Nissan</admarkt:brand>
     <admarkt:mpn>850226FR0H</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>PL-5590</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte  BMW 3 F30 achterbumper kleur blauw 2012 - 2019</admarkt:title>
-    <admarkt:description><![CDATA[Bmw 3 F30 achterbumper M-pakket  kleur  blauw 2012 - 2019<br>
-<br>
-F30 M Sportpaket<br>
-<br>
-Part Number: 15857711<br>
-<br>
-VKL,HF30MSP,SP-T,HT<br>
-<br>
- <br>
-<br>
-Referentienummer: A-250812-0008]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/bmw-3-f30-achterbumper-kleur-blauw-2012-2019/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>20000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/08/DSC00362cop.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/08/DSC00362-Large.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/08/DSC00367-Large-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/08/DSC00368-Large-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/08/DSC00369-Large.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/08/DSC00366-Large-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/08/DSC00365-Large-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/08/DSC00364-Large.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/08/DSC00363-Large.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>5</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>BMW</admarkt:brand>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>924024P500</admarkt:vendorId>
@@ -58455,14 +58495,14 @@ Referentienummer: K-250819-0229]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>8A6117K823</admarkt:vendorId>
+    <admarkt:vendorId>8A6117906</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterbumper voor ford Fiesta 2008</admarkt:title>
+    <admarkt:title>Gebruikte achterbumper Ford Fiesta 2008 - 8A6117906</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte achterbumper voor ford Fiesta 2008<br>
 <br>
-8A6117906<br>
+ <br>
 <br>
-Onderdeelnummer: 8A6117K823<br>
+Onderdeelnummer: 8A6117906<br>
 <br>
 Referentienummer: B-250813-0028]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
@@ -58500,7 +58540,7 @@ Referentienummer: B-250813-0028]]></admarkt:description>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:brand>ford fiesta</admarkt:brand>
-    <admarkt:mpn>8A6117K823</admarkt:mpn>
+    <admarkt:mpn>8A6117906</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>kleur</admarkt:attributeName>
@@ -59910,7 +59950,7 @@ Referentienummer: A-250812-0022]]></admarkt:description>
 <br>
 Onderdeelnummer: D10J50221<br>
 <br>
-Referentienummer: B-250813-0029]]></admarkt:description>
+Referentienummer: B-250813-0030]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-mazda2017/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -60054,8 +60094,14 @@ Referentienummer: i-250818-0188]]></admarkt:description>
   <admarkt:ad>
     <admarkt:vendorId>HY32-17D781</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Bumper achter voor Land Rover Discovery 2020</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Bumper]]></admarkt:description>
+    <admarkt:title>Gebruikte Achterbumper Land Rover Discovery 2020</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Achterbumper Land Rover Discovery 2020<br>
+<br>
+ <br>
+<br>
+Onderdeelnummer: HY3217D781<br>
+<br>
+Referentienummer: B-250813-0034]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-land-rover-discovery2020/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -60064,9 +60110,11 @@ Referentienummer: i-250818-0188]]></admarkt:description>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
     <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_8051-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_8052-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00519-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00521-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00520-Large.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_8050-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_8052-scaled.jpg"/>
     </admarkt:media>
     <admarkt:budget>
       <admarkt:cpc>5</admarkt:cpc>
@@ -60505,7 +60553,7 @@ Referentienummer: B-250813-0024]]></admarkt:description>
     <admarkt:description><![CDATA[Gebruikte Bumper<br>
 <br>
 Onderdeelnummer: 5215953070<br>
-Referentie: B-250811-0036]]></admarkt:description>
+Referentie: B-250813-0036]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-toyota-2009/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -60608,7 +60656,13 @@ Referentienummer: B-250813-0032]]></admarkt:description>
     <admarkt:vendorId>5F0807421</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Bumper achter voor seat leon 2016</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Bumper]]></admarkt:description>
+    <admarkt:description><![CDATA[Gebruikte Bumper<br>
+<br>
+ <br>
+<br>
+Onderdeelnummer: 5F0807421<br>
+<br>
+Referentienummer: B-250813-0037]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-seat2016/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -60617,9 +60671,13 @@ Referentienummer: B-250813-0032]]></admarkt:description>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
     <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7998-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7997-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00534-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00538-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00535-Large.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00536-Large.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7999-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7997-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00537-Large.jpg"/>
     </admarkt:media>
     <admarkt:budget>
       <admarkt:cpc>5</admarkt:cpc>
@@ -60869,8 +60927,12 @@ Referentienummer: B-250813-0038]]></admarkt:description>
   <admarkt:ad>
     <admarkt:vendorId>511272758411</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Bumper achter voor bmw 3 serie 2008</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Bumper]]></admarkt:description>
+    <admarkt:title>Gebruikte Achterbumper BMW 3 Serie 2008 - 511272758411</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Bumper<br>
+<br>
+Onderdeelnummer: 511272758411<br>
+<br>
+Referentienummer: A-250812-0007]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-bmw2008/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -60879,9 +60941,15 @@ Referentienummer: B-250813-0038]]></admarkt:description>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
     <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_7962-1-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_7961-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_7963-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3879.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3881.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3880.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3882.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3883.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3886.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3884.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3885.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/IMG_3876-rotated.jpg"/>
     </admarkt:media>
     <admarkt:budget>
       <admarkt:cpc>5</admarkt:cpc>
