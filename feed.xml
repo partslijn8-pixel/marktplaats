@@ -28795,7 +28795,7 @@ Referentie: T-250911-0750]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-achterlicht-kia-venga-2010-2019-92402-18900/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>4500</admarkt:price>
+    <admarkt:price>8000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -40695,18 +40695,18 @@ Onderdeelnummer: 92401D7600<br data-start="1522" data-end="1525" />Referentienum
     <admarkt:mpn>6321716230206</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-7220</admarkt:vendorId>
+    <admarkt:vendorId>924012P000-</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte achterlicht Kia Venga 2010-2019 – 9240219000</admarkt:title>
     <admarkt:description><![CDATA[achterlichtunit (tail‑lamp) voor de linker achterzijde bij  Kia.<br>
 <br>
-<strong data-start="883" data-end="922">Onderdeelnummer :</strong> 924011P000<br>
+<strong data-start="883" data-end="922">Onderdeelnummer :</strong> 924012P000<br>
 <br>
 <strong data-start="883" data-end="922"> Referentienummer:T-251016-1249</strong>]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/kia-achterlicht-links/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>16000</admarkt:price>
+    <admarkt:price>8000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -40736,6 +40736,7 @@ Onderdeelnummer: 92401D7600<br data-start="1522" data-end="1525" />Referentienum
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>924012P000-</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>63115A0116101</admarkt:vendorId>
