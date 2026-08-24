@@ -157,7 +157,7 @@ Referentienummer: B-250813-0023]]></admarkt:description>
     <admarkt:description><![CDATA[<p data-path-to-node="3">Gebruikte Achterbumper PDC BMW E92 E93 LCI 2010 51127256092</p>
 Onderdeelnummer: 51127256092
 
-Referentienummer: B-250818-0033]]></admarkt:description>
+Referentienummer: B-250813-0033]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-pdc-bmw-e92-e93-lci-2010-51127256092/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -10509,12 +10509,13 @@ Referentie: M-250904-0435]]></admarkt:description>
     <admarkt:mpn>13252456</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>M-250404-0434</admarkt:vendorId>
+    <admarkt:vendorId>2125832</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt spatbord Ford Fiesta 8 -2017-2025</admarkt:title>
+    <admarkt:title>Gebruikt Spatbord Ford Fiesta 8 - 2017 - 2125832</admarkt:title>
     <admarkt:description><![CDATA[Donkergrijs (anthraciet) metallic spatbord. Carrosseriedeel met geïntegreerde wielkast.<br>
-onderdeelnummer:<br>
-Referentie: M-250404-0434]]></admarkt:description>
+<br>
+onderdeelnummer: 2125832<br>
+Referentie: M-250904-0434]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-ford-fiesta-8-2017-2025/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -10548,15 +10549,15 @@ Referentie: M-250404-0434]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>M-250404-0434</admarkt:mpn>
+    <admarkt:mpn>2125832</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>-3MZKEF91600147917</admarkt:vendorId>
+    <admarkt:vendorId>KD5352111A</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt spatbord Mazda CX-5 2012-2016 – -3MZKEF91600147917</admarkt:title>
+    <admarkt:title>Gebruikt Rechtsvoor Spatbord Mazda CX-5 2013 - KD5352111A</admarkt:title>
     <admarkt:description><![CDATA[Donkerblauw voorspatbord met zichtbare krassen en gebruikssporen op het gelakte oppervlak. Inclusief bevestigingspunten langs de binnenrand en een zwart kunststof beugeltje aan de voorzijde.<br>
 <br>
-onderdeelnummer: -3MZKEF91600147917<br>
+onderdeelnummer: -KD5352111A<br>
 Referentie: M-250904-0433]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-mazda-cx-5-2012-2016-3mzkef91600147917/</admarkt:url>
@@ -10591,20 +10592,20 @@ Referentie: M-250904-0433]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>-3MZKEF91600147917</admarkt:mpn>
+    <admarkt:mpn>KD5352111A</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>GHP9300UT</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt spatbord Mazda Mazda 6 2012-2016 – GHP9300UT</admarkt:title>
-    <admarkt:description><![CDATA[Rood metallic voorspatbord met zichtbare oppervlakkige krassen en twee gele markeringen. Bevestigingspunten zijn zichtbaar aan de voor- en onderrand.<br>
+    <admarkt:title>Gebruikt Linksvoor Spatbord Mazda 6 2013 – GHP952211A</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikt Linksvoor Spatbord Mazda 6 2013 – GHP952211A<br>
 <br>
-onderdeelnummer: GHP9300UT<br>
+onderdeelnummer: GHP952211A<br>
 Referentie: M-250904-0432]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-mazda-mazda-6-2012-2016-ghp9300ut/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>9300</admarkt:price>
+    <admarkt:price>16000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -10638,17 +10639,17 @@ Referentie: M-250904-0432]]></admarkt:description>
     <admarkt:mpn>GHP9300UT</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>M-250904-0431</admarkt:vendorId>
+    <admarkt:vendorId>GHP952211A</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt spatbord Mazda 6 2012-2018</admarkt:title>
+    <admarkt:title>Gebruikt Linksvoor Spatbord Mazda 6 2013 - GHP952211A</admarkt:title>
     <admarkt:description><![CDATA[Rood gespoten spatbord met een gladde, glanzende afwerking.<br>
 <br>
-onderdeelnummer: NO_PART_NUMBER_FOUND<br>
+onderdeelnummer: GHP952211A<br>
 Referentie: M-250904-0431]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-mazda-6-2012-2018-2/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>12000</admarkt:price>
+    <admarkt:price>15000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -10678,19 +10679,20 @@ Referentie: M-250904-0431]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>M-250904-0431</admarkt:mpn>
+    <admarkt:mpn>GHP952211A</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>M-250904-0430</admarkt:vendorId>
+    <admarkt:vendorId>GHP952111A-</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt spatbord Mazda 3 2014-2018</admarkt:title>
-    <admarkt:description><![CDATA[Rood voorspatbord met zichtbare oppervlakkige krassen. Lichte schade aanwezig, waaronder een licht verbogen rand aan de onderzijde achter en zwart trim zichtbaar aan de voorrand.<br>
-onderdeelnummer: NO_PART_NUMBER_FOUND<br>
+    <admarkt:title>Gebruikt Rechtsvoor Spatbord Mazda 6 2013 - GHP952111A</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikt Rechtsvoor Spatbord Mazda 6 2013 - GHP952111A<br>
+<br>
+Onderdeelnummer: GHP952111A<br>
 Referentie: M-250904-0430]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-mazda-3-2014-2018/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>27500</admarkt:price>
+    <admarkt:price>15000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -10720,20 +10722,20 @@ Referentie: M-250904-0430]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>M-250904-0430</admarkt:mpn>
+    <admarkt:mpn>GHP952111A-</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>M-250904-0429</admarkt:vendorId>
+    <admarkt:vendorId>GHP952111A</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt spatbord Mazda 6 2012-2018</admarkt:title>
-    <admarkt:description><![CDATA[Rood voorspatbord. Carrosseriedeel met gebogen vorm. Krassen zichtbaar op het oppervlak. Bevestigingspunten zichtbaar aan de binnenzijde nabij de voorrand.<br>
+    <admarkt:title>Gebruikt Richtsvoor Spatbord Mazda 6 2013 - GHP952111A</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikt spatbord Mazda 6 2013 - GHP952111A<br>
 <br>
-onderdeelnummer: NO_PART_NUMBER_FOUND<br>
+onderdeelnummer: GHP952111A<br>
 Referentie: M-250904-0429]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-mazda-6-2012-2018/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>9000</admarkt:price>
+    <admarkt:price>15000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -10763,7 +10765,7 @@ Referentie: M-250904-0429]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>M-250904-0429</admarkt:mpn>
+    <admarkt:mpn>GHP952111A</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>M-250904-0428</admarkt:vendorId>
@@ -39478,18 +39480,18 @@ Onderdeelnummer: <strong class="Yjhzub" data-complete="true">737001P000</strong>
     <admarkt:condition>used</admarkt:condition>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>KDY1-62-02XD    KDY3-62-02XD</admarkt:vendorId>
+    <admarkt:vendorId>KBY56202XB--</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Achterklep Mazda CX-5 (2012-2017)</admarkt:title>
     <admarkt:description><![CDATA[gebruikte OEM-achterklep (tailgate) inclusief achterruit en ruitenwisser voor de Mazda CX-5
 
-Onderdeelnummer: <strong class="Yjhzub" data-complete="true">KDY1-62-02XD    </strong><strong class="Yjhzub" data-complete="true">KDY3-62-02XD</strong>
+Onderdeelnummer: KBY56202XB
 
 <br data-start="940" data-end="943" />Referentienummer:  Q-251017-1277]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/achterklep-mazda-cx-5-2012-2017-2/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>40000</admarkt:price>
+    <admarkt:price>30000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -39531,7 +39533,7 @@ Onderdeelnummer: <strong class="Yjhzub" data-complete="true">KDY1-62-02XD    <
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>KDY1-62-02XD    KDY3-62-02XD</admarkt:mpn>
+    <admarkt:mpn>KBY56202XB--</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>13375224</admarkt:vendorId>
@@ -51897,52 +51899,6 @@ Referentie:]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>KBY56202XB -</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebtuikte achterklep voor mazda cx5 2014</admarkt:title>
-    <admarkt:description><![CDATA[Gebtuikte achterklep]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebtuikte-achterklep-voor-mazda-cx52014-2/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>27500</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/IMG_1004-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/IMG_1007-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/IMG_1006-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/IMG_1005-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/IMG_1008-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>5</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>mazda cx5</admarkt:brand>
-    <admarkt:mpn>KBY56202XB -</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>rood</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>GHY05902XJ -</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte deur links-voor voor mazda 6 2015</admarkt:title>
@@ -55137,7 +55093,7 @@ Referentie: M-250905-0451]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-scherm-linksvoor-voor-mazda2014/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>7500</admarkt:price>
+    <admarkt:price>12500</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
