@@ -1,6 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
+    <admarkt:vendorId>1K6821021A</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikt Scherm links-voor Volkswagen Golf V 1.6 FSI - 2003 - 1K6821021A</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikt Scherm links-voor Volkswagen Golf V 1.6 FSI - 2003 - 1K6821021A<br>
+<br>
+ <br>
+<br>
+onderdeelnummer: 1K6821021A<br>
+<br>
+Referentie: M-250904-0445]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-scherm-links-voor-volkswagen-golf-v-1-6-fsi-2003-1k6821021a/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>10000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-18.53.06.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-18.53.15.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-18.53.45.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-18.53.59.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-18.54.12.jpeg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>1K6821021A</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>9808757880</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikt Spatbord  Opel Vivaro - 2019 - 9808757880</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikt Peugeot Citroen Spatbord - 2019 - 9808757880<br>
+<br>
+ <br>
+<br>
+onderdeelnummer: 9808757880<br>
+Referentie: M-250904-0449]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-peugeot-citroen-spatbord-2019-9808757880/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>15000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04162-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04163-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04164.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04165.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04166.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>9808757880</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2538810143</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikt Spatbord MERCEDES GLC W253 X253 - 2016 - A2538810143</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikt VOORSCHERM ZIJSCHERM MERCEDES GLC W253 X253 - 2016 - A2538810143<br>
+<br>
+Onderdeelnummer:  A2538810143<br>
+Referentie: M-250904-0438]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-voorscherm-zijscherm-mercedes-glc-w253-x253-2016-a2538810143/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>25000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04084.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04085.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04086.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04087.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04088.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04089-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC04083.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2538810143</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2478811200</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikt Scherm Mercedes GLA 1.3 200 Turbo - 2024 - A2478811200</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikt Scherm Mercedes GLA 1.3 200 Turbo - 2024 - A2478811200<br>
+<br>
+ <br>
+<br>
+Onderdeelnummer: A2478811200<br>
+Referentie: M-250904-0425]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-scherm-mercedes-gla-1-3-200-turbo-2024-a2478811200/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>30000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03980.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03985.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03981.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03982.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03983-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03984.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2478811200</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>41355A03261</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikt Spatbord links-voor BMW 5-Serie - 2009 / 2017- 41355A03261</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikt Scherm links-voor BMW 5-Serie - 2009 / 2017- 41355A03261<br>
+<br>
+ <br>
+<br>
+Onderdeelnummer: 41355A03261<br>
+Referentie: M-250904-0413]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-links-voor-bmw-5-serie-2009-2017-41355a03261/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>20000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03884.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03890.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03885.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03886-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03887.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03888.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/DSC03889.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>5</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>41355A03261</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>735619778 -</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Achterbumper Fiat 500 1.0 Hybrid - 2020 - 735619778</admarkt:title>
@@ -10077,17 +10301,17 @@ Referentie: M-250904-0450]]></admarkt:description>
     <admarkt:mpn>5G0821106B</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>M.250904</admarkt:vendorId>
+    <admarkt:vendorId>663111P051</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte spatbord KIA Sorento 2015-2020 – M.250904</admarkt:title>
+    <admarkt:title>Gebruikte links-voor Spatbord KIA Kia Venga (EQ) 2015 – 663111P051</admarkt:title>
     <admarkt:description><![CDATA[Zilverkleurig spatbord met een glad, gebogen ontwerp en zichtbare bevestigingspunten aan de bovenkant vooraan. Oppervlakte met lichte gebruikssporen en vuil, vooral aan de onderrand.<br>
 <br>
-onderdeelnummer: M.250904<br>
+onderdeelnummer: 663111P051<br>
 Referentie: M-250904-0448]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-spatbord-kia-sorento-2015-2020-m-250904/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>9000</admarkt:price>
+    <admarkt:price>18000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -10098,12 +10322,6 @@ Referentie: M-250904-0448]]></admarkt:description>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250904-1-2-rotated.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250904-1-3.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250904-1-4.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250904-1-5.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250904-1-6-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250904-1-7-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250904-1-8.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250904-1-9.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250904-1-10.jpg"/>
     </admarkt:media>
     <admarkt:budget>
       <admarkt:cpc>5</admarkt:cpc>
@@ -10123,7 +10341,7 @@ Referentie: M-250904-0448]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>M.250904</admarkt:mpn>
+    <admarkt:mpn>663111P051</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>M-250904-0447</admarkt:vendorId>
@@ -10382,16 +10600,17 @@ Referentie: M-250904-0440]]></admarkt:description>
     <admarkt:mpn>M-250904-0440</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>M-250904-0439</admarkt:vendorId>
+    <admarkt:vendorId>A2078810201</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt spatbord Mercedes-Benz C-Class 2007-2015</admarkt:title>
-    <admarkt:description><![CDATA[Voorste linker spatbord in metallic grijs/zilver met 'BLUE EFFICIENCY'-badge.<br>
-onderdeelnummer: NO_PART_NUMBER_FOUND<br>
+    <admarkt:title>Gebruikt spatbord Mercedes-Benz E C207 W207 - 2011 - A2078810201</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikt spatbord Mercedes-Benz E C207 W207 - 2011 - A2078810201<br>
+<br>
+onderdeelnummer: A2078810201<br>
 Referentie: M-250904-0439]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-mercedes-benz-c-class-2007-2015/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>14500</admarkt:price>
+    <admarkt:price>38000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -10420,7 +10639,7 @@ Referentie: M-250904-0439]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>M-250904-0439</admarkt:mpn>
+    <admarkt:mpn>A2078810201</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>M-250904-0437</admarkt:vendorId>
@@ -11074,11 +11293,11 @@ Referentie: M-250904-0418]]></admarkt:description>
     <admarkt:description><![CDATA[Zwart autospatbord met gladde, glanzende afwerking en de typische contouren van een carrosseriepaneel voor de wielkast. zichtbare uitsparingen voor zijmarkering of richtingaanwijzer in de getoonde beelden. Met een bevestigingspunt of opening aan de onderzijde achter.<br>
 <br>
 onderdeelnummer: 41007427514<br>
-Referentie: M-750904-0416]]></admarkt:description>
+Referentie: M-250904-0416]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikt-rechts-spatbord-voor-bmw-g11-g12rh-2016-41007427514/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>26550</admarkt:price>
+    <admarkt:price>28000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -11112,17 +11331,17 @@ Referentie: M-750904-0416]]></admarkt:description>
     <admarkt:mpn>41007427514</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>M2509040415</admarkt:vendorId>
+    <admarkt:vendorId>631017334R</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt spatbord Renault Zoe 2018</admarkt:title>
+    <admarkt:title>Gebruikt spatbord Renault Clio IV 2018 - 631017334R</admarkt:title>
     <admarkt:description><![CDATA[Zwart spatbord met een gladde, glanzende afwerking. Getoond vanuit meerdere hoeken en voorzien van diverse bevestigingspunten en contouren.<br>
 <br>
-onderdeelnummer: M2509040415<br>
+Onderdeelnummer: 631017334R<br>
 Referentie: M-250904-0415]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-renault-zoe/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>9225</admarkt:price>
+    <admarkt:price>10000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -11153,7 +11372,7 @@ Referentie: M-250904-0415]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>M2509040415</admarkt:mpn>
+    <admarkt:mpn>631017334R</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>11449715</admarkt:vendorId>
@@ -52032,50 +52251,6 @@ Referentie: M-250905-0451]]></admarkt:description>
       <admarkt:attribute>
         <admarkt:attributeName>kleur</admarkt:attributeName>
         <admarkt:attributeValue>zwart</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>a2538810143</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Scherm linksvoor voor mercedes GLC 2022</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Scherm linksvoor]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-scherm-linksvoor-voor-mercedes2022-2/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>12000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0447-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0448-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0449-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>5</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>mercedes</admarkt:brand>
-    <admarkt:mpn>a2538810143</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>grijs</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
