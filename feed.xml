@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
+    <admarkt:vendorId>PV4B-17757-SA</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper Ford Kuga III dfk 2020- PV4B17757SA</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper Ford Kuga III 2024-2026<br>
+<br>
+Onderdeelnummer: PV4B17757SA<br>
+<br>
+Referentie: A-260624-1585]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-ford-kuga-iii-dfk-2020-pv4b17757sa/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>35000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0846.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0846.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0847.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0848.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0849.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0850.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Ford</admarkt:brand>
+    <admarkt:mpn>PV4B-17757-SA</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>9808839977</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper voor Peugeot / Citroën / Toyota Expert III / Jumpy III / ProAce II 2016-2023 – 9808839977</admarkt:title>
@@ -209,59 +254,6 @@ Kleur: zwart (glanzend)]]></admarkt:description>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
         <admarkt:attributeValue>zwart (glanzend)</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>71101TF0ZX00</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper voor Honda Jazz 3 2011-2015 – 71101TF0ZX00</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper voor Honda Jazz 3 2011-2015<br>
-<br>
-Onderdeelnummer: 71101TF0ZX00<br>
-<br>
-Referentienummer: D-250813-0056<br>
-<br>
-Kleur: blauw parelmoer (paint code B584P)]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-voor-honda-jazz-3-2011-2015-71101tf0zx00/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>25000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0056-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0056-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0056-03.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0056-04.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0056-05.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0056-06-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0056-07.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>71101TF0ZX00</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>blauw parelmoer (paint code B584</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
@@ -587,7 +579,7 @@ Kleur: zilvergrijs metallic met zwart (silver metallic with black textured lower
     <admarkt:vendorId>HN0411701</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper voor Hyundai i30 2012-2016 – HN0411701</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper voor Hyundai i30 2012-2016<br>
+    <admarkt:description><![CDATA[Gebruikte voorbumper voor Hyundai i30 met rechts een links koplamp<br>
 <br>
 Onderdeelnummer: HN0411701<br>
 <br>
@@ -597,7 +589,7 @@ Kleur: zwart / phantom black (black)]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-voor-hyundai-i30-2012-2016-hn0411701/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>19000</admarkt:price>
+    <admarkt:price>50000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -3624,6 +3616,53 @@ Referentie: A-260625-1580]]></admarkt:description>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:brand>Opel</admarkt:brand>
     <admarkt:mpn>50032559</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>62022BV80H</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper Nissan Juke F15 2014-2019- 62022BV80H</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper Nissan Juke F15 2014-2019<br>
+<br>
+Onderdeelnummer: 62022BV80H<br>
+<br>
+Referentie: A-260624-1584]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-nissan-juke-f15-2014-2019-62022bv80h/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>45000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0837.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0837.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0838.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0839.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0842-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0841.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0843-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/06/IMG_0844-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Nissan</admarkt:brand>
+    <admarkt:mpn>62022BV80H</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>86611Q4000</admarkt:vendorId>
@@ -11258,49 +11297,6 @@ Referentie: M-250905-0470]]></admarkt:description>
     <admarkt:mpn>6056502</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>A1188810300</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt Spatbord Mercedes-Benz A-Class Coupe (W118 CLA) - 2021 - A1188810300</admarkt:title>
-    <admarkt:description><![CDATA[Spatbord voorzijde in donker metallic grijs. Met bevestigingspunten zichtbaar aan de onderrand.<br>
-<br>
-onderdeelnummer: A1188810300<br>
-Referentie: M-250905-0469]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-mercedes-benz/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>12000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/main-M.250905-0469.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250905-0469--rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250905-0469-1-1.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250905-0469-1-2.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250905-0469-1-3.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M.250905-0469-1-4.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>A1188810300</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>M-250905-0468</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte spatbord BMW 4-Series (F32/F33/F36) - 2013 - 41007329542</admarkt:title>
@@ -11384,17 +11380,17 @@ Referentie: M-250905-0467]]></admarkt:description>
     <admarkt:mpn>2GA821112</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>M-250905-0466</admarkt:vendorId>
+    <admarkt:vendorId>663211P000-</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt spatbord KIA Picanto</admarkt:title>
+    <admarkt:title>Gebruikte rechts-voor Spatbord KIA Kia Venga (EQ) 2015 – 663211P000</admarkt:title>
     <admarkt:description><![CDATA[Gebruikt zilverkleurig spatbord met een glad, gebogen oppervlak. Het onderdeel vertoont lichte gebruikssporen zoals kleine krassen en vuil, vooral aan de onderrand.<br>
 <br>
-onderdeelnummer: NO_PART_NUMBER_FOUND<br>
+onderdeelnummer: 663211P000<br>
 Referentie: M-250905-0466]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-kia-picanto/</admarkt:url>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-rechts-voor-spatbord-kia-kia-venga-eq-2015-663211p000/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>7500</admarkt:price>
+    <admarkt:price>18000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -11424,7 +11420,7 @@ Referentie: M-250905-0466]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>M-250905-0466</admarkt:mpn>
+    <admarkt:mpn>663211P000-</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>41009805644</admarkt:vendorId>
@@ -60437,7 +60433,7 @@ referentienummer: A-250812-0009]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-audi2015/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>9900</admarkt:price>
+    <admarkt:price>16000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
