@@ -42325,50 +42325,6 @@ Onderdeelnummer: 92401D7600<br data-start="1522" data-end="1525" />Referentienum
     <admarkt:mpn>9820059680</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>6321716230206</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt BMW 3 E92 E93 Achterlicht Rechts - 2006-2013 -  480622R</admarkt:title>
-    <admarkt:description><![CDATA[OEM-achterlicht voor de <strong data-start="629" data-end="652">rechterzijde achter</strong> van een BMW 3-serie (E92 / E93).<br>
-<br>
- <br>
-<br>
-<strong>Onderdeelnummer:</strong> 6321716230206<br>
-<strong>Referentienummer:</strong> T-251016-1253]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/bmw-achterlicht-rechts-7174404/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>14000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/11/DSC00134.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/11/DSC00136.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/11/DSC00137.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/11/DSC00134.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/11/DSC00135.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>6321716230206</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>924012P000-</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte achterlicht Kia Venga 2010-2019 – 9240219000</admarkt:title>
@@ -47574,12 +47530,11 @@ Referentienummer: F-250815-0101]]></admarkt:description>
  <br>
 <br>
 Onderdeelnummer: 31323831<br>
-<br>
-Referentienummer: F-250815-0100]]></admarkt:description>
+Referentienummer: E-250815-0100]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-volvo-s60-ii-voorbumper-31323831/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>60000</admarkt:price>
+    <admarkt:price>21500</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
