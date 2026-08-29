@@ -935,8 +935,8 @@ Kleur: wit]]></admarkt:description>
   <admarkt:ad>
     <admarkt:vendorId>PL-72266</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte deur rechtsachter voor Audi A1 Sportback 2012-2018</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte deur rechtsachter voor Audi A1 Sportback 2012-2018<br>
+    <admarkt:title>Gebruikte deur rechtsachter voor Audi A1 Sport 2012-2018</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte deur rechtsachter voor Audi A1 Sport 2012-2018<br>
 <br>
 Referentienummer: R-250830-0337<br>
 <br>
@@ -944,7 +944,7 @@ Kleur: wit]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-deur-rechtsachter-voor-audi-a1-sportback-2012-2018/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>17500</admarkt:price>
+    <admarkt:price>22000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -991,7 +991,7 @@ Kleur: zwart]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-deur-linksvoor-voor-kia-sportage-2021-2025/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>37500</admarkt:price>
+    <admarkt:price>25000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -1027,10 +1027,12 @@ Kleur: zwart]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72256</admarkt:vendorId>
+    <admarkt:vendorId>41009805928</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte deur rechtsvoor voor Mini Countryman R60 2010-2016</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte deur rechtsvoor voor Mini Countryman R60 2010-2016<br>
+    <admarkt:title>Gebruikte deur rechtsvoor voor Mini Countryman Countryman R60 2010-2017 – 41009805928</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte deur rechtsvoor voor Mini Countryman Countryman R60 2010-2017<br>
+<br>
+Onderdeelnummer: 41009805928<br>
 <br>
 Referentienummer: R-250830-0333<br>
 <br>
@@ -1066,6 +1068,7 @@ Kleur: donkerblauw]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>41009805928</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
@@ -1122,10 +1125,12 @@ Kleur: zwart]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72244</admarkt:vendorId>
+    <admarkt:vendorId>4M0831052F</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte deur rechtsvoor voor Audi Q4 e-tron 2021-2024</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte deur rechtsvoor voor Audi Q4 e-tron 2021-2024<br>
+    <admarkt:title>Gebruikte deur rechtsvoor voor Audi Q-7 2015-2018 – 4M0831052F</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte deur rechtsvoor voor Audi Q-7 2015-2018<br>
+<br>
+Onderdeelnummer: 4M0831052F<br>
 <br>
 Referentienummer: R-250830-0329<br>
 <br>
@@ -1133,7 +1138,7 @@ Kleur: donkerblauw metallic]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-deur-rechtsvoor-voor-audi-q4-e-tron-2021-2024/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>30000</admarkt:price>
+    <admarkt:price>17000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -1164,6 +1169,7 @@ Kleur: donkerblauw metallic]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>4M0831052F</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
