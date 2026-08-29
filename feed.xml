@@ -7905,15 +7905,16 @@ Referentie: T-250911-0746]]></admarkt:description>
   <admarkt:ad>
     <admarkt:vendorId>31663981</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterbumper Polestar 2 (2020-2024)- 31663981</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte achterbumper Polestar 2 (2020-2024)<br>
+    <admarkt:title>Gebruikte achterbumper voor Polestar 2 2023 – 31663981</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterbumper voor Polestar 2 2023<br>
 <br>
 Onderdeelnummer: 31663981<br>
-Referentie: C-260703-1618]]></admarkt:description>
+<br>
+Referentienummer: C-260703-1618]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-polestar-2-2020-2024-31663981/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>12000</admarkt:price>
+    <admarkt:price>29900</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -67860,62 +67861,6 @@ Referentienummer: A-250812-0007]]></admarkt:description>
       <admarkt:attribute>
         <admarkt:attributeName>kleur</admarkt:attributeName>
         <admarkt:attributeValue>zwart</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>865111P500</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte Voorbumper voor Kia Venga 2015</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte Bumper voor voor Kia Venga 2015<br>
-<br>
- <br>
-<br>
-Onderdeelnummer: 865111P500<br>
-<br>
-Referentienummer: C-250813-0064]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-achter-voor-kia-venga2015/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>35000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00793-Large.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7946-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7950-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_7947-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00794-Large.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00795-Large.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00796-Large.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00797-Large.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/10/DSC00798-Large.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>kia venga</admarkt:brand>
-    <admarkt:mpn>865111P500</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>grijs</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
