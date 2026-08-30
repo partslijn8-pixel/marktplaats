@@ -2079,10 +2079,12 @@ Kleur: wit]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72100</admarkt:vendorId>
+    <admarkt:vendorId>1617322980</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterdeur (bestelwagen) voor Citroën Jumper 2006-2024</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte achterdeur (bestelwagen) voor Citroën Jumper 2006-2024<br>
+    <admarkt:title>Gebruikte achterdeur voor Citroën Jumper - Peugeot Boxer Fiat Ducato 2006-2024 – 1617322980</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterdeur voor Citroën Jumper - Peugeot Boxer Fiat Ducato 2006-2024<br>
+<br>
+Onderdeelnummer: 1617322980<br>
 <br>
 Referentienummer: O-250902-0402<br>
 <br>
@@ -2090,7 +2092,7 @@ Kleur: wit]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-achterdeur-bestelwagen-voor-citroen-jumper-2006-2024/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>20000</admarkt:price>
+    <admarkt:price>45000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -2117,6 +2119,7 @@ Kleur: wit]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>1617322980</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
