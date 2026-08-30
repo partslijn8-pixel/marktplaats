@@ -1670,8 +1670,8 @@ Kleur: rood (Royal Mail livery)]]></admarkt:description>
   <admarkt:ad>
     <admarkt:vendorId>2GS831311</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte deur linksvoor (kale plaatdeur) voor Volkswagen Polo VI familie 2017-2024 – 2GS831311</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte deur linksvoor (kale plaatdeur) voor Volkswagen Polo VI familie 2017-2024<br>
+    <admarkt:title>Gebruikte deur linksvoor voor Volkswagen (Polo VI - (2G 2017-2024 – 2GS831311</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte deur linksvoor voor Volkswagen (Polo VI - (2G 2017-2024<br>
 <br>
 Onderdeelnummer: 2GS831311<br>
 <br>
@@ -1681,7 +1681,7 @@ Kleur: zwart]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-deur-linksvoor-kale-plaatdeur-voor-volkswagen-polo-vi-familie-2017-2024-2gs831311/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>14000</admarkt:price>
+    <admarkt:price>32500</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -1975,10 +1975,12 @@ Kleur: zwart]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72115</admarkt:vendorId>
+    <admarkt:vendorId>32345930</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte deur linksvoor voor Volvo S90 2016-2023</admarkt:title>
+    <admarkt:title>Gebruikte deur linksvoor voor Volvo S90 2016-2023 – 32345930</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte deur linksvoor voor Volvo S90 2016-2023<br>
+<br>
+Onderdeelnummer: 32345930<br>
 <br>
 Referentienummer: Q-250825-0280<br>
 <br>
@@ -1986,7 +1988,7 @@ Kleur: donkerblauw metallic (denim blue)]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-deur-linksvoor-voor-volvo-s90-2016-2023/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>22500</admarkt:price>
+    <admarkt:price>35900</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -2015,6 +2017,7 @@ Kleur: donkerblauw metallic (denim blue)]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>32345930</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
