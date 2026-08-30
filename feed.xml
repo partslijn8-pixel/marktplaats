@@ -1572,18 +1572,20 @@ Kleur: donkergrijs metallic]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72186</admarkt:vendorId>
+    <admarkt:vendorId>9811894980</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterdeur (bestelwagen) voor Vauxhall/Opel Combo D 2011-2018</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte achterdeur (bestelwagen) voor Vauxhall/Opel Combo D 2011-2018<br>
+    <admarkt:title>Gebruikte achterdeur voor Peugeot expert Combo D 2011-2018 – 9811894980</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterdeur voor Peugeot expert Combo D 2011-2018<br>
+<br>
+Onderdeelnummer: 9811894980<br>
 <br>
 Referentienummer: Q-250829-0313<br>
 <br>
-Kleur: wit (Openreach livery)]]></admarkt:description>
+Kleur: wit]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-achterdeur-bestelwagen-voor-vauxhall-opel-combo-d-2011-2018/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>15000</admarkt:price>
+    <admarkt:price>39000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -1612,10 +1614,11 @@ Kleur: wit (Openreach livery)]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>9811894980</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>wit (Openreach livery)</admarkt:attributeValue>
+        <admarkt:attributeValue>wit</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
