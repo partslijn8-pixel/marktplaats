@@ -1844,10 +1844,12 @@ Kleur: donkergrijs metallic]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72140</admarkt:vendorId>
+    <admarkt:vendorId>95400513</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterportier links voor Opel Mokka / Mokka X 2012-2019</admarkt:title>
+    <admarkt:title>Gebruikte achterportier links voor Opel Mokka / Mokka X 2012-2019 – 95400513</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte achterportier links voor Opel Mokka / Mokka X 2012-2019<br>
+<br>
+Onderdeelnummer: 95400513<br>
 <br>
 Referentienummer: Q-250826-0301<br>
 <br>
@@ -1855,7 +1857,7 @@ Kleur: wit]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-achterportier-links-voor-opel-mokka-mokka-x-2012-2019/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>17500</admarkt:price>
+    <admarkt:price>37500</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -1887,6 +1889,7 @@ Kleur: wit]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>95400513</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
