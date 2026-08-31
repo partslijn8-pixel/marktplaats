@@ -1476,10 +1476,12 @@ Kleur: zwart]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72198</admarkt:vendorId>
+    <admarkt:vendorId>H0A0AHV0MB</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorportier links voor Nissan Qashqai 2014-2021</admarkt:title>
+    <admarkt:title>Gebruikte voorportier links voor Nissan Qashqai 2014-2021 – H0A0AHV0MB</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte voorportier links voor Nissan Qashqai 2014-2021<br>
+<br>
+Onderdeelnummer: H0A0AHV0MB<br>
 <br>
 Referentienummer: Q-250829-0316<br>
 <br>
@@ -1487,7 +1489,7 @@ Kleur: zwart]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-voorportier-links-voor-nissan-qashqai-2014-2021/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>22500</admarkt:price>
+    <admarkt:price>45000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -1515,6 +1517,7 @@ Kleur: zwart]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>H0A0AHV0MB</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
@@ -1523,10 +1526,12 @@ Kleur: zwart]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72193</admarkt:vendorId>
+    <admarkt:vendorId>A2047302100</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterportier links voor Mercedes-Benz C-Klasse 2007-2014</admarkt:title>
+    <admarkt:title>Gebruikte achterportier links voor Mercedes-Benz C-Klasse 2007-2014 – A2047302100</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte achterportier links voor Mercedes-Benz C-Klasse 2007-2014<br>
+<br>
+Onderdeelnummer: A2047302100<br>
 <br>
 Referentienummer: Q-250829-0314<br>
 <br>
@@ -1534,7 +1539,7 @@ Kleur: donkergrijs metallic]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-achterportier-links-voor-mercedes-benz-c-klasse-2007-2014/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>17500</admarkt:price>
+    <admarkt:price>25000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -1564,6 +1569,7 @@ Kleur: donkergrijs metallic]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2047302100</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
