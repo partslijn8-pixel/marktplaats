@@ -945,10 +945,12 @@ Kleur: wit]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72266</admarkt:vendorId>
+    <admarkt:vendorId>4G8833052A</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte deur rechtsachter voor Audi A1 Sport 2012-2018</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte deur rechtsachter voor Audi A1 Sport 2012-2018<br>
+    <admarkt:title>Gebruikte deur rechtsachter voor Audi A7 S7 4G 2012-2018 – 4G8833052A</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte deur rechtsachter voor Audi A7 S7 4G 2012-2018<br>
+<br>
+Onderdeelnummer: 4G8833052A<br>
 <br>
 Referentienummer: R-250830-0337<br>
 <br>
@@ -956,7 +958,7 @@ Kleur: wit]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-deur-rechtsachter-voor-audi-a1-sportback-2012-2018/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>22000</admarkt:price>
+    <admarkt:price>35000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -984,6 +986,7 @@ Kleur: wit]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>4G8833052A</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
