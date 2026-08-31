@@ -5947,59 +5947,6 @@ Kleur: donkergroen (metallic)]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>86511CV200</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper voor Kia EV6 2021-2024 – 86511CV200</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper voor Kia EV6 2021-2024<br>
-<br>
-Onderdeelnummer: 86511CV200<br>
-<br>
-Referentienummer: D-250813-0058<br>
-<br>
-Kleur: zwart (glanzend)]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-voor-kia-ev6-2021-2024-86511cv200/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>20000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0058-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0058-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0058-03.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0058-04.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0058-05.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0058-06-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250813-0058-07.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>86511CV200</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>zwart (glanzend)</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>FK7217D781A</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte achterbumper voor Land Rover Discovery Sport 2014-2019 – FK7217D781A</admarkt:title>
