@@ -14834,47 +14834,6 @@ Referentie: O-250906-0539]]></admarkt:description>
     <admarkt:mpn>A1726901625</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>K3887</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte grille sierlijst Mazda CX-30 2019 – K3887</admarkt:title>
-    <admarkt:description><![CDATA[Langwerpig, chroomkleurig sierdeel met V-vorm/wing-design en gepolijst, reflecterend oppervlak.<br>
-<br>
-onderdeelnummer: K3887<br>
-Referentie: O-250906-0538]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-grille-sierlijst-mazda-cx-30-2019-k3887/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>4542</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/main-K3887.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-K3887-.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-K3887-1-1.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-K3887-1-2.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>K3887</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>5NA807568G</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte bumper Volkswagen Tiguan 2016 – 5NA807568G</admarkt:title>
@@ -55836,50 +55795,6 @@ Referentienummer: i-250818-0186]]></admarkt:description>
       <admarkt:attribute>
         <admarkt:attributeName>kleur</admarkt:attributeName>
         <admarkt:attributeValue>wit</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>52119-02K40</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper voor Toyota Auris 2016</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-voor-toyota-auris2016/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>14500</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1475-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1476-scaled.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1477-scaled.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>Toyota Auris</admarkt:brand>
-    <admarkt:mpn>52119-02K40</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>kleur</admarkt:attributeName>
-        <admarkt:attributeValue>blauw</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
