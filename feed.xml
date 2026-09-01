@@ -2313,14 +2313,16 @@ Kleur: blauw metallic]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72067</admarkt:vendorId>
+    <admarkt:vendorId>LT3008DRZWI2</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte deur linksachter voor Peugeot 3008 II 2016-2023</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte deur linksachter voor Peugeot 3008 II 2016-2023<br>
+    <admarkt:title>Gebruikte deur linksachter voor Peugeot 3008 II 2008 – LT 3008 DRZWI 2</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte deur linksachter voor Peugeot 3008 II 2008<br>
+<br>
+Onderdeelnummer: LT 3008 DRZWI 2<br>
 <br>
 Referentienummer: O-250902-0390<br>
 <br>
-Kleur: wit/parelwit]]></admarkt:description>
+Kleur: wit]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-deur-linksachter-voor-peugeot-3008-ii-2016-2023/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -2353,22 +2355,25 @@ Kleur: wit/parelwit]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>LT3008DRZWI2</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>wit/parelwit</admarkt:attributeValue>
+        <admarkt:attributeValue>wit</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>PL-72061</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte deur linksachter voor Toyota C-HR 2016-2023</admarkt:title>
+    <admarkt:title>Gebruikte deur linksachter voor Toyota C-HR 2016-2023 – 67004f4010</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte deur linksachter voor Toyota C-HR 2016-2023<br>
+<br>
+Onderdeelnummer: 67004f4010<br>
 <br>
 Referentienummer: O-250902-0388<br>
 <br>
-Kleur: zilvergrijs metallic]]></admarkt:description>
+Kleur: zilvergrijs]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-deur-linksachter-voor-toyota-c-hr-2016-2023/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -2403,7 +2408,7 @@ Kleur: zilvergrijs metallic]]></admarkt:description>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>zilvergrijs metallic</admarkt:attributeValue>
+        <admarkt:attributeValue>zilvergrijs</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
@@ -2459,20 +2464,20 @@ Kleur: zilvergrijs metallic]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72048</admarkt:vendorId>
+    <admarkt:vendorId>760041P000--</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte deur rechtsvoor voor Kia Venga 2009-2019 – 824801P050</admarkt:title>
+    <admarkt:title>Gebruikte deur rechtsvoor voor Kia Venga 2009-2019 – 760041P000</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte deur rechtsvoor voor Kia Venga 2009-2019<br>
 <br>
-Onderdeelnummer: 824801P050<br>
+Onderdeelnummer: 760041P000<br>
 <br>
 Referentienummer: N-250901-0376<br>
 <br>
-Kleur: zilvergrijs metallic]]></admarkt:description>
+Kleur: zilvergrijs]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-deur-rechtsvoor-voor-kia-venga-2009-2019-824801p050-2/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>13500</admarkt:price>
+    <admarkt:price>33000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -2506,10 +2511,11 @@ Kleur: zilvergrijs metallic]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>760041P000--</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>zilvergrijs metallic</admarkt:attributeValue>
+        <admarkt:attributeValue>zilvergrijs</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
@@ -2561,20 +2567,20 @@ Kleur: donkerblauw metallic]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>L1TT14633CBC</admarkt:vendorId>
+    <admarkt:vendorId>PL1TBS24631AA</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterdeur links voor Ford Puma 2019-2024 – L1TT14633CBC</admarkt:title>
+    <admarkt:title>Gebruikte achterdeur links voor Ford Puma 2019-2024 – PL1TBS24631AA</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte achterdeur links voor Ford Puma 2019-2024<br>
 <br>
-Onderdeelnummer: L1TT14633CBC<br>
+Onderdeelnummer: PL1TBS24631AA<br>
 <br>
 Referentienummer: N-250901-0373<br>
 <br>
-Kleur: blauw metallic (Desert Island Blue)]]></admarkt:description>
+Kleur: blauw]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-achterdeur-links-voor-ford-puma-2019-2024-l1tt14633cbc/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>25000</admarkt:price>
+    <admarkt:price>45000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -2604,19 +2610,21 @@ Kleur: blauw metallic (Desert Island Blue)]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>L1TT14633CBC</admarkt:mpn>
+    <admarkt:mpn>PL1TBS24631AA</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>blauw metallic (Desert Island Bl</admarkt:attributeValue>
+        <admarkt:attributeValue>blauw</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-72024</admarkt:vendorId>
+    <admarkt:vendorId>6700453070</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterdeur links voor Lexus IS 250 2005-2013</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte achterdeur links voor Lexus IS 250 2005-2013<br>
+    <admarkt:title>Gebruikte achterdeur links voor Lexus IS III 2005-2013 – 6700453070</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterdeur links voor Lexus IS III 2005-2013<br>
+<br>
+Onderdeelnummer: 6700453070<br>
 <br>
 Referentienummer: N-250901-0369<br>
 <br>
@@ -2624,7 +2632,7 @@ Kleur: lichtblauw metallic]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-achterdeur-links-voor-lexus-is-250-2005-2013/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>17500</admarkt:price>
+    <admarkt:price>52000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -2655,6 +2663,7 @@ Kleur: lichtblauw metallic]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>6700453070</admarkt:mpn>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
@@ -2718,12 +2727,14 @@ Kleur: zilvergrijs metallic]]></admarkt:description>
   <admarkt:ad>
     <admarkt:vendorId>PL-72007</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte deur linksachter voor Mazda 6 2012-2018</admarkt:title>
+    <admarkt:title>Gebruikte deur linksachter voor Mazda 6 2012-2018 – ghk173010</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte deur linksachter voor Mazda 6 2012-2018<br>
+<br>
+Onderdeelnummer: ghk173010<br>
 <br>
 Referentienummer: N-250901-0367<br>
 <br>
-Kleur: rood (Soul Red)]]></admarkt:description>
+Kleur: rood]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-deur-linksachter-voor-mazda-6-2012-2018/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -2758,7 +2769,7 @@ Kleur: rood (Soul Red)]]></admarkt:description>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>rood (Soul Red)</admarkt:attributeValue>
+        <admarkt:attributeValue>rood</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
@@ -2821,7 +2832,7 @@ Onderdeelnummer: GHK172010<br>
 <br>
 Referentienummer: N-250901-0360<br>
 <br>
-Kleur: rood (Soul Red)]]></admarkt:description>
+Kleur: rood]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-deur-rechtsachter-voor-mazda-6-2012-2015-ghk172010/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
@@ -2857,7 +2868,7 @@ Kleur: rood (Soul Red)]]></admarkt:description>
     <admarkt:attributes>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>rood (Soul Red)</admarkt:attributeValue>
+        <admarkt:attributeValue>rood</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
@@ -3015,8 +3026,8 @@ Kleur: rood]]></admarkt:description>
   <admarkt:ad>
     <admarkt:vendorId>620226941R</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper voor Renault Trafic III facelift, nieuw logo 2021-2025 – 620226941R</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper voor Renault Trafic III facelift, nieuw logo 2021-2025<br>
+    <admarkt:title>Gebruikte voorbumper voor Renault Trafic III 2021-2025 – 620226941R</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper voor Renault Trafic III 2021-2025<br>
 <br>
 Onderdeelnummer: 620226941R<br>
 <br>
@@ -3026,7 +3037,7 @@ Kleur: wit met zwart onderdeel]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-voor-renault-trafic-iii-facelift-nieuw-logo-2021-2025-620226941r/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>27500</admarkt:price>
+    <admarkt:price>32000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
