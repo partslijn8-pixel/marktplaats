@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
+    <admarkt:vendorId>86571D7000</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte bumperbalk voor Hyundai Tucson -  2015 - 86571D7000 79170D7500</admarkt:title>
+    <admarkt:description><![CDATA[Bumperframe voor Hyundai Tucson (2015-2020) met sensor.<br>
+<br>
+onderdeelnummer: 86571D7000<br>
+Referentie: N-251027-1411]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-bumperframe-voor-hyundai-tucson-2015-86571d7000-79170d7500/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>35000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.28.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.28-4.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.26.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27-1.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27-2.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27-3.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27-4.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27-5.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.28-1.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.28-2.jpeg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.28-3.jpeg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>86571D7000</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>L-250819-0261</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte achterbumper (met PDC-gaten) voor Volkswagen Transporter T5 / Multivan (7H) 2003-2015 – 7H0807417</admarkt:title>
@@ -981,56 +1030,6 @@ Kleur: zwart metallic (Shadow Black / Agate Black / Absolute Black metallic)]]><
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>L-250819-0242</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>L-250819-0243</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper (bovenste deel / grilleframe) voor Ford Transit Custom Facelift (V362) 2018-2023 – JK2117757A</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper (bovenste deel / grilleframe) voor Ford Transit Custom Facelift (V362) 2018-2023<br>
-<br>
-Onderdeelnummer: JK2117757A<br>
-<br>
-Referentienummer: L-250819-0243<br>
-<br>
-Kleur: wit (Frozen White)]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-bovenste-deel-grilleframe-voor-ford-transit-custom-facelift-v362-2018-2023-jk2117757a/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>19000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0243-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0243-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0243-03.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0243-04.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0243-05-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0243-06.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0243-07.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0243-08.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0243-09.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0243-10.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>L-250819-0243</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>L-250819-0244</admarkt:vendorId>
@@ -24180,16 +24179,18 @@ Referentie: N-251023-1376]]></admarkt:description>
     <admarkt:mpn>96630-3X001</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>7387334-05</admarkt:vendorId>
+    <admarkt:vendorId>511210031013DE</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterbumper steunbalk BMW 5 Series Touring (G31) 2017-2024 – 7387334-05</admarkt:title>
+    <admarkt:title>Gebruikte achterbumper steunbalk BMW 5 Series Touring (G31) 2017-2024 – 511210031013DE</admarkt:title>
     <admarkt:description><![CDATA[Zilverkleurige metalen balk (bumperverstevigingsbalk), bedoeld voor horizontale montage aan de voor- of achterzijde. Voorzien van bevestigingspunten aan beide uiteinden en meerdere uitsparingen langs de onderrand.<br>
-onderdeelnummer: 7387334-05<br>
+<br>
+Onderdeelnummer: 511210031013DE<br>
+<br>
 Referentie: N-251020-1357]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-bmw-5-series-touring-g31-2017-2024-7387334-05/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>10459</admarkt:price>
+    <admarkt:price>12000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -24225,7 +24226,7 @@ Referentie: N-251020-1357]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>7387334-05</admarkt:mpn>
+    <admarkt:mpn>511210031013DE</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>5261833080</admarkt:vendorId>
@@ -36390,7 +36391,7 @@ Referentie: T-250913-0812]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-koplamp-jaguar-xe-2015-2019-gx73-13w030-dg/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>85000</admarkt:price>
+    <admarkt:price>35000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -44392,56 +44393,6 @@ Onderdeelnummer:<strong class="Yjhzub" data-complete="true" data-processed="true
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>1T0807109B</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>71530SNAA00</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Honda Achterbumperbalk Civic VIII 2011 - 71530SNAA00</admarkt:title>
-    <admarkt:description><![CDATA[Honda Civic (VIII Sedan) Aluminium Achterbumperbalk<br>
-<br>
-Onderdeelnummer:<strong class="Yjhzub" data-complete="true" data-processed="true">71530-SNA-A00</strong><br>
-<br>
-<strong class="Yjhzub" data-complete="true"><br>
-</strong>Referentienummer:  N-251020-1357]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/honda-civic-viii-sedan-aluminium-achterbumperbalk/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>16000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/12/DSC01369.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/12/DSC01373.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/12/DSC01375.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/12/DSC01376.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/12/DSC01377.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/12/DSC01378.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/12/DSC01379.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/12/DSC01380.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/12/DSC01370.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/12/DSC01371.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/12/DSC01372.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>71530SNAA00</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>96 773 660 80</admarkt:vendorId>
