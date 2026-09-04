@@ -7174,53 +7174,6 @@ Kleur: blauw metallic (Caesium Blue)]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>PL-71691</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte achterklep voor Ford Transit Custom 2012-2023</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte achterklep voor Ford Transit Custom 2012-2023<br>
-<br>
-Referentienummer: O-250902-0411<br>
-<br>
-Kleur: geel met rode chevrons (AA-livery)]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-achterklep-voor-ford-transit-custom-2012-2023/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>25000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250902-0411-01-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250902-0411-02-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250902-0411-03-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250902-0411-04.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>geel met rode chevrons (AA-liver</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>PL-71686</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte schuifdeur voor Ford Transit Custom 2012-2023</admarkt:title>
