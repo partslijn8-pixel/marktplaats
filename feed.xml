@@ -1,55 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
-    <admarkt:vendorId>86571D7000</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte bumperbalk voor Hyundai Tucson -  2015 - 86571D7000 79170D7500</admarkt:title>
-    <admarkt:description><![CDATA[Bumperframe voor Hyundai Tucson (2015-2020) met sensor.<br>
-<br>
-onderdeelnummer: 86571D7000<br>
-Referentie: N-251027-1411]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-bumperframe-voor-hyundai-tucson-2015-86571d7000-79170d7500/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>35000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.28.jpeg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.28-4.jpeg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.26.jpeg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27-1.jpeg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27-2.jpeg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27-3.jpeg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27-4.jpeg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27-5.jpeg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.27.jpeg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.28-1.jpeg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.28-2.jpeg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-22.44.28-3.jpeg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>86571D7000</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>L-250819-0261</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte achterbumper (met PDC-gaten) voor Volkswagen Transporter T5 / Multivan (7H) 2003-2015 – 7H0807417</admarkt:title>
