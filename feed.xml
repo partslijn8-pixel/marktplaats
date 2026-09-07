@@ -19464,60 +19464,6 @@ Kleur: donkerblauw metallic (navarrablauw)]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>5211953400</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper voor Lexus IS II 220d/250 2005-2010 – 52119-53400</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper voor Lexus IS II 220d/250 2005-2010<br>
-<br>
-Onderdeelnummer: 52119-53400<br>
-<br>
-Referentienummer: C-250813-0065<br>
-<br>
-Kleur: donkergrijs/zwart (primed)]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-voor-lexus-is-ii-220d-250-2005-2010-lx21000005100/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>19000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/c-250813-0065-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/c-250813-0065-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/c-250813-0065-03.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/c-250813-0065-04.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/c-250813-0065-05.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/c-250813-0065-06.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/c-250813-0065-07-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/c-250813-0065-08.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>5211953400</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>donkergrijs/zwart (primed)</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>6700202260</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte deur linksvoor voor Toyota Auris 2009-2018 – 6700202260</admarkt:title>
