@@ -1,6 +1,370 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
+    <admarkt:vendorId>5Q0959812D</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte raammechanisme motor voor Volkswagen Golf Sportsvan / Touran III (5Q) 2014-2022 – 5Q0959812D</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte raammechanisme motor voor Volkswagen Golf Sportsvan / Touran III (5Q) 2014-2022<br>
+<br>
+Onderdeelnummer: 5Q0959812D<br>
+<br>
+Overige nummers: Kuster E-850 202 014<br>
+<br>
+Referentienummer: O-260807-2671<br>
+<br>
+Staat: gebruikt, compleet met regelmodule, niet getest]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-raammechanisme-motor-voor-volkswagen-golf-sportsvan-touran-iii-5q-2014-2022-5q0959812d/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2671-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2671-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2671-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2671-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>5Q0959812D</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>5Q4959801F</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte raammechanisme motor voor Volkswagen Golf Sportsvan / Touran III (5Q) 2014-2022 – 5Q4959801F</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte raammechanisme motor voor Volkswagen Golf Sportsvan / Touran III (5Q) 2014-2022<br>
+<br>
+Onderdeelnummer: 5Q4959801F<br>
+<br>
+Overige nummers: A63083-120, BEP-40319.09.2400210468<br>
+<br>
+Referentienummer: O-260807-2670<br>
+<br>
+Staat: gebruikt, kunststof beugel schoon, motor niet getest]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-raammechanisme-motor-voor-volkswagen-golf-sportsvan-touran-iii-5q-2014-2022-5q4959801f/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2670-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2670-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2670-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>5Q4959801F</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78062</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte raammechanisme motor voor BMW Universeel / Onbekend</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte raammechanisme motor voor BMW Universeel / Onbekend<br>
+<br>
+Markeringen: 985159-102, 7 046 032 0, 0 130 822 515<br>
+<br>
+Referentienummer: O-260807-2669<br>
+<br>
+Staat: gebruikt, lichte roestvorming op bevestigingsrand, motor niet getest]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-raammechanisme-motor-voor-bmw-universeel-onbekend/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2669-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2669-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2669-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>H1BB17K747</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte spiegelkap links voor Ford Universeel / Onbekend – H1BB17K747</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte spiegelkap links voor Ford Universeel / Onbekend<br>
+<br>
+Onderdeelnummer: H1BB17K747<br>
+<br>
+Overige nummers: 8802-002 LH2<br>
+<br>
+Referentienummer: O-260807-2665<br>
+<br>
+Kleur: zwart (glans)<br>
+<br>
+Staat: gebruikt, glanzend zwart, lichte gebruikssporen]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-spiegelkap-links-voor-ford-universeel-onbekend-h1bb17k747/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2665-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2665-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2665-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>H1BB17K747</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart (glans)</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>5K0945087B</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte achterklep lichtbalk / achterlicht voor Volkswagen Golf VI (5K) 2008-2012 – 5K0945087B</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterklep lichtbalk / achterlicht voor Volkswagen Golf VI (5K) 2008-2012<br>
+<br>
+Onderdeelnummer: 5K0945087B<br>
+<br>
+Referentienummer: O-260807-2662<br>
+<br>
+Kleur: rood<br>
+<br>
+Staat: gebruikt, kunststof en ledstrip intact, geen scheuren waargenomen]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterklep-lichtbalk-achterlicht-voor-volkswagen-golf-vi-5k-2008-2012-5k0945087b/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2662-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2662-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2662-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2662-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>5K0945087B</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>rood</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>924907519R</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte airco leiding voor Renault Universeel / Onbekend – 924907519R</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte airco leiding voor Renault Universeel / Onbekend<br>
+<br>
+Onderdeelnummer: 924907519R<br>
+<br>
+Referentienummer: O-260807-2660<br>
+<br>
+Staat: gebruikt, leiding en rubberslang intact, geen zichtbare knikken of lekkage]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-airco-leiding-voor-renault-universeel-onbekend-924907519r/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2660-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2660-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2660-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>924907519R</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78021</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte kabelboom (pedaal-/sensorschakelaar) voor Volkswagen Universeel / Onbekend</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte kabelboom (pedaal-/sensorschakelaar) voor Volkswagen Universeel / Onbekend<br>
+<br>
+Referentienummer: O-260807-2658<br>
+<br>
+Staat: gebruikt, kabelboom met schakelaar en sensor compleet, connectors intact]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-kabelboom-pedaal-sensorschakelaar-voor-volkswagen-universeel-onbekend/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2658-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2658-02.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>924400562R</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte airco leiding voor Renault Universeel / Onbekend – 924400562R</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte airco leiding voor Renault Universeel / Onbekend<br>
+<br>
+Onderdeelnummer: 924400562R<br>
+<br>
+Referentienummer: O-260807-2657<br>
+<br>
+Staat: gebruikt, leiding en rubberslang intact, geen zichtbare knikken of lekkage]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-airco-leiding-voor-renault-universeel-onbekend-924400562r/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2657-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2657-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2657-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2657-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>924400562R</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>A2478310500</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper steun voor Mercedes Benz B-Klasse (W247) 2019-2024 – A2478310500</admarkt:title>
@@ -3987,6 +4351,59 @@ Staat: Nieuw]]></admarkt:description>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
         <admarkt:attributeValue>zwart (black)</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>23773020</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title/>
+    <admarkt:description><![CDATA[Gebruikte spiegelglas rechts voor Lynk & Co 01 2020-2024<br>
+<br>
+Onderdeelnummer: 23773020<br>
+<br>
+Overige nummers: NBHX 2377.3020 RH<br>
+<br>
+Referentienummer: O-260806-2492<br>
+<br>
+Kleur: spiegel (mirror)<br>
+<br>
+Staat: Gebruikt]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-spiegelglas-voor-lynk-co-01-2020-2024-23773020/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260806-2492-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260806-2492-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260806-2492-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>23773020</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>spiegel (mirror)</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
