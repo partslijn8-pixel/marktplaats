@@ -1,6 +1,4139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <admarkt:ads xmlns:admarkt="http://admarkt.marktplaats.nl/schemas/1.0">
   <admarkt:ad>
+    <admarkt:vendorId>PL-78614</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2046905930</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2046905930<br>
+<br>
+Overige nummers: BBP 1735.06<br>
+<br>
+Referentienummer: O-260808-2795<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, scheur/uitscheuring in randflap zichtbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-mercedes-benz-c-klasse-w204-2007-2014-a2046905930/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>6000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2795-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2795-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2795-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>51777300819</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastlijst voor Mini Cooper – 51777300819</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastlijst voor Mini Cooper<br>
+<br>
+Onderdeelnummer: 51777300819<br>
+<br>
+Overige nummers: Q516619718109, 161899 10 GB<br>
+<br>
+Referentienummer: O-260808-2821<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen scheuren gezien]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastlijst-voor-mini-cooper-51777300819/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2821-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2821-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2821-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>51777300819</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>86342D7000</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorruit afdekpaneel (kap) voor Hyundai Santa Fe (TL) 2012-2018 – 86342D7000</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorruit afdekpaneel (kap) voor Hyundai Santa Fe (TL) 2012-2018<br>
+<br>
+Onderdeelnummer: 86342D7000<br>
+<br>
+Referentienummer: O-260808-2817<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, kunststof, geen scheuren gezien]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorruit-afdekpaneel-kap-voor-hyundai-santa-fe-tl-2012-2018-86342d7000/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2817-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2817-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2817-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>86342D7000</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>9800762</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastlijst voor Mini Cooper – 9800762</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastlijst voor Mini Cooper<br>
+<br>
+Onderdeelnummer: 9800762<br>
+<br>
+Overige nummers: 5177, 180086-11<br>
+<br>
+Referentienummer: O-260808-2816<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen scheuren gezien]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastlijst-voor-mini-cooper-9800762/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2816-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2816-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2816-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>9800762</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>9800761</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastlijst voor Mini Cooper – 9800761</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastlijst voor Mini Cooper<br>
+<br>
+Onderdeelnummer: 9800761<br>
+<br>
+Overige nummers: 5177, 180086-11<br>
+<br>
+Referentienummer: O-260808-2815<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen scheuren gezien]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastlijst-voor-mini-cooper-9800761/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2815-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2815-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2815-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>9800761</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>95396190</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte motorruim isolatiepaneel voor voor Opel – 95396190</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte motorruim isolatiepaneel voor voor Opel<br>
+<br>
+Onderdeelnummer: 95396190<br>
+<br>
+Overige nummers: GM 95396190<br>
+<br>
+Referentienummer: O-260808-2813<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen scheuren gezien]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-motorruim-isolatiepaneel-voor-voor-opel-95396190/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2813-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2813-02.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>95396190</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>13301668</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper onderplaat voor Opel – 13301668</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper onderplaat voor Opel<br>
+<br>
+Onderdeelnummer: 13301668<br>
+<br>
+Overige nummers: GM 13301668<br>
+<br>
+Referentienummer: O-260808-2812<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen scheuren gezien]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-onderplaat-voor-opel-13301668/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2812-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2812-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2812-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>13301668</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>42400128</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte radiateur luchtgeleider onder voor Opel – 42400128</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte radiateur luchtgeleider onder voor Opel<br>
+<br>
+Onderdeelnummer: 42400128<br>
+<br>
+Overige nummers: GM 42400128<br>
+<br>
+Referentienummer: O-260808-2811<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen scheuren gezien]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-radiateur-luchtgeleider-onder-voor-opel-42400128/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2811-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2811-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2811-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>42400128</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A1726800535</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte dorpellijst links voor Mercedes Benz SLK/SLC (R172) 2011-2016 – A1726800535</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte dorpellijst links voor Mercedes Benz SLK/SLC (R172) 2011-2016<br>
+<br>
+Onderdeelnummer: A1726800535<br>
+<br>
+Referentienummer: O-260808-2810<br>
+<br>
+Kleur: zwart met chromen sierstrip 'Mercedes-Benz'<br>
+<br>
+Staat: gebruikt, lichte gebruikssporen, chroom/kunststof sierstrip compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-dorpellijst-links-voor-mercedes-benz-slk-slc-r172-2011-2016-a1726800535/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>13000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2810-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2810-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2810-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A1726800535</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart met chromen sierstrip 'Mer</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>13289576</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorruit afdekpaneel (kap) voor Opel – 13289576</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorruit afdekpaneel (kap) voor Opel<br>
+<br>
+Onderdeelnummer: 13289576<br>
+<br>
+Overige nummers: 3222275228<br>
+<br>
+Referentienummer: O-260808-2808<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, kunststof, geen scheuren gezien]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorruit-afdekpaneel-kap-voor-opel-13289576/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2808-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2808-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2808-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>13289576</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>7161465</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper steunbalk voor BMW 3-serie Cabrio (E93) 2006-2013 – 7161465</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper steunbalk voor BMW 3-serie Cabrio (E93) 2006-2013<br>
+<br>
+Onderdeelnummer: 7161465<br>
+<br>
+Referentienummer: O-260808-2806<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, kunststof montagebalk met meerdere clipbevestigingen compleet, geen breuk gezien]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-steunbalk-voor-bmw-3-serie-cabrio-e93-2006-2013-7161465/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>11000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2806-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2806-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2806-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>7161465</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A1676901608</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Mercedes Benz GLE (W167) 2019-2023 – A1676901608</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Mercedes Benz GLE (W167) 2019-2023<br>
+<br>
+Onderdeelnummer: A1676901608<br>
+<br>
+Referentienummer: O-260808-2805<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, kunststof met geintegreerd remkoelkanaal compleet, geen scheuren gezien]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-mercedes-benz-gle-w167-2019-2023-a1676901608/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2805-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2805-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2805-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2805-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2805-05.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A1676901608</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>2046906130</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding achterlinks voor Mercedes Benz C-Klasse (W204) 2007-2014 – 2046906130</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding achterlinks voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: 2046906130<br>
+<br>
+Referentienummer: O-260808-2802<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil (aarde/gras), vilt/schuimvoering intact, geen scheuren zichtbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-achterlinks-voor-mercedes-benz-c-klasse-w204-2007-2014-2046906130/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2802-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2802-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2802-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>2046906130</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>GHP950351</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding (verlengstuk) links voor Mazda 6 (GH) 2007-2013 – GHP950351</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding (verlengstuk) links voor Mazda 6 (GH) 2007-2013<br>
+<br>
+Onderdeelnummer: GHP950351<br>
+<br>
+Referentienummer: O-260808-2801<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, compleet, stempel en Mazda-logo goed leesbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-verlengstuk-links-voor-mazda-6-gh-2007-2013-ghp950351/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2801-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2801-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2801-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>GHP950351</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>GHP950341</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding (verlengstuk) rechts voor Mazda 6 (GH) 2007-2013 – GHP950341</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding (verlengstuk) rechts voor Mazda 6 (GH) 2007-2013<br>
+<br>
+Onderdeelnummer: GHP950341<br>
+<br>
+Overige nummers: K2443<br>
+<br>
+Referentienummer: O-260808-2800<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, compleet, stempel en Mazda-logo goed leesbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-verlengstuk-rechts-voor-mazda-6-gh-2007-2013-ghp950341/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2800-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2800-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2800-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>GHP950341</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78521</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Toyota</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Toyota<br>
+<br>
+Markeringen: 52875-0D060 (WITH STIFFENER), 52875-0D040 (WITHOUT STIFFENER)<br>
+<br>
+Referentienummer: O-260808-2798<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-toyota/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2798-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2798-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2798-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78517</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding links voor Mazda 6 (GH) 2007-2013</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding links voor Mazda 6 (GH) 2007-2013<br>
+<br>
+Markeringen: GHP9 LH, K7016<br>
+<br>
+Referentienummer: O-260808-2797<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, compleet, stempel goed leesbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-links-voor-mazda-6-gh-2007-2013/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2797-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2797-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2797-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>51717290790</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Mini Cooper – 51717290790</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Mini Cooper<br>
+<br>
+Onderdeelnummer: 51717290790<br>
+<br>
+Referentienummer: O-260808-2796<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, compleet, fabrieksstempel goed leesbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-mini-cooper-51717290790/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2796-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2796-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2796-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>51717290790</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2046984030</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2046984030</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2046984030<br>
+<br>
+Overige nummers: BBP 1576.02<br>
+<br>
+Referentienummer: O-260808-2792<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, compleet, fabrieksstempel goed leesbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-mercedes-benz-c-klasse-w204-2007-2014-a2046984030/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2792-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2792-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2792-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2046984030</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78499</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding (modderkuip) rechtsvoor, 2-delig voor Volkswagen Tiguan 2007-2011</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding (modderkuip) rechtsvoor, 2-delig voor Volkswagen Tiguan 2007-2011<br>
+<br>
+Referentienummer: O-260808-2790<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, 2 kunststof segmenten (hoofddeel + hoeksegment), compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-modderkuip-rechtsvoor-2-delig-voor-volkswagen-tiguan-2007-2011/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2790-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2790-02.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2136909204</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding rechts voor Mercedes Benz E-Klasse (W213) 2016-2020 – A2136909204</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding rechts voor Mercedes Benz E-Klasse (W213) 2016-2020<br>
+<br>
+Onderdeelnummer: A2136909204<br>
+<br>
+Referentienummer: O-260808-2788<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, compleet, metalen bevestigingsbeugel intact]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-rechts-voor-mercedes-benz-e-klasse-w213-2016-2020-a2136909204/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2788-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2788-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2788-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2136909204</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>868141P500</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding rechtsvoor voor Kia – 868141P500</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding rechtsvoor voor Kia<br>
+<br>
+Onderdeelnummer: 868141P500<br>
+<br>
+Referentienummer: O-260808-2786<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-rechtsvoor-voor-kia-868141p500/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2786-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2786-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2786-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>868141P500</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78477</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Kia</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Kia<br>
+<br>
+Markeringen: 68925-A6000 (onzeker leesbaar)<br>
+<br>
+Referentienummer: O-260808-2784<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare beschadiging]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-kia/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2784-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2784-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2784-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A1766900330</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding linksachter voor Mercedes Benz A-Klasse (W176) 2012-2018 – A1766900330</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding linksachter voor Mercedes Benz A-Klasse (W176) 2012-2018<br>
+<br>
+Onderdeelnummer: A1766900330<br>
+<br>
+Referentienummer: O-260808-2783<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, compleet, fabrieksetiket goed leesbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-linksachter-voor-mercedes-benz-a-klasse-w176-2012-2018-a1766900330/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2783-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2783-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2783-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A1766900330</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78468</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Renault</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Renault<br>
+<br>
+Referentienummer: O-260807-2782<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, lichte gebruikssporen]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-renault/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2782-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2782-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2782-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2782-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78463</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding rechts voor Mazda 6 (GH) 2007-2013</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding rechts voor Mazda 6 (GH) 2007-2013<br>
+<br>
+Markeringen: GHP9 RH, K7016<br>
+<br>
+Referentienummer: O-260807-2781<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil/stof, geen zichtbare scheuren of breuk]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-rechts-voor-mazda-6-gh-2007-2013/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2781-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2781-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2781-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2781-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78459</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2046983930</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2046983930<br>
+<br>
+Overige nummers: ZBA 204 690 47 30<br>
+<br>
+Referentienummer: O-260807-2769<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-mercedes-benz-c-klasse-w204-2007-2014-a2046983930-2/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2769-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2769-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2769-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78455</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2046983930</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2046983930<br>
+<br>
+Overige nummers: ZBA 204 690 47 30<br>
+<br>
+Referentienummer: O-260807-2768<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-mercedes-benz-c-klasse-w204-2007-2014-a2046983930/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2768-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2768-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2768-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78451</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2046906030</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2046906030<br>
+<br>
+Referentienummer: O-260807-2767<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-mercedes-benz-c-klasse-w204-2007-2014-a2046906030/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2767-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2767-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2767-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78447</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte dorpellijst links voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2046981354</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte dorpellijst links voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2046981354<br>
+<br>
+Referentienummer: O-260807-2764<br>
+<br>
+Kleur: rood<br>
+<br>
+Staat: gebruikt, rode lak, lichte gebruikssporen aan onderzijde]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-dorpellijst-links-voor-mercedes-benz-c-klasse-w204-2007-2014-a2046981354/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>8000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2764-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2764-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2764-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>rood</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>868161P000</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorwielkastbekleding rechts (achterstuk) voor Hyundai – 868161P000</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorwielkastbekleding rechts (achterstuk) voor Hyundai<br>
+<br>
+Onderdeelnummer: 868161P000<br>
+<br>
+Referentienummer: O-260807-2779<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorwielkastbekleding-rechts-achterstuk-voor-hyundai-868161p000/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2779-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2779-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2779-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>868161P000</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>GX7316A573AE</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Ford – GX7316A573AE</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Ford<br>
+<br>
+Onderdeelnummer: GX7316A573AE<br>
+<br>
+Overige nummers: CF5NA<br>
+<br>
+Referentienummer: O-260807-2778<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-ford-gx7316a573ae/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2778-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2778-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2778-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>GX7316A573AE</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>868251P000</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding links (achterstuk) voor Hyundai – 868251P000</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding links (achterstuk) voor Hyundai<br>
+<br>
+Onderdeelnummer: 868251P000<br>
+<br>
+Referentienummer: O-260807-2777<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-links-achterstuk-voor-hyundai-868251p000/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2777-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2777-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2777-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>868251P000</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>868241P000</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding rechts (voorstuk) voor Hyundai – 868241P000</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding rechts (voorstuk) voor Hyundai<br>
+<br>
+Onderdeelnummer: 868241P000<br>
+<br>
+Referentienummer: O-260807-2776<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-rechts-voorstuk-voor-hyundai-868241p000/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2776-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2776-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2776-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>868241P000</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78422</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Opel – 13301575</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Opel<br>
+<br>
+Onderdeelnummer: 13301575<br>
+<br>
+Referentienummer: O-260807-2775<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-opel-13301575-2/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2775-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2775-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2775-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2775-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>GX7316A574AE</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Ford – GX7316A574AE</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Ford<br>
+<br>
+Onderdeelnummer: GX7316A574AE<br>
+<br>
+Overige nummers: CF5NA<br>
+<br>
+Referentienummer: O-260807-2774<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-ford-gx7316a574ae/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2774-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2774-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2774-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>GX7316A574AE</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>86824A6000</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Hyundai i30 (GD) 2011-2017 – 86824A6000</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Hyundai i30 (GD) 2011-2017<br>
+<br>
+Onderdeelnummer: 86824A6000<br>
+<br>
+Referentienummer: O-260807-2773<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-hyundai-i30-gd-2011-2017-86824a6000/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2773-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2773-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2773-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>86824A6000</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>868261P000</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding rechts (achterstuk) voor Hyundai – 868261P000</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding rechts (achterstuk) voor Hyundai<br>
+<br>
+Onderdeelnummer: 868261P000<br>
+<br>
+Referentienummer: O-260807-2772<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-rechts-achterstuk-voor-hyundai-868261p000/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2772-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2772-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2772-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>868261P000</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>13301575</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor Opel – 13301575</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor Opel<br>
+<br>
+Onderdeelnummer: 13301575<br>
+<br>
+Referentienummer: O-260807-2771<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-opel-13301575/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2771-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2771-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2771-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>13301575</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>868231P000</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding links (voorstuk) voor Hyundai – 868231P000</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding links (voorstuk) voor Hyundai<br>
+<br>
+Onderdeelnummer: 868231P000<br>
+<br>
+Referentienummer: O-260807-2770<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-links-voorstuk-voor-hyundai-868231p000/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2770-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2770-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2770-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>868231P000</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>5380553020</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding rechts voor Lexus IS (XE20) 2005-2013 – 5380553020</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding rechts voor Lexus IS (XE20) 2005-2013<br>
+<br>
+Onderdeelnummer: 5380553020<br>
+<br>
+Overige nummers: 53895-53010<br>
+<br>
+Referentienummer: O-260807-2765<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen zichtbare grote schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-rechts-voor-lexus-is-xe20-2005-2013-5380553020/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2765-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2765-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2765-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>5380553020</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A1726900530</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding rechtsachter voor Mercedes Benz SLK / SLC (R172) 2011-2020 – A1726900530</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding rechtsachter voor Mercedes Benz SLK / SLC (R172) 2011-2020<br>
+<br>
+Onderdeelnummer: A1726900530<br>
+<br>
+Referentienummer: O-260807-2761<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil/aarde in de voering, geen zichtbare scheuren, bevestigingspunten compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-rechtsachter-voor-mercedes-benz-slk-slc-r172-2011-2020-a1726900530/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2761-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2761-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2761-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2761-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2761-05.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A1726900530</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>CM5G6K677GA</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte koelvloeistofbuis voor Ford – CM5G6K677GA</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte koelvloeistofbuis voor Ford<br>
+<br>
+Onderdeelnummer: CM5G6K677GA<br>
+<br>
+Referentienummer: O-260807-2705<br>
+<br>
+Staat: gebruikt, compleet met slangklemmen]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-koelvloeistofbuis-voor-ford-cm5g6k677ga/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2705-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2705-02.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>CM5G6K677GA</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A8542031300</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte hydraulische leiding (cabriodak) voor Mercedes Benz – A8542031300</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte hydraulische leiding (cabriodak) voor Mercedes Benz<br>
+<br>
+Onderdeelnummer: A8542031300<br>
+<br>
+Overige nummers: HYDRA<br>
+<br>
+Referentienummer: O-260807-2702<br>
+<br>
+Staat: gebruikt, metalen hydraulische leiding met koppelstukken, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-hydraulische-leiding-cabriodak-voor-mercedes-benz-a8542031300/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2702-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2702-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2702-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A8542031300</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>N8A2280B11AA</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte bumperonderdeel/versteviging (ford, nieuw) voor Ford – N8A2280B11AA</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte bumperonderdeel/versteviging (ford, nieuw) voor Ford<br>
+<br>
+Onderdeelnummer: N8A2280B11AA<br>
+<br>
+Referentienummer: O-260807-2693<br>
+<br>
+Staat: nieuw (ongebruikt), origineel Ford onderdeel met fabriekslabel, datumstempel 25/11/2023]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-bumperonderdeel-versteviging-ford-nieuw-voor-ford-n8a2280b11aa/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2693-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2693-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2693-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2693-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>N8A2280B11AA</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78334</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte brandstofrail met injectoren voor BMW</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte brandstofrail met injectoren voor BMW<br>
+<br>
+Markeringen: 140185 10, H 4301 DE, 0 261 500 140<br>
+<br>
+Referentienummer: O-260807-2683<br>
+<br>
+Staat: gebruikt, brandstofrailsectie met 2 Bosch-injectoren, aansluitpunten intact]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-brandstofrail-met-injectoren-voor-bmw/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2683-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2683-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2683-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78330</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte elektrische buitenspiegel (mechanisme) voor Seat Ibiza (6L) 2002-2008</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte elektrische buitenspiegel (mechanisme) voor Seat Ibiza (6L) 2002-2008<br>
+<br>
+Markeringen: 6L1857501<br>
+<br>
+Referentienummer: O-260807-2682<br>
+<br>
+Staat: gebruikt, spiegelbehuizing met verstelmechanisme, kabel aanwezig, stoffig]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-elektrische-buitenspiegel-mechanisme-voor-seat-ibiza-6l-2002-2008/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>8000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2682-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2682-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2682-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>83540T1GE930BLK</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte raamschakelaar (hoofdpaneel) voor Honda – 83540T1GE930BLK</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte raamschakelaar (hoofdpaneel) voor Honda<br>
+<br>
+Onderdeelnummer: 83540T1GE930BLK<br>
+<br>
+Overige nummers: 69524<br>
+<br>
+Referentienummer: O-260807-2678<br>
+<br>
+Kleur: zwart (BLK volgens label)<br>
+<br>
+Staat: gebruikt, knoppen en chromen rand compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-raamschakelaar-hoofdpaneel-voor-honda-83540t1ge930blk/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2678-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2678-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2678-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>83540T1GE930BLK</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart (BLK volgens label)</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78312</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte abs pomp voor Mazda 6 (GJ) 2012-2018</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte abs pomp voor Mazda 6 (GJ) 2012-2018<br>
+<br>
+Markeringen: 2231644, 313014<br>
+<br>
+Referentienummer: O-260807-2675<br>
+<br>
+Staat: gebruikt, lichte gebruikssporen op aansluitkapje, verder intact]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-abs-pomp-voor-mazda-6-gj-2012-2018/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>15000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2675-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2675-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2675-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>638411852</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Renault – 638411852</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Renault<br>
+<br>
+Onderdeelnummer: 638411852<br>
+<br>
+Overige nummers: 63841 1852 R, 638416358 R<br>
+<br>
+Referentienummer: O-260807-2759<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-renault-638411852/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2759-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2759-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2759-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>638411852</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2386911000</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Mercedes Benz E-Klasse Coupe/Cabrio (C238/A238) 2017-2023 – A2386911000</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Mercedes Benz E-Klasse Coupe/Cabrio (C238/A238) 2017-2023<br>
+<br>
+Onderdeelnummer: A2386911000<br>
+<br>
+Overige nummers: A 238 691 18 00<br>
+<br>
+Referentienummer: ?-260807-2757<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-mercedes-benz-e-klasse-coupe-cabrio-c238-a238-2017-2023-a2386911000/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/--260807-2757-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/--260807-2757-02.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2386911000</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2046906030</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2046906030</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2046906030<br>
+<br>
+Overige nummers: BBP 1575.05<br>
+<br>
+Referentienummer: O-260807-2755<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-mercedes-benz-c-klasse-w204-2007-2014-a2046906030/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2755-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2755-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2755-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2755-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2046906030</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2046983930</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2046983930</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2046983930<br>
+<br>
+Referentienummer: F-260807-2754<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-mercedes-benz-c-klasse-w204-2007-2014-a2046983930/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/f-260807-2754-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/f-260807-2754-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/f-260807-2754-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2046983930</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>13301576</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Opel – 13301576</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Opel<br>
+<br>
+Onderdeelnummer: 13301576<br>
+<br>
+Overige nummers: 115 46 82<br>
+<br>
+Referentienummer: F-260807-2753<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-opel-13301576/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/f-260807-2753-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/f-260807-2753-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/f-260807-2753-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>13301576</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>42564504</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Opel – 42564504</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Opel<br>
+<br>
+Onderdeelnummer: 42564504<br>
+<br>
+Referentienummer: O-260807-2751<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-opel-42564504/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2751-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2751-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2751-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>42564504</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78275</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Mazda 6 (GJ) 2012-2018</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Mazda 6 (GJ) 2012-2018<br>
+<br>
+Markeringen: GHP9 RH, K7016<br>
+<br>
+Referentienummer: Z-260807-2747<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-mazda-6-gj-2012-2018-2/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/z-260807-2747-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/z-260807-2747-02.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78270</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Volkswagen Polo 2009-2014</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Volkswagen Polo 2009-2014<br>
+<br>
+Referentienummer: O-260807-2745<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen eigen OEM-nummer leesbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-volkswagen-polo-2009-2014/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2745-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2745-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2745-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2745-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>5G0805977</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Volkswagen Golf VII (5G) 2012-2019 – 5G0805977</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Volkswagen Golf VII (5G) 2012-2019<br>
+<br>
+Onderdeelnummer: 5G0805977<br>
+<br>
+Overige nummers: ZSB 5G0 805 970<br>
+<br>
+Referentienummer: O-260807-2741<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, vilt akoestische voering aanwezig]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-volkswagen-golf-vii-5g-2012-2019-5g0805977/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2741-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2741-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2741-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2741-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>5G0805977</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>6R0810972B</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Volkswagen Polo (6R) 2009-2017 – 6R0810972B</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Volkswagen Polo (6R) 2009-2017<br>
+<br>
+Onderdeelnummer: 6R0810972B<br>
+<br>
+Referentienummer: O-260807-2740<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-volkswagen-polo-6r-2009-2017-6r0810972b/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2740-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2740-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2740-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2740-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>6R0810972B</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>6R0809958S</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Volkswagen Polo (6R) 2009-2017 – 6R0809958S</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Volkswagen Polo (6R) 2009-2017<br>
+<br>
+Onderdeelnummer: 6R0809958S<br>
+<br>
+Referentienummer: O-260807-2739<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-volkswagen-polo-6r-2009-2017-6r0809958s/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2739-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2739-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2739-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>6R0809958S</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78242</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Mazda 6 (GJ) 2012-2018</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Mazda 6 (GJ) 2012-2018<br>
+<br>
+Markeringen: GHP9 LH, K7016<br>
+<br>
+Referentienummer: O-260807-2737<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-mazda-6-gj-2012-2018/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2737-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2737-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2737-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2737-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2737-05.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2737-06.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2737-07.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>8Y4825248</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Audi A3 (8Y) 2020-2024 – 8Y4825248</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Audi A3 (8Y) 2020-2024<br>
+<br>
+Onderdeelnummer: 8Y4825248<br>
+<br>
+Referentienummer: O-260807-2735<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, lichte gebruikssporen, compleet]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-audi-a3-8y-2020-2024-8y4825248/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2735-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2735-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2735-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>8Y4825248</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78230</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Volkswagen Polo 2009-2017</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Volkswagen Polo 2009-2017<br>
+<br>
+Referentienummer: O-260807-2734<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, geen OEM-nummer leesbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-volkswagen-polo-2009-2017/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2734-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2734-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2734-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>GHP9503</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Mazda 6 (GJ) 2012-2018 – GHP9503</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Mazda 6 (GJ) 2012-2018<br>
+<br>
+Onderdeelnummer: GHP9503<br>
+<br>
+Overige nummers: K2443<br>
+<br>
+Referentienummer: O-260807-2732<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, twee ronde afdekkapjes aanwezig, geen scheuren gezien]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-mazda-6-gj-2012-2018-ghp9503/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2732-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2732-02.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>GHP9503</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78216</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper onderplaat / luchtgeleider voor Mercedes Benz C-Klasse (W204) 2007-2014</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper onderplaat / luchtgeleider voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Referentienummer: O-260807-2729<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, ribbels/luchtgeleiders intact, geen leesbaar onderdeelnummer op dit exemplaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-onderplaat-luchtgeleider-voor-mercedes-benz-c-klasse-w204-2007-2014/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2729-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2729-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2729-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2046902830</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper onderplaat / luchtgeleider voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2046902830</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper onderplaat / luchtgeleider voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2046902830<br>
+<br>
+Overige nummers: ZBA 204 690 28 30, 204 698 12 30, BBP 1576.02<br>
+<br>
+Referentienummer: O-260807-2728<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, ribbels/luchtgeleiders intact, geen zichtbare breuken]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-onderplaat-luchtgeleider-voor-mercedes-benz-c-klasse-w204-2007-2014-a2046902830/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>6000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2728-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2728-02.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2046902830</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2046900230</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper onderplaat / luchtgeleider voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2046900230</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper onderplaat / luchtgeleider voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2046900230<br>
+<br>
+Overige nummers: 204 690 02 30, 204 698 12 30, BBP 1575.02<br>
+<br>
+Referentienummer: O-260807-2727<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, ribbels/luchtgeleiders intact, geen zichtbare breuken]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-onderplaat-luchtgeleider-voor-mercedes-benz-c-klasse-w204-2007-2014-a2046900230/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>6000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2727-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2727-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2727-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2046900230</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>95604506</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding voor voor Opel – 95604506</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Opel<br>
+<br>
+Onderdeelnummer: 95604506<br>
+<br>
+Referentienummer: O-260807-2725<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vilt/kunststof voorwielkastbekleding, redelijke staat]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-opel-95604506/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2725-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2725-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2725-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>95604506</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>95199788</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding achter voor Opel – 95199788</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding achter voor Opel<br>
+<br>
+Onderdeelnummer: 95199788<br>
+<br>
+Referentienummer: O-260807-2721<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vilt/kunststof achterwielkastbekleding, vervuild/modderig, gedeeltelijk met zwarte tape/folie afgeplakt]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-achter-voor-opel-95199788/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2721-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2721-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2721-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2721-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>95199788</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>868131P500</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastbekleding linksvoor voor Kia – 868131P500</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastbekleding linksvoor voor Kia<br>
+<br>
+Onderdeelnummer: 868131P500<br>
+<br>
+Referentienummer: O-260807-2716<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, kunststof wielkastbekleding voor linksvoor, vilt gedeeltelijk aanwezig, gebruikssporen]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-linksvoor-voor-kia-868131p500/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2716-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2716-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2716-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>868131P500</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2046905930</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper onderplaat / luchtgeleider voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2046905930</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper onderplaat / luchtgeleider voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2046905930<br>
+<br>
+Overige nummers: BBP 1575.05<br>
+<br>
+Referentienummer: O-260807-2715<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, vuil, ribbels/luchtgeleiders intact, 'R' (rechts) gemarkeerd]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-onderplaat-luchtgeleider-voor-mercedes-benz-c-klasse-w204-2007-2014-a2046905930/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>6000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2715-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2715-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2715-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2046905930</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>13248790</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte motorsteun beugel voor Opel – 13248790</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte motorsteun beugel voor Opel<br>
+<br>
+Onderdeelnummer: 13248790<br>
+<br>
+Overige nummers: 46344403<br>
+<br>
+Referentienummer: O-260807-2710<br>
+<br>
+Staat: gebruikt, gegoten aluminium beugel, oppervlakkig vuil/corrosie, geen zichtbare breuken]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-motorsteun-beugel-voor-opel-13248790/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2710-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2710-02.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>13248790</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>55578921</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte startmotor voor Fiat – 55578921</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte startmotor voor Fiat<br>
+<br>
+Onderdeelnummer: 55578921<br>
+<br>
+Referentienummer: O-260807-2708<br>
+<br>
+Staat: gebruikt, behuizing vervuild en oppervlakkig gecorrodeerd, gele markeerverf aanwezig, werking niet getest]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-startmotor-voor-fiat-55578921/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2708-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2708-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2708-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>55578921</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>06J115630K</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte turbo olieleiding met beugel voor Volkswagen 2004-2013 – 06J115630K</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte turbo olieleiding met beugel voor Volkswagen 2004-2013<br>
+<br>
+Onderdeelnummer: 06J115630K<br>
+<br>
+Referentienummer: O-260807-2707<br>
+<br>
+Staat: gebruikt, compleet met metalen bevestigingsbeugel en ringkoppeling, geen zichtbare schade]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-turbo-olieleiding-met-beugel-voor-volkswagen-2004-2013-06j115630k/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2707-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2707-02.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>06J115630K</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78152</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voordeur buitengreep voor Mercedes Benz C-Klasse (W204) 2007-2014</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voordeur buitengreep voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Referentienummer: O-260807-2650<br>
+<br>
+Kleur: zilver/chroom<br>
+<br>
+Staat: gebruikt, vergelijkbare staat als vermoedelijk paarstuk O-260807-2649]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voordeur-buitengreep-voor-mercedes-benz-c-klasse-w204-2007-2014/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2650-01.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zilver/chroom</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2047600270</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voordeur buitengreep voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2047600270</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voordeur buitengreep voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
+<br>
+Onderdeelnummer: A2047600270<br>
+<br>
+Referentienummer: O-260807-2649<br>
+<br>
+Kleur: zilver/chroom<br>
+<br>
+Staat: gebruikt, lichte gebruikssporen op de lak]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voordeur-buitengreep-voor-mercedes-benz-c-klasse-w204-2007-2014-a2047600270/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2649-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2649-02.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A2047600270</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zilver/chroom</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78133</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte spiegelvoet (buitenspiegel montagebasis) voor Ford</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte spiegelvoet (buitenspiegel montagebasis) voor Ford<br>
+<br>
+Referentienummer: O-260807-2644<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, stoffig, metalen bevestigingsbeugel aan zijkant zichtbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-spiegelvoet-buitenspiegel-montagebasis-voor-ford/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2644-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2644-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2644-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>806067663R</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voordeur buitengreep / portierslot-mechanisme voor Renault – 806067663R</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voordeur buitengreep / portierslot-mechanisme voor Renault<br>
+<br>
+Onderdeelnummer: 806067663R<br>
+<br>
+Referentienummer: O-260807-2642<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, compleet met veer, kabel en witte knop]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voordeur-buitengreep-portierslot-mechanisme-voor-renault-806067663r/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2642-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2642-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2642-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2642-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>806067663R</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78120</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte motorafdekking voor Opel Astra H / Zafira B / Vectra C (1.6-1.8 ECOTEC) 2004-2014</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte motorafdekking voor Opel Astra H / Zafira B / Vectra C (1.6-1.8 ECOTEC) 2004-2014<br>
+<br>
+Referentienummer: O-260807-2640<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, geen zichtbare scheuren, bevestigingsclips aanwezig]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-motorafdekking-voor-opel-astra-h-zafira-b-vectra-c-1-6-1-8-ecotec-2004-2014/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2640-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2640-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2640-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>865841W700</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte mistlamp grill voor rechts voor Kia Rio (UB) 2011-2017 – 865841W700</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte mistlamp grill voor rechts voor Kia Rio (UB) 2011-2017<br>
+<br>
+Onderdeelnummer: 865841W700<br>
+<br>
+Referentienummer: O-260807-2639<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, geen zichtbare scheuren]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-mistlamp-grill-voor-rechts-voor-kia-rio-ub-2011-2017-865841w700/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2639-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2639-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2639-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2639-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>865841W700</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>3Q0839015AKC</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte achterdeurslot voor Volkswagen – 3Q0839015AKC</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterdeurslot voor Volkswagen<br>
+<br>
+Onderdeelnummer: 3Q0839015AKC<br>
+<br>
+Referentienummer: O-260807-2638<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, compleet met elektrische vergrendelmotor, trekkabel en stekker]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterdeurslot-voor-volkswagen-3q0839015akc/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2638-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2638-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2638-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2638-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2638-05.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>3Q0839015AKC</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-78099</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wieldop voor Mercedes Benz Sprinter / Vito (o.i.d., gedeeld wieldop-type)</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wieldop voor Mercedes Benz Sprinter / Vito (o.i.d., gedeeld wieldop-type)<br>
+<br>
+Referentienummer: O-260807-2636<br>
+<br>
+Kleur: zwart<br>
+<br>
+Staat: gebruikt, stoffig/vuil, bevestigingsclips rondom intact]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wieldop-voor-mercedes-benz-sprinter-vito-o-i-d-gedeeld-wieldop-type/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2636-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2636-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2636-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2636-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260807-2636-05.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>5Q0959812D</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte raammechanisme motor voor Volkswagen Golf Sportsvan / Touran III (5Q) 2014-2022 – 5Q0959812D</admarkt:title>
