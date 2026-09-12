@@ -3931,6 +3931,54 @@ Staat: gebruikt, vuil/vervuild, pomp en slang met stekker compleet aanwezig, gee
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>PL-79223</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte grille sierlijst met logo chroom voor Hyundai i40 2011-2019</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte grille sierlijst met logo chroom voor Hyundai i40 2011-2019<br>
+<br>
+Referentienummer: N-260804-2124<br>
+<br>
+Kleur: chroom / grijs (chrome)<br>
+<br>
+Staat: gebruikt, chromen grille sierlijst met Hyundai logo in nette staat]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-grille-sierlijst-met-logo-chroom-voor-hyundai-i40-2011-2019-2/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/n-260804-2124-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/n-260804-2124-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/n-260804-2124-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>chroom / grijs (chrome)</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>GX7317A882AB</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper/koplamp steunbeugel voor Jaguar XE / XF (X760/X260) 2015-2020 – GX7317A882AB</admarkt:title>
@@ -4091,6 +4139,56 @@ Staat: gebruikt, compleet met dop en slangen, geen zichtbare scheuren]]></admark
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
         <admarkt:attributeValue>naturel/wit</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-79174</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte mistlampgrille voor voor Seat Ibiza 2002-2009</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte mistlampgrille voor voor Seat Ibiza 2002-2009<br>
+<br>
+Markeringen: 6Q0 853 ?43 ZAB (wazige foto, cijfers onzeker), ?01 853 ?613<br>
+<br>
+Referentienummer: O-260808-2918<br>
+<br>
+Kleur: zwart met chroomrand<br>
+<br>
+Staat: gebruikt, dof/mat chroom, gebruikssporen zichtbaar]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-mistlampgrille-voor-voor-seat-ibiza-2002-2009/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2918-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2918-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2918-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>color</admarkt:attributeName>
+        <admarkt:attributeValue>zwart met chroomrand</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
@@ -57913,6 +58011,54 @@ Kleur: grijs kunststof (ongespoten / textured grey plastic)]]></admarkt:descript
     <admarkt:mpn>7H0807417</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>PL-72506</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper (compleet met grille en sterembleem) voor Mercedes-Benz Vito (W447) 2014-present – A4478850425</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper (compleet met grille en sterembleem) voor Mercedes-Benz Vito (W447) 2014-present<br>
+<br>
+Onderdeelnummer: A4478850425<br>
+<br>
+Referentienummer: L-250819-0262<br>
+<br>
+Kleur: zwart kunststof (ongespoten / textured black plastic)]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-compleet-met-grille-en-sterembleem-voor-mercedes-benz-vito-w447-2014-present-a4478850425-2/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>20000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0262-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0262-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0262-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0262-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0262-05.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0262-06.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0262-07.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0262-08-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0262-09-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>GHP950031</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper (compleet met grille, logo en mistlampen) voor Mazda 6 (GJ / GL) 2012-2018 – GHP950031</admarkt:title>
@@ -58055,6 +58201,55 @@ Kleur: blauw metallic (Portimao Blauw / Tanzanite Blue metallic)]]></admarkt:des
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>51127462274</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>PL-72511</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper (bovendeel / frame) voor Volkswagen ID.3 (E11) 2020-present – 10A807221</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper (bovendeel / frame) voor Volkswagen ID.3 (E11) 2020-present<br>
+<br>
+Onderdeelnummer: 10A807221<br>
+<br>
+Referentienummer: M-250820-0267<br>
+<br>
+Kleur: wit metallic (Gletscherweiss metallic / Glacier White / LB9A / 2Y2Y)]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-bovendeel-frame-voor-volkswagen-id-3-e11-2020-present-10a807221/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>17000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/m-250820-0267-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/m-250820-0267-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/m-250820-0267-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/m-250820-0267-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/m-250820-0267-05.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/m-250820-0267-06.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/m-250820-0267-07-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/m-250820-0267-08-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/m-250820-0267-09.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/m-250820-0267-10.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>08014495441</admarkt:vendorId>
@@ -59139,6 +59334,54 @@ Kleur: zwart metallic (Black Magic pearl / LF9R / 1Z1Z)]]></admarkt:description>
     <admarkt:mpn>57A807221</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>PL-72495</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper voor Volkswagen ID.3 (E11) 2019-present – 10A807221</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper voor Volkswagen ID.3 (E11) 2019-present<br>
+<br>
+Onderdeelnummer: 10A807221<br>
+<br>
+Referentienummer: L-250819-0251<br>
+<br>
+Kleur: donkergrijs metallic (Mangangrau metallic / LC7K / Manganese Grey)]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-voor-volkswagen-id-3-e11-2019-present-10a807221/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>17000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0251-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0251-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0251-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0251-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0251-05.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0251-06.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0251-07-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0251-08-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0251-09.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>PL-72496</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper (S-Line / S3) voor Audi A3 / S3 (8Y) 2020-present – 8Y0807437F</admarkt:title>
@@ -59281,6 +59524,55 @@ Kleur: grijs metallic (Galactic Grey metallic / YG7 / Dark Knight / VR6)]]></adm
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:mpn>86511J9000</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A4478850425</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper (compleet met grille en sterembleem) voor Mercedes-Benz Vito (W447) 2014-present – A4478850425</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper (compleet met grille en sterembleem) voor Mercedes-Benz Vito (W447) 2014-present<br>
+<br>
+Onderdeelnummer: A4478850425<br>
+<br>
+Referentienummer: L-250819-0255<br>
+<br>
+Kleur: zwart kunststof (ongespoten / textured black plastic)]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-compleet-met-grille-en-sterembleem-voor-mercedes-benz-vito-w447-2014-present-a4478850425/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>20000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0255-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0255-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0255-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0255-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0255-05.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0255-06.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0255-07.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0255-08-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos-resized/l-250819-0255-09-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>A4478850425</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>PL-72500</admarkt:vendorId>
@@ -85778,6 +86070,47 @@ Referentie: U-251015-1171]]></admarkt:description>
     <admarkt:mpn>A1726800235</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>6410D336</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte Bumper Bracket voor Mitsubishi Outlander 2014-2020 – 6410D336</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte Bumper Bracket voor Mitsubishi Outlander 2014-2020<br>
+<br>
+Onderdeelnummer: 6410D336<br>
+<br>
+Referentienummer: U-251015-1170]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-bumper-mitsubishi-outlander-2013-2021-6410b432/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/main-6410B432.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-6410B432-.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-6410B432-1-1.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:mpn>6410D336</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>A2538853600</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte bumper Mercedes-Benz GLC-Class 2015-2019 – A2538853600</admarkt:title>
@@ -91180,12 +91513,12 @@ Referentie: P-250915-0884]]></admarkt:description>
     <admarkt:mpn>A1728105016</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>KD5169181E-2</admarkt:vendorId>
+    <admarkt:vendorId>PL-44400</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte buitenspiegel rechts Mazda CX-5 2017-2021 – KD5169181E</admarkt:title>
+    <admarkt:title>Gebruikte buitenspiegel rechts Mazda CX-5 2017-2021</admarkt:title>
     <admarkt:description><![CDATA[Rode buitenspiegel (behuizing) met zwarte montagevoet. De rode behuizing heeft lichte gebruikssporen.<br>
 <br>
-onderdeelnummer: KD5169181E<br>
+onderdeelnummer: niet vermeld (op de spiegel staat geen Mazda onderdeelnummer)<br>
 Referentie: P-250915-0882]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-buitenspiegel-mazda-2/</admarkt:url>
@@ -91220,7 +91553,6 @@ Referentie: P-250915-0882]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>KD5169181E-2</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>KD5169181H</admarkt:vendorId>
@@ -91313,14 +91645,14 @@ Referentie: P-250915-0880]]></admarkt:description>
     <admarkt:mpn>IE4624093</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>KD5169181E</admarkt:vendorId>
+    <admarkt:vendorId>PL-44377</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte buitenspiegel rechts Mazda CX-5 2017-2021 – KD5169181E</admarkt:title>
+    <admarkt:title>Gebruikte buitenspiegel rechts Mazda CX-5 2017-2021</admarkt:title>
     <admarkt:description><![CDATA[Gebruikte buitenspiegel voor Mazda CX-5. Rode spiegelbehuizing met zwarte voet en zwarte elektrische draad. Lichte krassen zichtbaar op het rood gelakte oppervlak.<br>
 <br>
  <br>
 <br>
-onderdeelnummer: KD5169181E<br>
+onderdeelnummer: niet vermeld (op de spiegel staat geen Mazda onderdeelnummer)<br>
 Referentie: P-250915-0879]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-buitenspiegel-mazda-cx-5-2017-2021-kd5169181e/</admarkt:url>
@@ -91355,7 +91687,6 @@ Referentie: P-250915-0879]]></admarkt:description>
       </admarkt:shippingOption>
     </admarkt:shippingOptions>
     <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>KD5169181E</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>2308812</admarkt:vendorId>
@@ -110763,7 +111094,7 @@ Referentienummer: A-250812-0014]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-hyundai-ix20-achterbumper-2011-2015-origineel-86611-1k000/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>15000</admarkt:price>
+    <admarkt:price>25000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -110951,6 +111282,115 @@ Referentie: T-250911-0745]]></admarkt:description>
     <admarkt:mpn>63217162299</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>13242814</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte achterlicht voor Opel Corsa 2006-2014 – 13242814</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterlicht voor Opel Corsa 2006-2014<br>
+<br>
+Onderdeelnummer: 13242814<br>
+<br>
+Overige nummers: 89075559 A, 89075559A, 89038950<br>
+<br>
+Referentienummer: T-250911-0776<br>
+<br>
+Kleur: rood donker (dark red)<br>
+<br>
+Staat: gebruikt, achterlicht rechts in goede staat, lichte gebruikssporen]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterlicht-voor-opel-corsa-2006-2014-13242814/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1924-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1926-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1925-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1927-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/t-250911-0776-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/t-250911-0776-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/t-250911-0776-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/t-250911-0776-04.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Opel Corsa</admarkt:brand>
+    <admarkt:mpn>13242814</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>2751308</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte achterlicht voor Mini Cooper Mini 2006-2013 – 2751308</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterlicht voor Mini Cooper Mini 2006-2013<br>
+<br>
+Onderdeelnummer: 2751308<br>
+<br>
+Overige nummers: 2753626, 63212751308, 63212753626, 03.372.00<br>
+<br>
+Referentienummer: T-250912-0800<br>
+<br>
+Kleur: rood / wit (red / white)<br>
+<br>
+Staat: gebruikt, achterlicht rechts in goede staat, lichte gebruikssporen]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterlicht-voor-mini-cooper-mini-2006-2013-2751308/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>2500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1896-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1898-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1897-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1899-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/t-250912-0800-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/t-250912-0800-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/t-250912-0800-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/t-250912-0800-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/t-250912-0800-05.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/t-250912-0800-06.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/t-250912-0800-07.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Mini Cooper</admarkt:brand>
+    <admarkt:mpn>2751308</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>924012y5</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Achterlicht Links Buiten voor HYUNDAI ix35 2014</admarkt:title>
@@ -110993,6 +111433,234 @@ Referentie: T-250911-0732]]></admarkt:description>
     <admarkt:condition>used</admarkt:condition>
     <admarkt:brand>HYUNDAI ix35</admarkt:brand>
     <admarkt:mpn>924012y5</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>13286000</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorgrille voor Opel Astra 2009-2015 – 13286000</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorgrille voor Opel Astra 2009-2015<br>
+<br>
+Onderdeelnummer: 13286000<br>
+<br>
+Referentienummer: O-250906-0536<br>
+<br>
+Kleur: zwart met chroom (black with chrome)<br>
+<br>
+Staat: gebruikt, voorgrille met chromen sierlijst en Vauxhall embleem, alle bevestigingen heel]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorgrille-voor-opel-astra-2009-2015-13286000/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1782-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1784-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1783-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1785-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0536-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0536-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0536-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0536-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0536-05.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Opel Astra</admarkt:brand>
+    <admarkt:mpn>13286000</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>kleur</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>95391786</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorgrille voor Opel Mokka 2012-2016 – 95391786</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorgrille voor Opel Mokka 2012-2016<br>
+<br>
+Onderdeelnummer: 95391786<br>
+<br>
+Referentienummer: P-250907-0548<br>
+<br>
+Kleur: zwart met chroom (black with chrome)<br>
+<br>
+Staat: gebruikt, voorgrille met chromen omlijsting en Vauxhall logo, nette staat]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorgrille-voor-opel-mokka-2012-2016-95391786/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>5500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1758-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1759-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1760-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1761-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0548-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0548-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0548-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0548-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0548-05.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Opel Mokka</admarkt:brand>
+    <admarkt:mpn>95391786</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>kleur</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>87743R2100</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte wielkastlijst linksachter voor Hyundai Tucson (NX4) 2020-2024 – 87743R2100</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte wielkastlijst linksachter voor Hyundai Tucson (NX4) 2020-2024<br>
+<br>
+Onderdeelnummer: 87743R2100<br>
+<br>
+Overige nummers: PW87743R2100<br>
+<br>
+Referentienummer: X-260802-1898<br>
+<br>
+Kleur: zwart (hoogglans)<br>
+<br>
+Staat: gebruikt, hoogglans zwart (N-Line / GT), nette staat, montageclips intact]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastlijst-linksachter-voor-hyundai-tucson-nx4-2020-2024-87743r2100/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1743-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1745-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1744-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1746-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260802-1898-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260802-1898-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260802-1898-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Kia Sportage</admarkt:brand>
+    <admarkt:mpn>87743R2100</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>kleur</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>86594at000</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper hoekstuk sierlijst rechtsvoor voor Kia Niro (SG2) 2022-2025 – 86594AT000</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper hoekstuk sierlijst rechtsvoor voor Kia Niro (SG2) 2022-2025<br>
+<br>
+Onderdeelnummer: 86594AT000<br>
+<br>
+Referentienummer: X-260802-1882<br>
+<br>
+Kleur: grijs metallic<br>
+<br>
+Staat: gebruikt, origineel Kia, nette lak in grijs metallic met minimale gebruikssporen, bevestigingslippen intact]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-hoekstuk-sierlijst-rechtsvoor-voor-kia-niro-sg2-2022-2025-86594at000/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>3500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1725-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1726-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260802-1882-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260802-1882-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260802-1882-03.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Kia niro</admarkt:brand>
+    <admarkt:mpn>86594at000</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>kleur</admarkt:attributeName>
+        <admarkt:attributeValue>grijs</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>A4478801403</admarkt:vendorId>
@@ -111664,6 +112332,132 @@ Staat: gebruikt, achterbumper diffuser onderspoiler in goede staat]]></admarkt:d
       <admarkt:attribute>
         <admarkt:attributeName>kleur</admarkt:attributeName>
         <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A2466901340</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte zijskirt / dorpellijst voor Mercedes Benz B-Klasse 2011-2018 – A2466901340</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte zijskirt / dorpellijst voor Mercedes Benz B-Klasse 2011-2018<br>
+<br>
+Onderdeelnummer: A2466901340<br>
+<br>
+Overige nummers: 93 323<br>
+<br>
+Referentienummer: P-250907-0599<br>
+<br>
+Kleur: donkergrijs metallic (dark grey metallic)<br>
+<br>
+Staat: gebruikt, dorpellijst links in goede staat, lichte gebruikssporen]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-zijskirt-dorpellijst-voor-mercedes-benz-b-klasse-2011-2018-a2466901340/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>6500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1338-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0599-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0599-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0599-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0599-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0599-05.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0599-06.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0599-07.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Mercedes A Klasse</admarkt:brand>
+    <admarkt:mpn>A2466901340</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>kleur</admarkt:attributeName>
+        <admarkt:attributeValue>grijs</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>A1776904601</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte zijskirt / dorpellijst voor Mercedes Benz A-Klasse 2018-2025 – A1776904601</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte zijskirt / dorpellijst voor Mercedes Benz A-Klasse 2018-2025<br>
+<br>
+Onderdeelnummer: A1776904601<br>
+<br>
+Overige nummers: A 177 690 44 01, A1776904401<br>
+<br>
+Referentienummer: P-250909-0618<br>
+<br>
+Kleur: zilver metallic (silver metallic)<br>
+<br>
+Staat: gebruikt, AMG dorpellijst rechts in goede staat, lichte krasjes]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-zijskirt-dorpellijst-voor-mercedes-benz-a-klasse-2018-2025-a1776904601/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>12000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1334-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1336-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1335-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/12/IMG_1337-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-05.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-06.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-07.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-08.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-09.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-10.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-11.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250909-0618-12.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>Mercedes A Klasse</admarkt:brand>
+    <admarkt:mpn>A1776904601</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>kleur</admarkt:attributeName>
+        <admarkt:attributeValue>grijs</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
@@ -112406,6 +113200,67 @@ Referentienummer: i-250818-0172]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>39172213</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper steun voor Opel Corsa 2019-2025 – 39172213</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper steun voor Opel Corsa 2019-2025<br>
+<br>
+Onderdeelnummer: 39172213<br>
+<br>
+Overige nummers: 475 498 858, A009HJ 01<br>
+<br>
+Referentienummer: O-250906-0523<br>
+<br>
+Kleur: zwart kunststof (black plastic)<br>
+<br>
+Staat: gebruikt, kunststof bumpersteun met alle montagepunten heel]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-steun-voor-opel-corsa-2019-2025-39172213/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>6000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0592-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0593-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0523-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0523-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0523-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0523-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0523-05.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0523-06.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0523-07.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-250906-0523-08.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>opel</admarkt:brand>
+    <admarkt:mpn>39172213</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>kleur</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>9814607277</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte Achterbumperdeel Links  voor peugeot 5008 2020</admarkt:title>
@@ -112454,6 +113309,116 @@ Referentie: M-250915-0853]]></admarkt:description>
       <admarkt:attribute>
         <admarkt:attributeName>kleur</admarkt:attributeName>
         <admarkt:attributeValue>groen</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>86586g7500</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorbumper lip voor Hyundai Ioniq 2019-2022 – 86586G7500</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorbumper lip voor Hyundai Ioniq 2019-2022<br>
+<br>
+Onderdeelnummer: 86586G7500<br>
+<br>
+Referentienummer: P-250907-0541<br>
+<br>
+Kleur: zwart kunststof (black plastic)<br>
+<br>
+Staat: gebruikt, voorbumper sierlijst moulding midden in nette staat zonder scheuren]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-lip-voor-hyundai-ioniq-2019-2022-86586g7500/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>7500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0562-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0563-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0541-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0541-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0541-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0541-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0541-05.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0541-06.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250907-0541-07.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>HYUNDAI</admarkt:brand>
+    <admarkt:mpn>86586g7500</admarkt:mpn>
+  </admarkt:ad>
+  <admarkt:ad>
+    <admarkt:vendorId>622544919R</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte voorgrille voor Renault Clio 2012-2019 – 622544919R</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte voorgrille voor Renault Clio 2012-2019<br>
+<br>
+Onderdeelnummer: 622544919R<br>
+<br>
+Referentienummer: P-250908-0614<br>
+<br>
+Kleur: zwart kunststof (black plastic)<br>
+<br>
+Staat: gebruikt, honingraat bumperrooster onder in goede staat]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-voorgrille-voor-renault-clio-2012-2019-622544919r-4/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>4000</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/09/IMG_0519-scaled.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250908-0614-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250908-0614-02.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250908-0614-03.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250908-0614-04.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250908-0614-05.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250908-0614-06.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250908-0614-07.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/p-250908-0614-08.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>RENAULT TRAFIC III</admarkt:brand>
+    <admarkt:mpn>622544919R</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>kleur</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
