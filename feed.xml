@@ -50722,60 +50722,6 @@ Staat: gebruikt, tellerklok instrumentenpaneel in nette werkende staat]]></admar
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>A2045454501</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte zekeringkast set voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2045454501</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte zekeringkast set voor Mercedes Benz C-Klasse (W204) 2007-2014<br>
-<br>
-Onderdeelnummer: A2045454501<br>
-<br>
-Overige nummers: A 2045454901, F005 V0 0756<br>
-<br>
-Referentienummer: U-250925-1014<br>
-<br>
-Kleur: zwart kunststof (black plastic)<br>
-<br>
-Staat: gebruikt, complete SAM zekeringkast met zekeringen, relais en aansluitstekkers in nette staat]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-zekeringkast-set-voor-mercedes-benz-c-klasse-w204-2007-2014-a2045454501/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>15000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/u-250925-1014-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/u-250925-1014-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/u-250925-1014-03.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/u-250925-1014-04.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>A2045454501</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>zwart kunststof (black plastic)</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>A2045403348</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte instrumentenpaneel (tellerklok) voor Mercedes Benz C-Klasse (W204) 2007-2011 – A2045403348</admarkt:title>
