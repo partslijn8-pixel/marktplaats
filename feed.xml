@@ -110109,58 +110109,6 @@ Referentienummer: i-250818-0171
     <admarkt:mpn>11A807532 </admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>L1TB-17906-A1</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Ford Puma MK2 2020 achterbumper L1TB-17906-A1 gebruikt</admarkt:title>
-    <admarkt:description><![CDATA[Ford Puma MK2 achterbumper  gebruikt<br>
-<br>
-L1TB-17906-A1<br>
-<br>
-L1TB-17906-B1<br>
-<br>
-Onderdeelnummer: L1TB-17906-A1<br>
-<br>
-Referentienummer: H-250818-0167]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/ford-puma-mk2-achterbumper-l1tb-17906-a1-gebruikt/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>12500</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01770.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01770.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01771.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01772.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01773.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01774.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01775.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01776.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2025/09/DSC01777.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:brand>Ford</admarkt:brand>
-    <admarkt:mpn>L1TB-17906-A1</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>15857712</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>BMW 5 Serie 2015 Achterbumper 15857712 - Gebruikt</admarkt:title>
