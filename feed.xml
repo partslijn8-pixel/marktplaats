@@ -31764,60 +31764,6 @@ Staat: used]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>A1778855700</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper spons voor Mercedes Benz A-Klasse (W177) / CLA (C118) 2018-2023 – A1778855700</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper spons voor Mercedes Benz A-Klasse (W177) / CLA (C118) 2018-2023<br>
-<br>
-Onderdeelnummer: A1778855700<br>
-<br>
-Referentienummer: N-260804-2138<br>
-<br>
-Kleur: zwart (black)<br>
-<br>
-Staat: used]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-spons-voor-mercedes-benz-a-klasse-w177-cla-c118-2018-2023-a1778855700/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>3000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/n-260804-2138-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/n-260804-2138-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/n-260804-2138-03.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/n-260804-2138-04.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/n-260804-2138-05.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/n-260804-2138-06.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>A1778855700</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>zwart (black)</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>PL-76340</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper lip voor Volkswagen 2015-2022</admarkt:title>
