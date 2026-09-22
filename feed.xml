@@ -9854,59 +9854,6 @@ Staat: gebruikt, vuil, kunststof montagebalk met meerdere clipbevestigingen comp
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>A1676901608</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte wielkastbekleding voor voor Mercedes Benz GLE (W167) 2019-2023 – A1676901608</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte wielkastbekleding voor voor Mercedes Benz GLE (W167) 2019-2023<br>
-<br>
-Onderdeelnummer: A1676901608<br>
-<br>
-Referentienummer: O-260808-2805<br>
-<br>
-Kleur: zwart<br>
-<br>
-Staat: gebruikt, vuil, kunststof met geintegreerd remkoelkanaal compleet, geen scheuren gezien]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-wielkastbekleding-voor-voor-mercedes-benz-gle-w167-2019-2023-a1676901608/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>7000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2805-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2805-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2805-03.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2805-04.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260808-2805-05.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>A1676901608</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>zwart</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>2046906130</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte wielkastbekleding achterlinks voor Mercedes Benz C-Klasse (W204) 2007-2014 – 2046906130</admarkt:title>
@@ -37472,7 +37419,7 @@ Staat: gebruikt, originele behuizing met sticker Hella / Mercedes intact]]></adm
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-trekhaak-regelmodule-voor-mercedes-benz-a-klasse-w169-b-klasse-w245-2004-2012-a1695455632/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>14000</admarkt:price>
+    <admarkt:price>18000</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
