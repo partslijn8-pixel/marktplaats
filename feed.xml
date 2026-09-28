@@ -38297,59 +38297,6 @@ Staat: gebruikt, elektrisch verstelbaar/inklapbaar met knipperlicht en kabelboom
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>51167074235</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte spiegelkap links zilver voor BMW 3 Serie (E90 / E91) / 1 Serie (E81 / E87) 2004-2009 – 51167074235</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte spiegelkap links zilver voor BMW 3 Serie (E90 / E91) / 1 Serie (E81 / E87) 2004-2009<br>
-<br>
-Onderdeelnummer: 51167074235<br>
-<br>
-Overige nummers: 51167158439, A3335435, A3335485<br>
-<br>
-Referentienummer: X-260802-1951<br>
-<br>
-Kleur: zilver<br>
-<br>
-Staat: gebruikt, zilver/grijs metallic lak, bevestigingsklemmen aanwezig en heel]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-spiegelkap-links-zilver-voor-bmw-3-serie-e90-e91-1-serie-e81-e87-2004-2009-51167074235/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>4000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260802-1951-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260802-1951-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260802-1951-03.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>51167074235</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>zilver</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>735412289</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte spiegelkap links chroom voor Fiat 500 2007-2024 – 735412289</admarkt:title>
