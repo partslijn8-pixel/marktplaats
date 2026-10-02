@@ -80971,49 +80971,6 @@ Referentie: M-250904-0432]]></admarkt:description>
     <admarkt:condition>used</admarkt:condition>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>GHP952211A</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikt Linksvoor Spatbord Mazda 6 2013 - GHP952211A</admarkt:title>
-    <admarkt:description><![CDATA[Rood gespoten spatbord met een gladde, glanzende afwerking.<br>
-<br>
-onderdeelnummer: GHP952211A<br>
-Referentie: M-250904-0431]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikt-spatbord-mazda-6-2012-2018-2/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>15000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/main-M-250904-0431.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250904-0431-.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250904-0431-1-1.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250904-0431-1-2.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250904-0431-1-3-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/01/gallery-M-250904-0431-1-4.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>GHP952211A</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>GHP952111A-</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikt Rechtsvoor Spatbord Mazda 6 2013 - GHP952111A</admarkt:title>
