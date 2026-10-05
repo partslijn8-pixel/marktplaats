@@ -54055,59 +54055,6 @@ Staat: gebruikt, parkeersensor sonar regeleenheid met smart key module in houder
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>A2049003803</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte klimaatregelingsunit voor Mercedes Benz C-Klasse (W204) 2011-2014 – A2049003803</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte klimaatregelingsunit voor Mercedes Benz C-Klasse (W204) 2011-2014<br>
-<br>
-Onderdeelnummer: A2049003803<br>
-<br>
-Overige nummers: A 2046803608, A2046803608, A2C53370599<br>
-<br>
-Referentienummer: U-250923-0980<br>
-<br>
-Kleur: zwart kunststof (black plastic)<br>
-<br>
-Staat: gebruikt, bedieningspaneel verwarming en airconditioning in nette staat]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-klimaatregelingsunit-voor-mercedes-benz-c-klasse-w204-2011-2014-a2049003803/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>10000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/u-250923-0980-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/u-250923-0980-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/u-250923-0980-03.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>A2049003803</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>zwart kunststof (black plastic)</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>391502A200</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte motorregelapparaat (ecu) voor Hyundai i30 / Cee'd 2012-2018 – 391502A200</admarkt:title>
