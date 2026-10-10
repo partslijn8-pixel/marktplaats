@@ -114659,6 +114659,58 @@ Staat: gebruikt, onderste bumpergrille honingraatprofiel, onbeschadigd]]></admar
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
+    <admarkt:vendorId>51127294755</admarkt:vendorId>
+    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
+    <admarkt:title>Gebruikte achterbumper voor BMW X5 F15 (2016) 51127294755</admarkt:title>
+    <admarkt:description><![CDATA[Gebruikte achterbumper voor BMW X5 F15 (2016)<br>
+<br>
+Onderdeelnummer: 51127294755<br>
+<br>
+Referentienummer: i-250818-0172]]></admarkt:description>
+    <admarkt:categoryId>2922</admarkt:categoryId>
+    <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-voor-bmw2016/</admarkt:url>
+    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
+    <admarkt:price>12500</admarkt:price>
+    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
+    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
+    <admarkt:status>ACTIVE</admarkt:status>
+    <admarkt:media>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/DSC01805.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/DSC01805.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/DSC01806.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/DSC01807.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/DSC01808.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/DSC01809-rotated.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2024/11/DSC01810-rotated.jpg"/>
+    </admarkt:media>
+    <admarkt:budget>
+      <admarkt:cpc>6</admarkt:cpc>
+      <admarkt:autobid>false</admarkt:autobid>
+      <admarkt:totalBudget>5000</admarkt:totalBudget>
+      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
+    </admarkt:budget>
+    <admarkt:shippingOptions>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>SHIP</admarkt:shippingType>
+        <admarkt:cost>5000</admarkt:cost>
+        <admarkt:time>2d-5d</admarkt:time>
+      </admarkt:shippingOption>
+      <admarkt:shippingOption>
+        <admarkt:shippingType>PICKUP</admarkt:shippingType>
+        <admarkt:location>1704BM</admarkt:location>
+      </admarkt:shippingOption>
+    </admarkt:shippingOptions>
+    <admarkt:condition>used</admarkt:condition>
+    <admarkt:brand>bmw X5</admarkt:brand>
+    <admarkt:mpn>51127294755</admarkt:mpn>
+    <admarkt:attributes>
+      <admarkt:attribute>
+        <admarkt:attributeName>kleur</admarkt:attributeName>
+        <admarkt:attributeValue>zwart</admarkt:attributeValue>
+      </admarkt:attribute>
+    </admarkt:attributes>
+  </admarkt:ad>
+  <admarkt:ad>
     <admarkt:vendorId>39172213</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper steun voor Opel Corsa 2019-2025 – 39172213</admarkt:title>
