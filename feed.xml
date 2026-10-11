@@ -62406,60 +62406,6 @@ Kleur: zwart (ongespoten, structuur)]]></admarkt:description>
     </admarkt:attributes>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>DK8A50031</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte voorbumper voor Mazda CX-3 2015-2021 – DK8A50031</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte voorbumper voor Mazda CX-3 2015-2021<br>
-<br>
-Onderdeelnummer: DK8A50031<br>
-<br>
-Referentienummer: D-250813-0061<br>
-<br>
-Kleur: donkerblauw metallic]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-voorbumper-voor-mazda-cx-3-2015-2021-dk8a50031/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>27500</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250813-0081-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250813-0081-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250813-0081-03.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250813-0081-11.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250813-0081-04.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250813-0081-05.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250813-0081-06-rotated.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/o-250813-0081-07.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>DK8A50031</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>donkerblauw metallic</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>86510G5500</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper (onderste deel) voor Kia Niro 2021-2025 – 86510G5500</admarkt:title>
@@ -67945,7 +67891,8 @@ Kleur: grijs metallic (antraciet)]]></admarkt:description>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
     <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250817-0063-01.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/10/DSC00784-Small.jpg"/>
+      <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/10/DSC00784-Small.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250817-0063-02.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250817-0063-03.jpg"/>
       <admarkt:image url="https://partslijn.nl/wp-content/uploads/2026/08/d-250817-0063-04.jpg"/>
