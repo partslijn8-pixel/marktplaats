@@ -20030,57 +20030,6 @@ Staat: Gebruikt]]></admarkt:description>
     <admarkt:mpn>A0995002300</admarkt:mpn>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>A2125016482</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte koelvloeistofbuis voor Mercedes Benz E-Klasse (W212 / S212) 2009-2016 – A2125016482</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte koelvloeistofbuis voor Mercedes Benz E-Klasse (W212 / S212) 2009-2016<br>
-<br>
-Onderdeelnummer: A2125016482<br>
-<br>
-Referentienummer: O-260806-2401<br>
-<br>
-Kleur: zwart (black)<br>
-<br>
-Staat: Gebruikt]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-koelvloeistofbuis-voor-mercedes-benz-e-klasse-w212-s212-2009-2016-a2125016482/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>4000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260806-2401-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260806-2401-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/o-260806-2401-03.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>A2125016482</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>zwart (black)</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>A2048800730</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte voorbumper steun voor Mercedes Benz C-Klasse (W204) 2007-2014 – A2048800730</admarkt:title>
