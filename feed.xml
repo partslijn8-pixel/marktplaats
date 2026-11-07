@@ -35323,51 +35323,6 @@ Staat: used]]></admarkt:description>
     <admarkt:condition>used</admarkt:condition>
   </admarkt:ad>
   <admarkt:ad>
-    <admarkt:vendorId>813101P060</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title>Gebruikte deurslot mechaniek voor Kia Venga 2009-2019 – 813101P060</admarkt:title>
-    <admarkt:description><![CDATA[Gebruikte deurslot mechaniek voor Kia Venga 2009-2019<br>
-<br>
-Onderdeelnummer: 813101P060<br>
-<br>
-Overige nummers: JDG<br>
-<br>
-Referentienummer: X-260804-2028<br>
-<br>
-Staat: used]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-deurslot-mechaniek-voor-kia-venga-2009-2019-813101p060/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>5000</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260804-2028-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260804-2028-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/x-260804-2028-03.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>813101P060</admarkt:mpn>
-  </admarkt:ad>
-  <admarkt:ad>
     <admarkt:vendorId>AD3059P</admarkt:vendorId>
     <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
     <admarkt:title>Gebruikte deurslot mechaniek voor Kia Venga 2009-2019 – AD3059P</admarkt:title>
