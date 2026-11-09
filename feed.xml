@@ -31495,7 +31495,7 @@ Staat: used]]></admarkt:description>
     <admarkt:categoryId>2922</admarkt:categoryId>
     <admarkt:url>https://partslijn.nl/product/gebruikte-voorgrille-voor-bmw-3-serie-g20-g21-2019-2022-51138079742/</admarkt:url>
     <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>27500</admarkt:price>
+    <admarkt:price>17500</admarkt:price>
     <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
     <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
     <admarkt:status>ACTIVE</admarkt:status>
@@ -49245,62 +49245,6 @@ Staat: gebruikt]]></admarkt:description>
       <admarkt:attribute>
         <admarkt:attributeName>color</admarkt:attributeName>
         <admarkt:attributeValue>zwart metallic</admarkt:attributeValue>
-      </admarkt:attribute>
-    </admarkt:attributes>
-  </admarkt:ad>
-  <admarkt:ad>
-    <admarkt:vendorId>8889410231</admarkt:vendorId>
-    <admarkt:sellerName>Partslijn.nl</admarkt:sellerName>
-    <admarkt:title/>
-    <admarkt:description><![CDATA[Gebruikte achterbumper diffuser voor Lynk & Co 01 2020-2024<br>
-<br>
-Onderdeelnummer: 8889410231<br>
-<br>
-Referentienummer: B-251007-1072<br>
-<br>
-Kleur: Zwart<br>
-<br>
-Staat: gebruikt]]></admarkt:description>
-    <admarkt:categoryId>2922</admarkt:categoryId>
-    <admarkt:url>https://partslijn.nl/product/gebruikte-achterbumper-diffuser-voor-01-2020-2024-8889410231/</admarkt:url>
-    <admarkt:priceType>FIXED_PRICE</admarkt:priceType>
-    <admarkt:price>12500</admarkt:price>
-    <admarkt:phoneNumber>+31614318232</admarkt:phoneNumber>
-    <admarkt:emailAdvertiser>true</admarkt:emailAdvertiser>
-    <admarkt:status>ACTIVE</admarkt:status>
-    <admarkt:media>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/b-251007-1072-01.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/b-251007-1072-02.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/b-251007-1072-03.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/b-251007-1072-04.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/b-251007-1072-05.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/b-251007-1072-06.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/b-251007-1072-07.jpg"/>
-      <admarkt:image url="https://partslijn.nl/wp-content/uploads/parts-photos/b-251007-1072-08.jpg"/>
-    </admarkt:media>
-    <admarkt:budget>
-      <admarkt:cpc>6</admarkt:cpc>
-      <admarkt:autobid>false</admarkt:autobid>
-      <admarkt:totalBudget>5000</admarkt:totalBudget>
-      <admarkt:dailyBudget>1100</admarkt:dailyBudget>
-    </admarkt:budget>
-    <admarkt:shippingOptions>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>SHIP</admarkt:shippingType>
-        <admarkt:cost>5000</admarkt:cost>
-        <admarkt:time>2d-5d</admarkt:time>
-      </admarkt:shippingOption>
-      <admarkt:shippingOption>
-        <admarkt:shippingType>PICKUP</admarkt:shippingType>
-        <admarkt:location>1704BM</admarkt:location>
-      </admarkt:shippingOption>
-    </admarkt:shippingOptions>
-    <admarkt:condition>used</admarkt:condition>
-    <admarkt:mpn>8889410231</admarkt:mpn>
-    <admarkt:attributes>
-      <admarkt:attribute>
-        <admarkt:attributeName>color</admarkt:attributeName>
-        <admarkt:attributeValue>zwart</admarkt:attributeValue>
       </admarkt:attribute>
     </admarkt:attributes>
   </admarkt:ad>
